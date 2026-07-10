@@ -1,0 +1,30 @@
+{
+  "bundle_name": "Kkanttappiya_SESSION_BUNDLE_20260410_turn28.zip",
+  "turn": 28,
+  "summary": {
+    "audited_master_rows_actual": 1005,
+    "reference_grammar_version": "v1.24",
+    "reference_grammar_lines": 3418,
+    "high_frequency_lexicon_version": "v17",
+    "canon_facing_high_freq_derivations": 55,
+    "candidate_high_freq_derivations": 0,
+    "listed_exception_high_freq_derivations": 1,
+    "major_updates": [
+      "appendix L integrated",
+      "appendix M integrated",
+      "remaining required cleanup closed"
+    ]
+  },
+  "files": [
+    "APPENDIX_INDEX_AND_CROSS_REFERENCE_V1.md",
+    "APPENDIX_INTERNAL_REFERENCE_CONVENTIONS_V1.md",
+    "CHATLOG_FULL_20260410_CURRENT_THREAD_v27.md",
+    "CONTINUATION_BRIEF_20260410_UPDATED_v27.txt",
+    "HANDOFF_PACKET_COMPLETE_20260410_UPDATED_v27.md",
+    "HIGH_FREQUENCY_DERIVATIONAL_LEXICON_V17.csv",
+    "HIGH_FREQUENCY_DERIVATIONAL_LEXICON_V17.md",
+    "KKANTTAPPIYA_REFERENCE_GRAMMAR_V1_24.md",
+    "MASTER_CORPUS_V1_AUDITED_v13.csv",
+    "REMAINING_TASKS_CLOSEOUT_REPORT_20260410.md"
+  ]
+}

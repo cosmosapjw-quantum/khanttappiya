@@ -1,0 +1,25 @@
+깐따삐야어 프로젝트 handoff (2026-04-10 세션 turn28 반영).
+
+■ 현재 상태
+audited master 1005행 (MASTER_CORPUS_V1_AUDITED_v13.csv 유지).
+Reference Grammar v1.24.
+고빈도 파생어 사전 v17: canon-facing 55, candidate 0, listed-exception 1 (`보나눌`).
+
+■ 이번 턴 결론
+- 부록 L index / cross-reference를 grammar 본문에 실제 접속
+- 부록 M 내부 참조 규약 추가
+- 서론에 빠른 탐색 안내 추가
+- 남은 필수 정리 작업은 사실상 종료
+
+■ 이후는 선택적 확장
+1) HTML/출판형 링크 자동화
+2) glossary 확대
+3) 추가 서사 코퍼스
+4) 예문 번호 체계 부여
+
+■ 주의
+- `보나눌`은 listed-exception 유지
+- core canon-facing 아님
+- 예외는 허용하되 일반화 금지
+- 파생어 자연화 금지
+- probation 패턴 계속 금지

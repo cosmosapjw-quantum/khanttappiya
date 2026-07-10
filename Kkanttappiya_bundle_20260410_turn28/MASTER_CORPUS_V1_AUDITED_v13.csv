@@ -1,0 +1,1006 @@
+﻿id,category,subtype,korean_source,analytic_sentence,native_v2_1_sentence,design_notes
+P2-COG-001,cognition,know-prs,나는 그것을 안다,나 그것 느-알-닌-온.,나 그것 느알닌온.,experiencer=ABS(무표). 알다=stative → -닌- 필수
+P2-COG-002,cognition,know-neg,나는 그것을 모른다,나 그것 알-아 느-몰-닌-온.,나 그것 알아 느몰닌온.,NEG.AUX 몰- with STAT
+P2-COG-003,cognition,see-prs,나는 산을 본다,나 산 느-보-리-온.,나 산 느보련.,see=dynamic → -리- IPFV 선택적. experiencer=ABS
+P2-COG-004,cognition,see-past,나는 어제 그를 보았다,나 그 머-보-칼-온.,나 그 머보칸.,PST+TEL. experiencer=ABS
+P2-COG-005,cognition,hear-prs,나는 소리를 듣는다,나 소리 느-듣-리-온.,나 소리 느듣련.,듣다=dynamic perception. experiencer=ABS
+P2-COG-006,cognition,hear-hearsay,비가 온다고 듣는다,비 느-오-온=맬 나 느-듣-온.,비 느오온맬 나 느듣온.,hearsay + cognition verb
+P2-COG-007,cognition,feel-prs,나는 바람을 느낀다,나 바람 느-느끼-리-온.,나 바람 느느끼련.,느끼다=dynamic. experiencer=ABS
+P2-COG-008,cognition,know-topic,그 일은 안다,그 일=흔 나 느-알-닌-온.,그 일흔 나 느알닌온.,topic + cognition
+P2-COG-009,cognition,see-wh,누구를 보느냐,누구 느-보-리-연.,누구 느보리연.,WH.Q -연 첫 사용. 의문사=ABS
+P2-COG-010,cognition,know-yn,너는 그것을 아느냐,너 그것 느-알-닌-언.,너 그것 느알닌언.,Y/N.Q -언 첫 사용
+P2-EMO-001,emotion,like-prs,나는 음악이 좋다,나 음악 느-좋-닌-온.,나 음악 느좋닌온.,experiencer=ABS. 좋다=stative → -닌- 필수. stimulus=ABS(무표)
+P2-EMO-002,emotion,dislike-prs,나는 비가 싫다,나 비 느-싫-닌-온.,나 비 느싫닌온.,experiencer=ABS. 싫다=stative
+P2-EMO-003,emotion,fear-prs,나는 어둠이 두렵다,나 어둠 느-두렵-닌-온.,나 어둠 느두렵닌온.,experiencer=ABS. 두렵다=stative
+P2-EMO-004,emotion,want-prs,나는 물을 원한다,나 물 느-원하-리-온.,나 물 느원하련.,원하다=semi-dynamic. experiencer=ABS. IPFV 선택
+P2-EMO-005,emotion,fear-past,나는 어제 두려웠다,나 머-두렵-닌-온.,나 머두렵닌온.,PST+STAT. experiencer=ABS
+P2-EMO-006,emotion,like-neg,나는 그것이 안 좋다,나 그것 좋-아 느-몰-닌-온.,나 그것 좋아 느몰닌온.,NEG + stative emotion
+P2-EMO-007,emotion,want-cond,네가 원하면 준다,너 느-원하-살 나-악 느-주-온.,너 느원하살 나악 느주온.,COND -살 첫 사용. experiencer=ABS in condition
+P2-EMO-008,emotion,like-topic,음악은 좋다,음악=흔 나 느-좋-닌-온.,음악흔 나 느좋닌온.,topic + emotion
+P2-CHG-001,change,become-prs,물이 얼음이 된다,물 얼음 느-되-리-온.,물 얼음 느되련.,되다=inchoative. S=ABS. result=ABS(bare)
+P2-CHG-002,change,grow-prs,나무가 자란다,나무 느-자라-리-온.,나무 느자라련.,자동사. S=ABS
+P2-CHG-003,change,dry-past,옷이 말랐다,옷 머-마르-칼-온.,옷 머마르칸.,PST+TEL. 자동사
+P2-CHG-004,change,change-prs,날씨가 변한다,날씨 느-변하-리-온.,날씨 느변하련.,자동사 상태변화
+P2-CHG-005,change,become-past,그가 선생이 되었다,그 선생 머-되-칼-온.,그 선생 머되칸.,PST+TEL 되다
+P2-CHG-006,change,grow-hab,나무는 늘 자란다,나무=흔 느-자라-논-온.,나무흔 느자라논.,HAB + change
+P2-CHG-007,change,dry-cond,옷이 마르면 간다,옷 느-마르-살 나 느-가-온.,옷 느마르살 나 느가온.,COND -살 + change verb
+P2-CHG-008,change,become-neg,물이 얼음이 안 된다,물 얼음 되-아 느-몰-온.,물 얼음 되아 느몰온.,NEG + inchoative
+P2-POS-001,possession,have-prs,나는 책을 갖고 있다,나 책 느-갖-닌-온.,나 책 느갖닌온.,갖다=stative possession. possessor=ABS. -닌- 필수
+P2-POS-002,possession,have-neg,나는 돈이 없다,나 돈=복.,나 돈복.,EXIST.NEG for possession. 소유부정=존재부정
+P2-POS-003,possession,have-past,나는 어제 책을 갖고 있었다,나 책 머-갖-닌-온.,나 책 머갖닌온.,PST+STAT possession
+P2-POS-004,possession,belong-prs,이 책은 나에게 속한다,이 책=흔 나-디 느-속하-닌-온.,이 책흔 나디 느속하닌온.,속하다=stative. goal/possessor에 -디(FRC) 사용
+P2-POS-005,possession,have-yn,너는 책을 갖고 있느냐,너 책 느-갖-닌-언.,너 책 느갖닌언.,Y/N.Q possession
+P2-POS-006,possession,have-topic,돈은 있다,돈=흔 느-있-닌-온.,돈흔 느있닌온.,topic + existential (positive)
+P2-CAUS-001,causation,make-go,나는 그를 가게 한다,나-악 그 느-가-모 느-둘-온.,나악 그 느가모 느둘온.,COMP -모 + 둘-(CAUS). causer=ERG
+P2-CAUS-002,causation,make-eat,나는 아이에게 밥을 먹게 한다,나-악 아이-디 밥 느-먹-모 느-둘-온.,나악 아이디 밥 느먹모 느둘온.,causee에 -디(FRC). theme=ABS(bare)
+P2-CAUS-003,causation,make-open,나는 그에게 문을 열게 했다,나-악 그-디 문 느-열-모 머-둘-칼-온.,나악 그디 문 느열모 머둘칸.,PST+TEL on 둘-. complement은 DEF
+P2-CAUS-004,causation,make-speak,나는 아이에게 말하게 한다,나-악 아이 느-말-모 느-둘-온.,나악 아이 느말모 느둘온.,intransitive causative. 말하-=자동 → causee=ABS(bare). cf. CAUS-001
+P2-CAUS-005,causation,make-go-neg,나는 그를 안 가게 한다,나-악 그 가-아 느-몰-모 느-둘-온.,나악 그 가아 느몰모 느둘온.,NEG inside complement
+P2-CAUS-006,causation,make-eat-past,나는 어제 아이에게 밥을 먹게 했다,나-악 아이-디 밥 느-먹-모 머-둘-칼-온.,나악 아이디 밥 느먹모 머둘칸.,"PST on matrix, DEF on complement"
+P2-CAUS-007,causation,make-go-cond,네가 그를 가게 하면 말한다,너-악 그 느-가-모 느-둘-살 나 느-말-온.,너악 그 느가모 느둘살 나 느말온.,causative + conditional
+P2-CAUS-008,causation,make-know,나는 그에게 그것을 알게 한다,나-악 그-디 그것 느-알-모 느-둘-온.,나악 그디 그것 느알모 느둘온.,causative + cognition (알다 in complement)
+P2-CMP-001,comparison,bigger,나는 너보다 크다,나 너-테 느-크-닌-온.,나 너테 느크닌온.,comparison standard=-테(LOC). experiencer=ABS. 크다=stative
+P2-CMP-002,comparison,faster,그는 나보다 빠르다,그 나-테 느-빠르-닌-온.,그 나테 느빠르닌온.,comparison with -테
+P2-CMP-003,comparison,same,나는 너와 같다,나 너-테 느-같-닌-온.,나 너테 느같닌온.,same/equal uses -테 too
+P2-CMP-004,comparison,different,이것은 그것과 다르다,이것=흔 그것-테 느-다르-닌-온.,이것흔 그것테 느다르닌온.,different + topic
+P2-CMP-005,comparison,better,이 길이 저 길보다 낫다,이 길=흔 저 길-테 느-낫-닌-온.,이 길흔 저 길테 느낫닌온.,낫다=stative comparison
+P2-CMP-006,comparison,bigger-yn,네가 나보다 크냐,너 나-테 느-크-닌-언.,너 나테 느크닌언.,Y/N.Q comparison
+P2-EXT-001,extended-transfer,teach-prs,나는 아이에게 글을 가르친다,나-악 아이-디 글 느-가르치-리-온.,나악 아이디 글 느가르치련.,"ditransitive. agent=ERG, recipient=-디, theme=ABS"
+P2-EXT-002,extended-transfer,teach-past,나는 어제 아이에게 글을 가르쳤다,나-악 아이-디 글 머-가르치-칼-온.,나악 아이디 글 머가르치칸.,PST+TEL teaching
+P2-EXT-003,extended-transfer,show-prs,나는 너에게 길을 보여준다,나-악 너-디 길 느-보-모 느-둘-온.,나악 너디 길 느보모 느둘온.,"보여주다를 사역 구문으로 분석. causer=ERG, causee=-디(타동 보-의 ABS=길이 ABS 차지), theme=ABS"
+P2-EXT-004,extended-transfer,tell-prs,나는 그에게 이름을 알려준다,나-악 그-디 이름 느-알-모 느-둘-온.,나악 그디 이름 느알모 느둘온.,"알려주다를 사역 구문으로 분석. 알-=인지(타동) → causee=-디, theme=ABS"
+P2-EXT-005,extended-transfer,teach-neg,나는 아이에게 글을 안 가르친다,나-악 아이-디 글 가르치-아 느-몰-온.,나악 아이디 글 가르치아 느몰온.,NEG + extended transfer
+P2-EXT-006,extended-transfer,teach-seq,글을 가르치고 간다,나-악 아이-디 글 느-가르치-탄 느-가-온.,나악 아이디 글 느가르치탄 느가온.,SEQ -탄 + extended transfer
+P2-MOD-001,modal,can-go,나는 갈 수 있다,나 느-달-가-온.,나 느달가온.,ABIL preverb 달-. DEF+ABIL
+P2-MOD-002,modal,can-go-past,나는 갈 수 있었다,나 머-달-가-온.,나 머달가온.,PST+ABIL. tense-modal 중첩
+P2-MOD-003,modal,must-go,나는 가야 한다,나 느-바-가-온.,나 느바가온.,OBL preverb 바-. DEF+OBL
+P2-MOD-004,modal,must-go-fut,나는 가야 할 것이다,나 차-바-가-온.,나 차바가온.,FUT+OBL
+P2-MOD-005,modal,can-see,나는 볼 수 있다,나 느-달-보-온.,나 느달보온.,ABIL + perception verb
+P2-MOD-006,modal,cannot-go,나는 갈 수 없다,나 가-아 느-달-몰-온.,나 가아 느달몰온.,NEG+ABIL. connegative 가-아 + 달-몰-
+P2-MOD-007,modal,must-eat-cond,먹어야 하면 먹는다,느-바-먹-살 나 느-먹-온.,느바먹살 나 느먹온.,OBL + COND
+P2-MOD-008,modal,can-go-yn,너는 갈 수 있느냐,너 느-달-가-언.,너 느달가언.,Y/N.Q + ABIL
+P3-REL-001,relative,S-gap-basic,오는 사람이 있다,[느-오-마] 사람 느-있-닌-온.,느오마 사람 느있닌온.,S gap. 사람=자동사S=ABS. ABS pivot: 자유 관계절화
+P3-REL-002,relative,S-gap-pst,가 버린 사람을 안다,나 [머-가-칼-마] 사람 느-알-닌-온.,나 머가칼마 사람 느알닌온.,S gap+PST+TEL. -칼-마: 비종결→융합 없음. 피수식 사람=알다의 ABS(theme)
+P3-REL-003,relative,S-gap-novel,ㆍ름에서 온 ㅿ울이 있다,[ㆍ름-테 느-오-마] ㅿ울 느-있-닌-온.,ㆍ름테 느오마 ㅿ울 느있닌온.,S gap. 독자음소: ㆍ름(dream/ɵrɯm)+ㅿ울(shadow/zul). ㆍ름-테=LOC(출처)
+P3-REL-004,relative,O-gap-basic,내가 보는 사람이 온다,[나-악 느-보-리-마] 사람 느-오-온.,나악 느보리마 사람 느오온.,O gap. 사람=타동사O=ABS. 나-악=ERG in rel. ABS pivot: O 자유 관계절화
+P3-REL-005,relative,O-gap-poss,그가 준 책을 갖고 있다,나 [그-악 느-주-마] 책 느-갖-닌-온.,나 그악 느주마 책 느갖닌온.,"O gap. 책=ABS(주-의 theme). 주절: 나=possessor(ABS), 책=possessed(ABS)"
+P3-REL-006,relative,O-gap-novel,ㅸ올이 치는 ㅿ울이 크다,[ㅸ올-악 느-치-마] ㅿ울 느-크-닌-온.,ㅸ올악 느치마 ㅿ울 느크닌온.,"O gap. ㅸ올(wave)=ERG, ㅿ울(shadow)=ABS. 치-=hit(신규,타동). 독자음소"
+P3-REL-007,relative,A-gap-basic,나에게 책을 주는 사람이 온다,[나-디 책 느-주-마] 사람 느-오-온.,나디 책 느주마 사람 느오온.,A gap. 사람=A(ERG) of 주-. direct gap 전략: ERG 직접 관계절화 허용. syntactically accusative
+P3-REL-008,relative,A-gap-eat,밥을 먹는 아이가 있다,[밥 느-먹-리-마] 아이 느-있-닌-온.,밥 느먹리마 아이 느있닌온.,A gap. 아이=A(ERG) of 먹-. 밥=ABS(theme)→gap은 A. 격표지로 gap 위치 비모호
+P3-REL-009,relative,A-gap-novel,ㅿ울을 보는 그가 온다,[ㅿ울 느-보-리-마] 그 느-오-온.,ㅿ울 느보리마 그 느오온.,A gap. 그=A(ERG) of 보-. 독자음소 ㅿ울
+P3-REL-010,relative,A-gap-ditrans,아이에게 글을 가르치는 사람이 있다,[아이-디 글 느-가르치-리-마] 사람 느-있-닌-온.,아이디 글 느가르치리마 사람 느있닌온.,"A gap in ditransitive. 사람=A(ERG). 아이-디=FRC(recipient), 글=ABS(theme)"
+P3-REL-011,relative,rel-fut,올 사람을 안다,나 [차-오-마] 사람 느-알-닌-온.,나 차오마 사람 느알닌온.,FUT in rel clause. 차-오-마=FUT-come-ADN. S gap
+P3-REL-012,relative,rel-neg,안 오는 사람이 있다,[오-아 느-몰-마] 사람 느-있-닌-온.,오아 느몰마 사람 느있닌온.,NEG in rel clause. S gap. conneg+NEG.AUX+ADN
+P3-REL-013,relative,FRC-gap,내가 책을 준 사람을 안다,나 [나-악 책 느-주-마] 사람 느-알-닌-온.,나 나악 책 느주마 사람 느알닌온.,FRC gap. 사람=recipient of 주-. 책=ABS(theme)으로 gap=FRC 추론. Accessibility Hierarchy 확장
+P3-REL-014,relative,LOC-gap,내가 사는 곳에 간다,나 [느-살-닌-마] 곳-레 느-가-온.,나 느살닌마 곳레 느가온.,"LOC gap. 살-=live(stative,신규,-닌- 필수). 곳=place(신규). 곳-레=ALL. 동일주어"
+P3-COMP-001,complement,comp-know,비가 오는 것을 안다,나 [비 느-오-모] 느-알-닌-온.,나 비 느오모 느알닌온.,기본 보문. COMP=알-의 ABS(theme)
+P3-COMP-002,complement,comp-see-pst,그가 간 것을 보았다,나 [그 머-가-칼-모] 머-보-칼-온.,나 그 머가칼모 머보칸.,PST in both. -칼-모: 비종결→융합없음. 머보칸: -칼-온→융합
+P3-COMP-003,complement,comp-topic,그가 오는 것은 안다,[그 느-오-모]=흔 나 느-알-닌-온.,그 느오모흔 나 느알닌온.,COMP + topic =흔. 명사화절의 격표지 결합
+P3-COMP-004,complement,comp-percept,아이가 밥을 먹는 것을 보았다,나 [아이-악 밥 느-먹-리-모] 머-보-칼-온.,나 아이악 밥 느먹리모 머보칸.,perception COMP. 내포절에 독립 ERG(아이-악). 나=EXP(ABS) of 보-
+P3-COMP-005,complement,comp-want,가는 것을 원한다,나 [느-가-모] 느-원하-리-온.,나 느가모 느원하련.,COMP as argument of 원하-. 동일주어 내포
+P3-COMP-006,complement,comp-neg,비가 안 오는 것을 안다,나 [비 오-아 느-몰-모] 느-알-닌-온.,나 비 오아 느몰모 느알닌온.,NEG inside COMP
+P3-COMP-007,complement,comp-novel,ㆍ름이 있는 것이 좋다,나 [ㆍ름 느-있-닌-모] 느-좋-닌-온.,나 ㆍ름 느있닌모 느좋닌온.,COMP + experiencer. 독자음소 ㆍ름. 나=EXP(ABS)
+P3-COMP-008,complement,comp-fear,가는 것이 두렵다,나 [느-가-모] 느-두렵-닌-온.,나 느가모 느두렵닌온.,COMP as stimulus of 두렵-. 나=EXP(ABS). 동일주어 내포
+P3-SEQ-001,sequential,seq-same-subj,밥을 먹고 간다,나-악 밥 느-먹-탄 느-가-온.,나악 밥 느먹탄 느가온.,"동일주어 SEQ. A/S pivot: 나-악(ERG,먹-)→나(S,가-,implicit)"
+P3-SEQ-002,sequential,seq-diff-subj,비가 오고 나는 간다,비 느-오-탄 나 느-가-온.,비 느오탄 나 느가온.,다른 주어 SEQ
+P3-SEQ-003,sequential,seq-pst,밥을 먹고 갔다,나-악 밥 머-먹-칼-탄 머-가-칼-온.,나악 밥 머먹칼탄 머가칸.,PST+TEL in both. -칼-탄: 융합없음. -칼-온: 융합→칸
+P3-SEQ-004,sequential,seq-novel,ㅸ올이 오고 ㅿ울이 간다,ㅸ올 느-오-탄 ㅿ울 느-가-온.,ㅸ올 느오탄 ㅿ울 느가온.,다른주어 SEQ. 독자음소 ㅸ올(wave)+ㅿ울(shadow)
+P3-SEQ-005,sequential,seq-three,오고 먹고 간다,나 느-오-탄 나-악 밥 느-먹-탄 느-가-온.,나 느오탄 나악 밥 느먹탄 느가온.,3절 연결. S(ABS)→A(ERG)→S(ABS). A/S pivot 교대 증거
+P3-SEQ-006,sequential,seq-caus,먹게 하고 간다,나-악 아이-디 밥 느-먹-모 느-둘-탄 느-가-온.,나악 아이디 밥 느먹모 느둘탄 느가온.,사역 + SEQ. 둘-탄=CAUS-SEQ
+P3-SEQ-007,sequential,seq-novel2,ㅿ울이 오고 ㆍ름이 간다,ㅿ울 느-오-탄 ㆍ름 느-가-온.,ㅿ울 느오탄 ㆍ름 느가온.,다른주어 SEQ. 독자음소 ㅿ울+ㆍ름
+P3-COND-001,conditional,cond-basic,비가 오면 안 간다,비 느-오-살 나 가-아 느-몰-온.,비 느오살 나 가아 느몰온.,기본 조건 + 주절 부정
+P3-COND-002,conditional,cond-modal,갈 수 있으면 간다,나 느-달-가-살 느-가-온.,나 느달가살 느가온.,ABIL + COND. 동일주어
+P3-COND-003,conditional,cond-neg,안 오면 간다,비 오-아 느-몰-살 나 느-가-온.,비 오아 느몰살 나 느가온.,NEG in condition clause
+P3-COND-004,conditional,cond-counter,왔더라면 먹었을 텐데,그 머-오-살 나-악 밥 머-먹-칼-온.,그 머오살 나악 밥 머먹칸.,반사실. 머-+-살=PST+COND. 잠정 확정
+P3-COND-005,conditional,cond-novel,ㅿ울이 있으면 ㅸ올이 온다,ㅿ울 느-있-닌-살 ㅸ올 느-오-온.,ㅿ울 느있닌살 ㅸ올 느오온.,독자음소 + COND
+P3-COND-006,conditional,cond-yn,비가 오면 가느냐,비 느-오-살 너 느-가-언.,비 느오살 너 느가언.,COND + Y/N.Q in main clause
+P3-RSN-001,reason,rsn-basic,비가 오니까 안 간다,비 느-오-논테 나 가-아 느-몰-온.,비 느오논테 나 가아 느몰온.,기본 이유
+P3-RSN-002,reason,rsn-pst,먹었으니까 간다,나-악 밥 머-먹-칼-논테 느-가-온.,나악 밥 머먹칼논테 느가온.,PST+TEL in reason. -칼-논테: 융합없음
+P3-RSN-003,reason,rsn-emotion,좋으니까 듣는다,나 음악 느-좋-닌-논테 느-듣-리-온.,나 음악 느좋닌논테 느듣련.,experiencer stative in reason clause
+P3-RSN-004,reason,rsn-double-neg,안 왔으니까 모른다,그 오-아 머-몰-논테 나 그것 알-아 느-몰-닌-온.,그 오아 머몰논테 나 그것 알아 느몰닌온.,NEG in reason + NEG in main
+P3-RSN-005,reason,rsn-novel,ㆍ름이 있으니까 ㅿ울이 온다,ㆍ름 느-있-닌-논테 ㅿ울 느-오-온.,ㆍ름 느있닌논테 ㅿ울 느오온.,독자음소 + 이유
+P3-RSN-006,reason,rsn-standalone,비가 오니까 (답변),비 느-오-논테.,비 느오논테.,이유절 단독 사용. 비종결형 문미 허용 검증. 잠정
+P3-RSN-007,reason,rsn-modal,갈 수 있으니까 간다,나 느-달-가-논테 느-가-온.,나 느달가논테 느가온.,ABIL + 이유
+P3-CONTR-001,contrastive,contr-basic,비가 오지만 간다,비 느-오-칼라 나 느-가-온.,비 느오칼라 나 느가온.,기본 역접
+P3-CONTR-002,contrastive,contr-pst,먹었지만 고프다,머-먹-칼-칼라 나 느-고프-닌-온.,머먹칼칼라 나 느고프닌온.,"PST+TEL + CONTR. 고프-=hungry(stative,신규,-닌- 필수). -칼-칼라: 융합없음"
+P3-CONTR-003,contrastive,contr-neg,안 먹지만 간다,나-악 밥 먹-아 느-몰-칼라 느-가-온.,나악 밥 먹아 느몰칼라 느가온.,NEG + CONTR
+P3-CONTR-004,contrastive,contr-modal,갈 수 있지만 안 간다,나 느-달-가-칼라 가-아 느-몰-온.,나 느달가칼라 가아 느몰온.,ABIL + CONTR + NEG
+P3-CONTR-005,contrastive,contr-novel,ㅸ올이 크지만 ㅿ울이 있다,ㅸ올 느-크-닌-칼라 ㅿ울 느-있-닌-온.,ㅸ올 느크닌칼라 ㅿ울 느있닌온.,독자음소 + CONTR
+P3-CONTR-006,contrastive,contr-emotion,싫지만 간다,나 그것 느-싫-닌-칼라 느-가-온.,나 그것 느싫닌칼라 느가온.,experiencer stative + CONTR
+P3-CONTR-007,contrastive,contr-hab,늘 오지만 오늘 안 온다,그 느-오-논-칼라 오늘 오-아 느-몰-온.,그 느오논칼라 오늘 오아 느몰온.,HAB + CONTR + NEG. -논-칼라: 융합없음. 오늘=today(신규)
+P3-QUOT-001,quotation,quot-decl,'간다'고 말한다,나 [느-가-온]=락 느-말-온.,나 느가온락 느말온.,"평서 인용. =락 on DECL. 말-=자동사, 나=speaker(ABS). =락은 clitic(부가어)"
+P3-QUOT-002,quotation,quot-pst,'갔다'고 말했다,나 [머-가-칼-온]=락 머-말-온.,나 머가칸락 머말온.,PST in quote(-칼-온→칸 융합 후 =락) + PST main. 말-=자동사
+P3-QUOT-003,quotation,quot-yn,'가느냐'고 물었다,나-악 [느-가-언]=락 머-물-칼-온.,나악 느가언락 머물칸.,"의문 인용. 물-=ask(신규,타동). -언(Y/N.Q) inside quote"
+P3-QUOT-004,quotation,quot-wh,'누가 갔느냐'고 물었다,나-악 [누구-악 머-가-칼-연]=락 머-물-칼-온.,나악 누구악 머가칼연락 머물칸.,WH.Q 인용. 누구(신규)-악=who-ERG. -칼-연: Q환경→융합없음
+P3-QUOT-005,quotation,quot-imp,'가라'고 말했다,나 [가-라]=락 머-말-온.,나 가라락 머말온.,명령 인용. IMP inside quote. 말-=자동사
+P3-QUOT-006,quotation,quot-novel,'ㆍ름이 있다'고 말한다,나 [ㆍ름 느-있-닌-온]=락 느-말-온.,나 ㆍ름 느있닌온락 느말온.,독자음소 + 인용. 말-=자동사
+P3-CROSS-001,cross,rel-cond,오는 사람이 있으면 말한다,[느-오-마] 사람 느-있-닌-살 나 느-말-온.,느오마 사람 느있닌살 나 느말온.,"관계절 + 조건. 말-=자동사, 나=S(ABS)"
+P3-CROSS-002,cross,comp-contr,그가 가는 것을 알지만 두렵다,나 [그 느-가-모] 느-알-닌-칼라 느-두렵-닌-온.,나 그 느가모 느알닌칼라 느두렵닌온.,보문절 + 역접. 두 절의 EXP(나) 동일
+P3-CROSS-003,cross,caus-rsn,먹게 했으니까 간다,나-악 아이-디 밥 느-먹-모 머-둘-칼-논테 느-가-온.,나악 아이디 밥 느먹모 머둘칼논테 느가온.,사역(PST) + 이유. 복합 교차 구조
+P3-CROSS-004,cross,rel-rsn,오는 사람이 있으니까 말한다,[느-오-마] 사람 느-있-닌-논테 나 느-말-온.,느오마 사람 느있닌논테 나 느말온.,"관계절 + 이유. 말-=자동사, 나=S(ABS)"
+P3-CROSS-005,cross,quot-cond,'비가 오면 안 간다'고 말했다,나 [비 느-오-살 가-아 느-몰-온]=락 머-말-온.,나 비 느오살 가아 느몰온락 머말온.,인용 내부에 조건+부정. 말-=자동사. 3중 embedding
+P3-CROSS-006,cross,cond-wh,누가 오면 가느냐,누구 느-오-살 너 느-가-연.,누구 느오살 너 느가연.,조건 + WH.Q. 누구=S(ABS) of 오-
+P4-NAR-001,narrative,opening,오늘 일어났다,오늘 나 머-일어나-칼-온.,오늘 나 머일어나칸.,서사 시작. 일어나-=자동(dynamic). PST+TEL
+P4-NAR-002,narrative,movement,밖으로 갔다,나 밖-레 머-가-칼-온.,나 밖레 머가칸.,밖=outside(신규). -레=ALL
+P4-NAR-003,narrative,description,파도가 컸다,ㅸ올 느-크-닌-온.,ㅸ올 느크닌온.,"독자음소 ㅸ올. 크-=stative, -닌- 필수"
+P4-NAR-004,narrative,description,그림자가 파도에 있었다,ㅿ울 ㅸ올-테 느-있-닌-온.,ㅿ울 ㅸ올테 느있닌온.,독자음소 ㅿ울+ㅸ올. LOC(-테)
+P4-NAR-005,narrative,perception,그림자를 보았다,나 ㅿ울 머-보-칼-온.,나 ㅿ울 머보칸.,나=EXP(ABS). PST+TEL
+P4-NAR-006,narrative,reason,그림자가 크니까 두려웠다,그 ㅿ울 느-크-닌-논테 나 느-두렵-닌-온.,그 ㅿ울 느크닌논테 나 느두렵닌온.,RSN(-논테) + experiencer stative
+P4-NAR-007,narrative,contrast,안 가고 있었다,나 가-아 느-몰-칼라 느-있-닌-온.,나 가아 느몰칼라 느있닌온.,NEG + CONTR. 있-=stay
+P4-NAR-008,narrative,event,사람이 왔다,사람 머-오-칼-온.,사람 머오칸.,S=ABS. PST+TEL
+P4-NAR-009,narrative,quotation-q,그 사람이 내게 '두렵냐'고 물었다,그 사람-악 나-디 [너 느-두렵-닌-언]=락 머-물-칼-온.,그 사람악 나디 너 느두렵닌언락 머물칸.,물-=타동(ask). A=ERG. 나-디=addressee(FRC). =락+Y/N.Q inside quote
+P4-NAR-010,narrative,quotation-a,'두렵다'고 말했다,나 [느-두렵-닌-온]=락 머-말-온.,나 느두렵닌온락 머말온.,말-=자동(speak). 나=S(ABS). =락 clitic
+P4-NAR-011,narrative,quotation-info,그 사람이 '그림자는 꿈에서 온다'고 말했다,그 사람 [ㅿ울 ㆍ름-테 느-오-온]=락 머-말-온.,그 사람 ㅿ울 ㆍ름테 느오온락 머말온.,"독자음소 ㆍ름+ㅿ울. 말-=자동. quote 내부: S=ABS(ㅿ울), LOC(ㆍ름-테)"
+P4-NAR-012,narrative,contrast,알고 있었지만 두려웠다,나 그것 느-알-닌-칼라 느-두렵-닌-온.,나 그것 느알닌칼라 느두렵닌온.,CONTR. 두 절 EXP(나) 동일
+P4-NAR-013,narrative,quotation-proh,그 사람이 '두려워 마라'고 말했다,그 사람 [두렵-아 말-라]=락 머-말-온.,그 사람 두렵아 말라락 머말온.,prohibitive(두렵-아 말-라) inside quote. 말-(PROH) ≠ 말-(speak): 구조로 구분
+P4-NAR-014,narrative,perception-comp,그 사람이 말한 것을 들었다,나 [그 사람 머-말-칼-모] 머-듣-칼-온.,나 그 사람 머말칼모 머듣칸.,COMP + perception. 말-=자동→COMP 내부 S=그 사람. -칼-모: 비종결→융합없음
+P4-NAR-015,narrative,event,그림자가 갔다,ㅿ울 머-가-칼-온.,ㅿ울 머가칸.,S=ABS
+P4-NAR-016,narrative,sequential,그 사람이 가고 나도 갔다,그 사람 머-가-칼-탄 나 머-가-칼-온.,그 사람 머가칼탄 나 머가칸.,SEQ. 다른 주어. -칼-탄: 융합없음
+P4-NAR-017,narrative,movement,집에 갔다,나 집-레 머-가-칼-온.,나 집레 머가칸.,집=house(신규). -레=ALL
+P4-NAR-018,narrative,event,밥을 먹었다,나-악 밥 머-먹-칼-온.,나악 밥 머먹칸.,A=ERG(나-악). 밥=ABS
+P4-NAR-019,narrative,emotion,밥이 좋았다,나 밥 느-좋-닌-온.,나 밥 느좋닌온.,EXP(나)>STIM(밥). 2-ABS 어순
+P4-NAR-020,narrative,rel-clause,내가 사는 곳에 꿈이 있었다,나 느-살-닌-마 곳-테 ㆍ름 느-있-닌-온.,나 느살닌마 곳테 ㆍ름 느있닌온.,"REL(LOC gap) + 주절. 살-=stative, -닌- 필수"
+P4-NAR-021,narrative,perception,그 꿈에서 그림자를 보았다,나 그 ㆍ름-테 ㅿ울 머-보-칼-온.,나 그 ㆍ름테 ㅿ울 머보칸.,ㆍ름-테=LOC. EXP(나)+theme(ㅿ울) 2-ABS
+P4-NAR-022,narrative,quotation-proh2,그림자가 '두려워 마라'고 말했다,ㅿ울 [두렵-아 말-라]=락 머-말-온.,ㅿ울 두렵아 말라락 머말온.,ㅿ울=S(ABS) of 말-. prohibitive inside quote
+P4-NAR-023,narrative,event,일어났다,나 머-일어나-칼-온.,나 머일어나칸.,PST+TEL
+P4-NAR-024,narrative,neg-stative,밖에 파도가 아직 있었다,밖-테 ㅸ올 가-아 머-몰-온.,밖테 ㅸ올 가아 머몰온.,NEG+PST. '파도가 안 갔다'=아직 있다
+P4-NAR-025,narrative,neg-emotion,두렵지 않았다,나 두렵-아 느-몰-닌-온.,나 두렵아 느몰닌온.,NEG stative. 두렵-아(conneg)+느-몰-닌-온
+P4-NAR-026,narrative,movement,밖으로 갔다,나 밖-레 머-가-칼-온.,나 밖레 머가칸.,반복 동작: 다시 밖으로
+P4-NAR-027,narrative,event,파도가 나를 쳤다,ㅸ올-악 나 머-치-칼-온.,ㅸ올악 나 머치칸.,ㅸ올=ERG(A). 나=ABS(O). 치-=타동
+P4-NAR-028,narrative,emotion,좋았다,나 느-좋-닌-온.,나 느좋닌온.,EXP(나). stimulus implicit
+P4-NAR-029,narrative,contrast,그림자는 갔지만 파도는 있었다,ㅿ울 머-가-칼-칼라 ㅸ올 느-있-닌-온.,ㅿ울 머가칼칼라 ㅸ올 느있닌온.,CONTR. -칼-칼라: 융합없음
+P4-NAR-030,narrative,closing,나는 산다,나 느-살-닌-온.,나 느살닌온.,"서사 종결. 살-=stative, -닌- 필수"
+P4-DLG-001,dialogue,wh-q,오늘 어디에 가느냐,[가] 오늘 어디-레 느-가-연.,오늘 어디레 느가연.,대화 시작. 어디=where(신규). -레=ALL. WH.Q
+P4-DLG-002,dialogue,answer,밖에 간다,[나] 나 밖-레 느-가-온.,나 밖레 느가온.,답변. 밖-레=ALL
+P4-DLG-003,dialogue,description,파도가 크다,[가] ㅸ올 느-크-닌-온.,ㅸ올 느크닌온.,정보 제공
+P4-DLG-004,dialogue,yn-modal,갈 수 있느냐,[가] 너 느-달-가-언.,너 느달가언.,ABIL + Y/N.Q
+P4-DLG-005,dialogue,affirm,갈 수 있다,[나] 느-달-가-온.,느달가온.,pro-drop(나 implicit)
+P4-DLG-006,dialogue,contrast,파도가 크지만 간다,[나] ㅸ올 느-크-닌-칼라 나 느-가-온.,ㅸ올 느크닌칼라 나 느가온.,CONTR
+P4-DLG-007,dialogue,cond-neg-yn,비가 오면 안 가느냐,[가] 비 차-오-살 가-아 느-몰-언.,비 차오살 가아 느몰언.,FUT+COND + NEG + Y/N.Q
+P4-DLG-008,dialogue,cond-neg,비가 오면 안 간다,[나] 비 차-오-살 나 가-아 느-몰-온.,비 차오살 나 가아 느몰온.,COND + NEG
+P4-DLG-009,dialogue,hearsay,어제 비가 왔다더라,[가] 어제 비 머-오-칼-온=맬.,어제 비 머오칸맬.,어제=yesterday(신규). hearsay =맬. PST+TEL
+P4-DLG-010,dialogue,affirm-know,그것은 안다,[나] 나 그것 느-알-닌-온.,나 그것 느알닌온.,experiencer stative
+P4-DLG-011,dialogue,rsn-standalone,봤으니까,[나] 머-보-칼-논테.,머보칼논테.,standalone reason. pro-drop. -칼-논테: 융합없음
+P4-DLG-012,dialogue,yn-pst,그림자를 봤느냐,[가] ㅿ울 머-보-칼-언.,ㅿ울 머보칼언.,Y/N.Q + PST+TEL. -칼-언: Q→융합없음
+P4-DLG-013,dialogue,affirm-pst,보았다,[나] 머-보-칼-온.,머보칸.,pro-drop. -칼-온→칸 융합
+P4-DLG-014,dialogue,description,그림자가 크다,[나] ㅿ울 느-크-닌-온.,ㅿ울 느크닌온.,추가 정보
+P4-DLG-015,dialogue,yn-emotion,두렵냐,[가] 너 느-두렵-닌-언.,너 느두렵닌언.,Y/N.Q + experiencer stative
+P4-DLG-016,dialogue,neg-emotion,두렵지 않다,[나] 두렵-아 느-몰-닌-온.,두렵아 느몰닌온.,NEG stative. pro-drop
+P4-DLG-017,dialogue,rel-yn,가는 사람이 있느냐,[가] [느-가-마] 사람 느-있-닌-언.,느가마 사람 느있닌언.,REL + Y/N.Q
+P4-DLG-018,dialogue,exist-neg,가는 사람이 없다,[나] [느-가-마] 사람=복.,느가마 사람복.,REL + EXIST.NEG(복). 관계절+존재부정 결합
+P4-DLG-019,dialogue,imp-eat,먹어라,[가] 먹-라.,먹라.,긍정 명령. ROOT-라. preverb 없음
+P4-DLG-020,dialogue,seq-imp,먹고 가라,[가] 먹-탄 가-라.,먹탄 가라.,SEQ + IMP. 비종결형(먹-탄)+종결형(가-라)
+P4-DLG-021,dialogue,seq-decl,먹고 간다,[나] 나-악 밥 느-먹-탄 느-가-온.,나악 밥 느먹탄 느가온.,"SEQ. A(ERG,먹-)→S(ABS,가-) pivot"
+P4-DLG-022,dialogue,cond-imp,비가 오면 와라,[가] 비 느-오-살 오-라.,비 느오살 오라.,COND + IMP
+P4-DLG-023,dialogue,cond-decl,비가 오면 온다,[나] 비 느-오-살 느-오-온.,비 느오살 느오온.,COND + DECL 응답
+P4-DLG-024,dialogue,cond-emotion,오면 좋다,[가] 차-오-살 나 느-좋-닌-온.,차오살 나 느좋닌온.,FUT+COND + experiencer. pro-drop(너)
+P4-DLG-025,dialogue,fut,올 것이다,[나] 차-오-온.,차오온.,FUT. pro-drop
+P4-DLG-026,dialogue,wh-pst,무엇을 보았느냐,[가] 너 무엇 머-보-칼-연.,너 무엇 머보칼연.,무엇=what(신규). WH.Q+PST. -칼-연: Q→융합없음
+P4-DLG-027,dialogue,rel-answer,파도에 있는 그림자를 보았다,[나] [ㅸ올-테 느-있-닌-마] ㅿ울 머-보-칼-온.,ㅸ올테 느있닌마 ㅿ울 머보칸.,REL(S gap) + PST. 답변에서 관계절 사용
+P4-DLG-028,dialogue,yn-fear,그림자가 두렵냐,[가] 너 ㅿ울 느-두렵-닌-언.,너 ㅿ울 느두렵닌언.,EXP(너)>STIM(ㅿ울). Y/N.Q
+P4-DLG-029,dialogue,neg-now,이제 두렵지 않다,[나] 이제 두렵-아 느-몰-닌-온.,이제 두렵아 느몰닌온.,이제=now(신규). NEG stative
+P4-DLG-030,dialogue,wh-neg,왜 두렵지 않느냐,[가] 왜 두렵-아 느-몰-닌-연.,왜 두렵아 느몰닌연.,왜=why(신규). WH.Q + NEG
+P4-DLG-031,dialogue,quot-rsn,그림자가 '두려워 마라'고 말했으니까,[나] ㅿ울 [두렵-아 말-라]=락 머-말-칼-논테.,ㅿ울 두렵아 말라락 머말칼논테.,QUOT + RSN standalone. 말-=자동. -칼-논테: 융합없음
+P4-DLG-032,dialogue,yn-surprise,그림자가 말하느냐,[가] ㅿ울 느-말-언.,ㅿ울 느말언.,Y/N.Q. 말-=자동
+P4-DLG-033,dialogue,loc-answer,꿈에서 말한다,[나] ㆍ름-테 느-말-온.,ㆍ름테 느말온.,독자음소 ㆍ름. pro-drop(ㅿ울 implicit)
+P5-SUP-001,supplement,fut-basic,나는 갈 것이다,나 차-가-온.,나 차가온.,FUT 단독. 차-=FUT
+P5-SUP-002,supplement,fut-ipfv,비가 올 것이다,비 차-오-리-온.,비 차오련.,FUT+IPFV. -리-온→련 융합
+P5-SUP-003,supplement,fut-tel,그가 다 먹을 것이다,그-악 밥 차-먹-칼-온.,그악 밥 차먹칸.,FUT+TEL. -칼-온→칸 융합
+P5-SUP-004,supplement,hab-basic,나는 늘 밥을 먹는다,나-악 밥 느-먹-논-온.,나악 밥 느먹논.,HAB 단독. -논-온→논 융합
+P5-SUP-005,supplement,hab-contr,늘 가지만 오늘 안 간다,나 느-가-논-칼라 오늘 가-아 느-몰-온.,나 느가논칼라 오늘 가아 느몰온.,HAB + CONTR. -논-칼라: 융합없음
+P5-SUP-006,supplement,int-basic,나는 씻는다,나 느-씻-루-온.,나 느씻룬.,INT(-루-) 첫 코퍼스 사용. 씻-=listed INT verb. -루-온→룬 융합
+P5-SUP-007,supplement,int-pst,나는 씻었다,나 머-씻-루-온.,나 머씻룬.,INT + PST. -루-온→룬 융합
+P5-SUP-008,supplement,purpose-basic,먹으러 집에 간다,나 [느-먹-모]-레 집-레 느-가-온.,나 느먹모레 집레 느가온.,목적절: COMP(-모)+ALL(-레). 잠정 전략 첫 검증
+P5-SUP-009,supplement,purpose-give,밥을 주러 집에 간다,나-악 밥 [느-주-모]-레 집-레 느-가-온.,나악 밥 느주모레 집레 느가온.,목적절 + 타동. recipient implicit
+P5-SUP-010,supplement,time-basic,비가 올 때 집에 있는다,나 [비 느-오-마] 때 집-테 느-있-닌-온.,나 비 느오마 때 집테 느있닌온.,"시간절: ADN(-마)+때(time,신규). 잠정 전략 첫 검증"
+P5-SUP-011,supplement,time-pst,먹었을 때 그가 왔다,나-악 [머-먹-칼-마] 때 그 머-오-칼-온.,나악 머먹칼마 때 그 머오칸.,시간절 + PST. 다른 주어. -칼-마: 융합없음
+P5-SUP-012,supplement,cmp-cond,네보다 크면 좋다,나 너-테 느-크-닌-살 느-좋-닌-온.,나 너테 느크닌살 느좋닌온.,비교(-테) + 조건(-살). 복합 subordination
+P5-SUP-013,supplement,cmp-rel,나보다 큰 사람이 왔다,[나-테 느-크-닌-마] 사람 머-오-칼-온.,나테 느크닌마 사람 머오칸.,비교(-테) in 관계절. S gap: 사람=S of 크-
+P5-SUP-014,supplement,fut-wh,무엇을 먹을 것이냐,너-악 무엇 차-먹-칼-연.,너악 무엇 차먹칼연.,FUT + WH.Q. -칼-연: Q→융합없음
+P5-SUP-015,supplement,pst-yn,그가 밥을 먹었느냐,그-악 밥 머-먹-칼-언.,그악 밥 머먹칼언.,PST + Y/N.Q. -칼-언: Q→융합없음
+P5-SUP-016,supplement,new-verb-open,내가 그것을 열었다,나-악 그것 머-열-칼-온.,나악 그것 머열칸.,"열-=open(타동,신규). A=ERG, O=ABS"
+P5-SUP-017,supplement,rel-open,내가 연 문이 크다,[나-악 머-열-칼-마] 문 느-크-닌-온.,나악 머열칼마 문 느크닌온.,O gap(문=ABS of 열-). -칼-마: 융합없음. 문=door(신규)
+P5-SUP-018,supplement,imp-trans,문을 열어라,문 열-라.,문 열라.,타동 명령. addressee(A)=implicit. 문=ABS(theme). preverb 없음
+P5-SUP-019,supplement,obl-basic,나는 가야 한다,나 느-바-가-온.,나 느바가온.,OBL(바-) 단독. 나=S(ABS)
+P6-QF-001,q-fusion,ipfv-yn,가고 있느냐,느-가-리-언.,느가리언.,의문형 융합 비적용 확정. -리-언=[리언] 그대로
+P6-QF-002,q-fusion,tel-yn,가 버렸느냐,머-가-칼-언.,머가칼언.,-칼-언=[칼언]. 비융합 확정
+P6-QF-003,q-fusion,tel-wh,누가 가 버렸느냐,누구 머-가-칼-연.,누구 머가칼연.,-칼-연=[칼연]. 비융합 확정
+P6-QF-004,q-fusion,hab-yn,늘 가느냐,너 느-가-논-언.,너 느가논언.,-논-언=[논언]. 비융합 확정
+P6-HORT-001,hortative,basic,가자,가-탄 너-온.,가탄 너온.,청유: ROOT-탄+너-(HORT)+온(DECL). 너-=신규 조동사
+P6-HORT-002,hortative,eat,먹자,먹-탄 너-온.,먹탄 너온.,청유 타동. theme implicit
+P6-HORT-003,hortative,neg,가지 말자,가-아 너-몰-온.,가아 너몰온.,청유 부정: CONNEG+HORT.NEG. 몰-이 너-를 대체
+P6-HORT-004,hortative,with-obj,밥을 먹자,밥 먹-탄 너-온.,밥 먹탄 너온.,청유+ABS theme. ERG(우리) implicit
+P6-COM-001,comitative,basic,나는 그 사람과 간다,나 그 사람-살라 느-가-온.,나 그 사람살라 느가온.,comitative -살라(COM) 첫 사용
+P6-COM-002,comitative,pst,나는 아이와 밥을 먹었다,나-악 아이-살라 밥 머-먹-칼-온.,나악 아이살라 밥 머먹칸.,COM + ERG + ABS. 공동행위주
+P6-COM-003,comitative,equal,나는 너와 같다,나 너-살라 느-같-닌-온.,나 너살라 느같닌온.,등가 구문: -살라(COM)로 -테 다의성 해소. 같-=stative
+P6-COM-004,comitative,cond,그 사람과 가면 좋다,나 그 사람-살라 느-가-살 느-좋-닌-온.,나 그 사람살라 느가살 느좋닌온.,COM + COND
+P6-COP-001,copula,basic-affirm,나는 사람이다,나 사람 느-닐-닌-온.,나 사람 느닐닌온.,"copula 닐-(identity). stative, -닌- 필수. 두 NP=ABS"
+P6-COP-002,copula,basic-neg,나는 파도가 아니다,나 ㅸ올 닐-아 느-몰-닌-온.,나 ㅸ올 닐아 느몰닌온.,copula 부정: CONNEG+NEG.AUX. 독자음소
+P6-COP-003,copula,yn,그것은 그림자이냐,그것 ㅿ울 느-닐-닌-언.,그것 ㅿ울 느닐닌언.,copula + Y/N.Q. 독자음소
+P6-COP-004,copula,rel,선생인 사람이 왔다,[선생 느-닐-닌-마] 사람 머-오-칼-온.,선생 느닐닌마 사람 머오칸.,copula in 관계절. 선생=teacher(신규). S gap
+P6-MIMP-001,modal-imp,obl-imp,가야 한다 — 가라,바-가-라.,바가라.,OBL+IMP 허용. 바-(OBL)+ROOT+라(IMP)
+P6-MIMP-002,modal-imp,obl-imp-trans,문을 열어야 한다,문 바-열-라.,문 바열라.,OBL+IMP+타동. 문=ABS
+P6-ADV-001,adverb,very,파도가 매우 크다,ㅸ올 놀 느-크-닌-온.,ㅸ올 놀 느크닌온.,놀=very(신규). 정도부사. 독자음소
+P6-ADV-002,adverb,little,조금 두렵다,나 돋 느-두렵-닌-온.,나 돋 느두렵닌온.,돋=a little(신규). experiencer+정도부사
+P6-ADV-003,adverb,again,다시 간다,나 되 느-가-온.,나 되 느가온.,되=again(신규)
+P6-ADV-004,adverb,very-neg,매우 좋지 않다,나 그것 놀 좋-아 느-몰-닌-온.,나 그것 놀 좋아 느몰닌온.,정도부사+NEG
+P6-VARI-001,variation,bok,물이 없다,물=복.,물복.,복: 자유변이 확정. 양성모음(ㅜ) 뒤에서도 복 허용
+P6-VARI-002,variation,pok,물이 없다,물=폭.,물폭.,폭: 동일 의미. 자유변이. 화자 선호
+P7-DRV-001,derivation,L1-pa,먹는 자가 왔다,먹파 머-오-칼-온.,먹파 머오칸.,1층 -파(PA). 먹파=eater. S=ABS
+P7-DRV-002,derivation,L1-na,지식이 크다,알나 놀 느-크-닌-온.,알나 놀 느크닌온.,1층 -나(NA). 알나=knowledge
+P7-DRV-003,derivation,L1-po,청자가 나이다,말포 나 느-닐-닌-온.,말포 나 느닐닌온.,1층 -포(PO). 말포=listener. copula 닐-
+P7-DRV-004,derivation,L1-ton,학교에 간다,나 알돈-레 느-가-온.,나 알돈레 느가온.,1층 -돈(TON). 알돈=school. -레=ALL
+P7-DRV-005,derivation,L1-pa-erg,교사가 가르친다,가르치파-악 아이-디 글 느-가르치-리-온.,가르치파악 아이디 글 느가르치련.,L1 파생+ERG. 가르치파=teacher
+P7-DRV-006,derivation,L1-na-rel,보는 볼거리가 있다,[느-보-마] 보나 느-있-닌-온.,느보마 보나 느있닌온.,L1 파생+관계절. 보나=sight/spectacle
+P7-DRV-007,derivation,L1-intr,삶이 좋다,나 살나 느-좋-닌-온.,나 살나 느좋닌온.,자동사 L1. 살나=life. EXP(나)>STIM(살나)
+P7-DRV-008,derivation,L2-source,샘에 물이 있다,물ㅸ온-테 물 느-있-닌-온.,물ㅸ온테 물 느있닌온.,2층 단독. 물ㅸ온=spring/water source. -테=LOC
+P7-DRV-009,derivation,L2-path,빛의 통로가 크다,빛ㅿ은 느-크-닌-온.,빛ㅿ은 느크닌온.,2층 단독. 빛ㅿ은=beam/light path
+P7-DRV-010,derivation,L2-sink,나무의 열매가 있다,나무눌 느-있-닌-온.,나무눌 느있닌온.,2층 단독. 나무눌=fruit(tree's sink)
+P7-DRV-011,derivation,L2-cycle,물의 순환이 크다,물ㆍ르 느-크-닌-온.,물ㆍ르 느크닌온.,2층 단독. 물ㆍ르=water cycle. 독자음소 ㆍ
+P7-DRV-012,derivation,L2-pool,돌무더기가 있다,돌ㅸ앙 느-있-닌-온.,돌ㅸ앙 느있닌온.,2층 단독. 돌ㅸ앙=stone pile/accumulation
+P7-DRV-013,derivation,L12-neutral,책을 보았다,나 알나ㅸ온 머-보-칼-온.,나 알나ㅸ온 머보칸.,L1+L2 무표. 알나ㅸ온=book(knowledge source)
+P7-DRV-014,derivation,L12-active,강의 중인 교수가 가르친다,알나리ㅸ온-악 아이-디 글 느-가르치-리-온.,알나리ㅸ온악 아이디 글 느가르치련.,L1+ACTIVE+L2. 알나리ㅸ온=actively emitting knowledge source. -리-=ACTIVE flow mode
+P7-DRV-015,derivation,L12-result,완결 논문을 보았다,나 알나칼ㅸ온 머-보-칼-온.,나 알나칼ㅸ온 머보칸.,L1+RESULT+L2. 알나칼ㅸ온=completed knowledge source. -칼-=RESULTATIVE
+P7-DRV-016,derivation,L12-latent,미해독 고문서가 있다,알나닌ㅸ온 느-있-닌-온.,알나닌ㅸ온 느있닌온.,L1+LATENT+L2. 알나닌ㅸ온=latent knowledge source. -닌-=LATENT
+P7-DRV-017,derivation,L12-active-pool,도서관에 간다,나 알나리ㅸ앙-레 느-가-온.,나 알나리ㅸ앙레 느가온.,L1+ACTIVE+L2. 알나리ㅸ앙=active knowledge pool=운영중 도서관. -레=ALL
+P7-DRV-018,derivation,L12-latent-pool,폐관된 도서관이 있다,알나닌ㅸ앙 느-있-닌-온.,알나닌ㅸ앙 느있닌온.,L1+LATENT+L2. 알나닌ㅸ앙=latent knowledge pool=폐관 도서관
+P7-DRV-019,derivation,L12-active-path,교육이 좋다,나 알나리ㅿ은 느-좋-닌-온.,나 알나리ㅿ은 느좋닌온.,L1+ACTIVE+L2. 알나리ㅿ은=active knowledge path=진행 중 교육
+P7-DRV-020,derivation,L12-result-path,졸업이 좋았다,나 알나칼ㅿ은 느-좋-닌-온.,나 알나칼ㅿ은 느좋닌온.,L1+RESULT+L2. 알나칼ㅿ은=completed knowledge path=수료/졸업
+P7-DRV-021,derivation,prim-active-pool,범람 중인 저수지에 간다,나 물리ㅸ앙-레 느-가-온.,나 물리ㅸ앙레 느가온.,원초명사+ACTIVE+L2. 물리ㅸ앙=actively filling water pool
+P7-DRV-022,derivation,prim-latent-pool,마른 호수에 그림자가 있다,물닌ㅸ앙-테 ㅿ울 느-있-닌-온.,물닌ㅸ앙테 ㅿ울 느있닌온.,원초명사+LATENT+L2. 물닌ㅸ앙=dry lake. 독자음소 ㅿ울
+P7-DRV-023,derivation,L12-in-rel,좋은 학교가 있다,[알나리ㅿ은 느-좋-닌-마] 알돈 느-있-닌-온.,알나리ㅿ은 느좋닌마 알돈 느있닌온.,파생명사 in 관계절. 교육(알나리ㅿ은)이 좋은 학교(알돈)
+P7-DRV-024,derivation,L12-in-comp,교육이 좋은 것을 안다,나 [알나리ㅿ은 느-좋-닌-모] 느-알-닌-온.,나 알나리ㅿ은 느좋닌모 느알닌온.,파생명사 in 보문절
+P7-DRV-025,derivation,L12-in-caus,교수가 아이에게 책을 보게 한다,알나리ㅸ온-악 아이-디 알나ㅸ온 느-보-모 느-둘-온.,알나리ㅸ온악 아이디 알나ㅸ온 느보모 느둘온.,L12 파생+사역. 알나리ㅸ온(=교수)=ERG. causee=아이-디(타동→FRC). 알나ㅸ온(=책)=ABS
+P7-DRV-026,derivation,L12-active-cycle,현재 진행 중인 물의 순환이 크다,물리ㆍ르 놀 느-크-닌-온.,물리ㆍ르 놀 느크닌온.,원초명사+ACTIVE+CYCLE. 물리ㆍ르=active water cycle. 정도부사 놀
+P7-DRV-027,derivation,L12-result-sink,다 익은 열매를 먹었다,나-악 나무칼눌 머-먹-칼-온.,나악 나무칼눌 머먹칸.,원초+RESULT+SINK. 나무칼눌=ripened fruit(완결된 나무의 귀착). A=ERG
+P7-DRV-028,derivation,L12-latent-source,씨앗이 있다,나무닌ㅸ온 느-있-닌-온.,나무닌ㅸ온 느있닌온.,원초+LATENT+SOURCE. 나무닌ㅸ온=seed(잠재적 나무의 원천)
+P7-DRV-029,derivation,L12-quot,'교육이 좋다'고 말했다,나 [알나리ㅿ은 느-좋-닌-온]=락 머-말-온.,나 알나리ㅿ은 느좋닌온락 머말온.,L12 파생 in 인용. 말-=자동
+P7-DRV-030,derivation,L12-hort,책을 보자,알나ㅸ온 보-탄 너-온.,알나ㅸ온 보탄 너온.,L12 파생+청유. 보-탄 너-온=HORT
+P8-LEX-001,lexicon,kinship,에미가 아이에게 밥을 준다,에미-악 아이-디 밥 느-주-온.,에미악 아이디 밥 느주온.,에미=mother(고어). A=ERG
+P8-LEX-002,lexicon,kinship,에비가 아이와 간다,에비 아이-살라 느-가-온.,에비 아이살라 느가온.,에비=father(고어). COM -살라
+P8-LEX-003,lexicon,number,사람이 셋 있다,사람 섬 느-있-닌-온.,사람 섬 느있닌온.,섬=3. 수사+존재
+P8-LEX-004,lexicon,number,스물셋 날을 살았다,둘마섬 날 머-살-닌-온.,둘마섬 날 머살닌온.,둘마섬=23. 합성 수사+시간 명사
+P8-LEX-005,lexicon,body,골이 아프다,나 골 느-아프-닌-온.,나 골 느아프닌온.,"골=head(고어). 아프-=hurt(신규,stative,-닌-필수). EXP>STIM"
+P8-LEX-006,lexicon,body,피ㅿ은이 크다,피ㅿ은 느-크-닌-온.,피ㅿ은 느크닌온.,피ㅿ은=blood.PATH=혈관. L2 파생
+P8-LEX-007,lexicon,nature,어름이 물이 되었다,어름 물 머-되-칼-온.,어름 물 머되칸.,어름=ice(중세). inchoative 되-
+P8-LEX-008,lexicon,nature,안개가 있다,안개 느-있-닌-온.,안개 느있닌온.,안개=fog(순우리말 공유)
+P8-LEX-009,lexicon,nature,나조에 해가 붉다,나조-테 해 느-붉-닌-온.,나조테 해 느붉닌온.,"나조=evening(중세). 붉-=red(stative,-닌-필수). 해=sun"
+P8-LEX-010,lexicon,animal,괴가 물에 있다,괴 물-테 느-있-닌-온.,괴 물테 느있닌온.,"괴=fish(고어,ㅚ=/ø/)"
+P8-LEX-011,lexicon,animal,즘생이 숲에 산다,즘생 숲-테 느-살-닌-온.,즘생 숲테 느살닌온.,즘생=beast(중세). 숲=forest
+P8-LEX-012,lexicon,action,아이가 긋는다,아이-악 글 느-긋-리-온.,아이악 글 느긋련.,긋-=write(고어). 글=writing(기존 차용)
+P8-LEX-013,lexicon,action,괴가 혐한다,괴 느-혐-리-온.,괴 느혐련.,혐-=swim(중세). 괴=fish. S=ABS
+P8-LEX-014,lexicon,cognition,나는 너기지 않는다,나 너기-아 느-몰-온.,나 너기아 느몰온.,너기-=think(중세). NEG: conneg+몰-
+P8-LEX-015,lexicon,cognition,너기고 말한다,나 느-너기-탄 느-말-온.,나 느너기탄 느말온.,너기-+SEQ+말-. 자동사 연결
+P8-LEX-016,lexicon,time,내일 에미가 온다,내일 에미 느-오-온.,내일 에미 느오온.,내일=tomorrow(불투명 한자 차용)
+P8-LEX-017,lexicon,time,나조에 밥을 먹고 잔다,나조-테 나-악 밥 느-먹-탄 느-자-온.,나조테 나악 밥 느먹탄 느자온.,나조=evening. SEQ. 자-=sleep
+P8-LEX-018,lexicon,color,꽃이 보라이다,꽃 보라 느-닐-닌-온.,꽃 보라 느닐닌온.,보라=purple(순우리말). copula 닐-
+P8-LEX-019,lexicon,color,하늘이 붉지만 바다가 푸르다,하늘 느-붉-닌-칼라 바다 느-푸르-닌-온.,하늘 느붉닌칼라 바다 느푸르닌온.,CONTR. 붉-/푸르- 색 상태동사
+P8-LEX-020,lexicon,skin,갗이 마르면 아프다,갗 느-마르-살 나 느-아프-닌-온.,갗 느마르살 나 느아프닌온.,갗=skin(고어). COND+experiencer
+P8-LEX-021,lexicon,fruit,열이 나무눌이다,열 나무눌 느-닐-닌-온.,열 나무눌 느닐닌온.,열=fruit(고어). 나무눌=tree.SINK. copula: 동의어 관계
+P8-LEX-022,lexicon,deriv-context,긋파가 긋나ㅸ온을 보았다,긋파-악 긋나ㅸ온 머-보-칼-온.,긋파악 긋나ㅸ온 머보칸.,긋파=writer(write.PA). 긋나ㅸ온=book(write.NA.SOURCE). 파생 문맥
+P8-LEX-023,lexicon,deriv-context,너기나가 크다,너기나 놀 느-크-닌-온.,너기나 놀 느크닌온.,너기나=thought(think.NA). 정도부사 놀
+P8-LEX-024,lexicon,spatial,산 위에 구름이 있다,산 위-테 구름 느-있-닌-온.,산 위테 구름 느있닌온.,위=above. -테=LOC
+P8-LEX-025,lexicon,spatial,강 안에 괴가 혐한다,강 안-테 괴 느-혐-리-온.,강 안테 괴 느혐련.,강=river. 안=inside. 괴=fish
+P8-LEX-026,lexicon,dialogue,몇 사람이 있느냐,사람 어떻 느-있-닌-연.,사람 어떻 느있닌연.,어떻=how many/which(의문). WH.Q. 수량의문은 어떻으로 우회
+P8-LEX-027,lexicon,dialogue,둘 있다,사람 둘 느-있-닌-온.,사람 둘 느있닌온.,수사 응답
+P8-LEX-028,lexicon,complex,에미가 아이에게 '열을 먹어라'고 말했다,에미 [아이-디 열 먹-라]=락 머-말-온.,에미 아이디 열 먹라락 머말온.,인용+명령+고어어휘. 말-=자동
+P8-LEX-029,lexicon,complex,나조에 별이 밝으니까 밖에 갔다,나조-테 별 느-밝-닌-논테 나 밖-레 머-가-칼-온.,나조테 별 느밝닌논테 나 밖레 머가칸.,RSN+시간+상태동사. 밝-=bright
+P8-LEX-030,lexicon,complex,가볍지만 크다,이것 느-가볍-닌-칼라 느-크-닌-온.,이것 느가볍닌칼라 느크닌온.,"가볍-=light(wt,순우리말). CONTR. 상태동사 연결"
+P9-PHR-001,phrasebook,greeting,안녕,안녕.,안녕.,인사. 한국어 공유 어근
+P9-PHR-002,phrasebook,greeting-q,잘 지냈어?,잘 느-있-닌-언.,잘 느있닌언.,Y/N.Q. 있-=stative
+P9-PHR-003,phrasebook,thanks,고맙다,느-고맙-닌-온.,느고맙닌온.,"고맙-=grateful(신규,stative). -닌- 필수"
+P9-PHR-004,phrasebook,sorry,미안하다,느-미안-닌-온.,느미안닌온.,"미안-=sorry(불투명차용,stative). -닌- 필수"
+P9-PHR-005,phrasebook,ok,괜찮다,느-괜찮-닌-온.,느괜찮닌온.,"괜찮-=fine(불투명차용,stative)"
+P9-PHR-006,phrasebook,slow,천천히 말해줘,돋 말-라.,돋 말라.,돋=a little. 말-라=speak-IMP
+P9-PHR-007,phrasebook,again-speak,다시 말해줘,되 말-라.,되 말라.,되=again. 말-라=speak-IMP
+P9-PHR-008,phrasebook,what-is,이게 뭐야?,이 무엇 느-닐-닌-연.,이 무엇 느닐닌연.,copula 닐-. WH.Q
+P9-PHR-009,phrasebook,understand,알겠어,느-알-닌-온.,느알닌온.,알-=know. -닌- 필수
+P9-PHR-010,phrasebook,not-know,모르겠어,알-아 느-몰-닌-온.,알아 느몰닌온.,NEG+stative
+P9-PHR-011,phrasebook,name-q,이름이 뭐야?,너 이름 무엇 느-닐-닌-연.,너 이름 무엇 느닐닌연.,이름=name(불투명). WH.Q+copula
+P9-PHR-012,phrasebook,name-a,내 이름은 ___이다,나 이름=흔 ___ 느-닐-닌-온.,나 이름흔 ___ 느닐닌온.,TOP+copula
+P9-PHR-013,phrasebook,where-from,너는 어디서 왔어?,너 어디-텐 머-오-칼-연.,너 어디텐 머오칼연.,ABL -텐 첫 사용! WH.Q. -칼-연: Q→비융합
+P9-PHR-014,phrasebook,where-go,어디 가?,너 어디-레 느-가-연.,너 어디레 느가연.,ALL -레. WH.Q
+P9-PHR-015,phrasebook,going,나 지금 간다,나 이제 느-가-온.,나 이제 느가온.,이제=now
+P9-PHR-016,phrasebook,go-home,나 집에 간다,나 집-레 느-가-온.,나 집레 느가온.,집-레=ALL
+P9-PHR-017,phrasebook,come-from,나 집에서 왔다,나 집-텐 머-오-칼-온.,나 집텐 머오칸.,ABL -텐. -칼-온→칸 융합
+P9-PHR-018,phrasebook,here,여기 있어,이곳-테 느-있-닌-온.,이곳테 느있닌온.,이곳=here(이+곳)
+P9-PHR-019,phrasebook,there-q,거기 있어?,저곳-테 느-있-닌-언.,저곳테 느있닌언.,저곳=there(저+곳). Y/N.Q
+P9-PHR-020,phrasebook,not-there,저기 없어,저곳=복.,저곳복.,EXIST.NEG =복
+P9-PHR-021,phrasebook,where-at,어디 있어?,어디-테 느-있-닌-연.,어디테 느있닌연.,WH.Q+LOC
+P9-PHR-022,phrasebook,lets-go,같이 가자,우 가-탄 너-온.,우 가탄 너온.,우=1PL.INCL. HORT: 가-탄 너-온
+P9-PHR-023,phrasebook,wait,기다려라,기다리-라.,기다리라.,기다리-=wait(신규). IMP
+P9-PHR-024,phrasebook,hungry,배고프다,나 느-고프-닌-온.,나 느고프닌온.,고프-=hungry. -닌- 필수
+P9-PHR-025,phrasebook,thirsty,목마르다,나 느-마르-닌-온.,나 느마르닌온.,"목마르-→마르-(thirsty,신규 의미확장). -닌-"
+P9-PHR-026,phrasebook,water-q,물 있어?,물 느-있-닌-언.,물 느있닌언.,Y/N.Q
+P9-PHR-027,phrasebook,water-no,물 없어,물=복.,물복.,EXIST.NEG
+P9-PHR-028,phrasebook,eat-q,밥 먹을래?,너-악 밥 느-먹-언.,너악 밥 느먹언.,Y/N.Q. A=ERG
+P9-PHR-029,phrasebook,eat-pst,밥 먹었어,나-악 밥 머-먹-칼-온.,나악 밥 머먹칸.,PST+TEL
+P9-PHR-030,phrasebook,eat-neg,밥 안 먹어,나-악 밥 먹-아 느-몰-온.,나악 밥 먹아 느몰온.,NEG
+P9-PHR-031,phrasebook,help,도와줘,돕-라.,돕라.,"돕-=help(고유어,신규). IMP"
+P9-PHR-032,phrasebook,give-this,이거 줘,이 주-라.,이 주라.,IMP+ABS(theme)
+P9-DLG-001,dialogue-v2,child-go,아이가 길로 간다,아이 길-레 느-가-온.,아이 길레 느가온.,v2 DLG_0007 번역. S=ABS. -레=ALL
+P9-DLG-002,dialogue-v2,sleep,나는 잔다,나 느-자-온.,나 느자온.,v2 DLG_0009 번역. 자-=sleep
+P9-DLG-003,dialogue-v2,not-cry,형이 안 운다,형 울-아 느-몰-온.,형 울아 느몰온.,v2 DLG_0011 번역. 울-=cry. NEG. 형=elder brother(불투명)
+P9-DLG-004,dialogue-v2,child-sea,아이가 바다에 있다,아이 바다-테 느-있-닌-온.,아이 바다테 느있닌온.,v2 DLG_0017 번역. -테=LOC
+P9-DLG-005,dialogue-v2,laugh-q,형이 웃느냐?,형 느-웃-언.,형 느웃언.,v2 DLG_0018 번역. 웃-=laugh. Y/N.Q
+P9-DLG-006,dialogue-v2,school,영희가 학교에 있다,영희 알돈-테 느-있-닌-온.,영희 알돈테 느있닌온.,v2 DLG_0022 번역. 학교=알돈(파생). 영희=name
+P9-DLG-007,dialogue-v2,friend-sleep,벗이 잔다,벗 느-자-온.,벗 느자온.,v2 DLG_0023 번역. 친구→벗(고어)
+P9-DLG-008,dialogue-v2,not-see-q,길을 안 보느냐?,나-악 길 보-아 느-몰-언.,나악 길 보아 느몰언.,v2 DLG_0027 번역. NEG+Y/N.Q
+P9-DLG-009,dialogue-v2,sibling-sleep-q,동생이 자느냐?,동생 느-자-언.,동생 느자언.,v2 DLG_0028 번역. 동생=sibling(불투명)
+P9-DLG-010,dialogue-v2,mom-go-pst,에미가 갔다,에미 머-가-칼-온.,에미 머가칸.,v2 DLG_0034 번역. 에미=mother(고어)
+P9-NAR-001,narrative-v2,sleep-room,산지인이 방에서 잤다,산지인 방-테 머-자-칼-온.,산지인 방테 머자칸.,v2 NAR_0001 번역. 산지인=mountaineer(불투명). 방=room(신규)
+P9-NAR-002,narrative-v2,fall,사람이 떨어졌다,사람 머-떨어지-칼-온.,사람 머떨어지칸.,"v2 NAR_0004 번역. 떨어지-=fall(고유어,신규)"
+P9-NAR-003,narrative-v2,see-mountain,연안인이 산을 보았다,연안인-악 산 머-보-칼-온.,연안인악 산 머보칸.,v2 NAR_0006 번역. A=ERG. 연안인=coast-dweller(불투명)
+P9-NAR-004,narrative-v2,no-road,연안인이 길에 없었다,연안인 길-테=복.,연안인 길테복.,v2 NAR_0007 번역. LOC+EXIST.NEG
+P9-NAR-005,narrative-v2,give-fire,학자가 불을 주었다,알파-악 불 머-주-칼-온.,알파악 불 머주칸.,v2 NAR_0008 번역. 학자→알파(know.PA). 불=fire
+P9-NAR-006,narrative-v2,child-exist,아이가 있었다,아이 머-있-닌-온.,아이 머있닌온.,v2 NAR_0010 번역. PST+STAT
+P9-NAR-007,narrative-v2,cry-pst,산지인이 울었다,산지인 머-울-칼-온.,산지인 머울칸.,v2 NAR_0021 번역
+P9-NAR-008,narrative-v2,person-go-room,사람이 방으로 갔다,사람 방-레 머-가-칼-온.,사람 방레 머가칸.,v2 NAR_0026 번역. -레=ALL
+P9-NAR-009,narrative-v2,scholar-come-city,학자가 도시에서 왔다,알파 도시-텐 머-오-칼-온.,알파 도시텐 머오칸.,v2 NAR_0028 번역. ABL -텐! 도시=city(불투명)
+P9-NAR-010,narrative-v2,remember,영희가 기억한다,영희 느-너기-리-온.,영희 느너기련.,"v2 NAR_0033 번역. 기억하다→너기-(think/remember,고어)"
+P9-NAR-011,narrative-v2,cry-pst2,영희가 울었다,영희 머-울-칼-온.,영희 머울칸.,v2 NAR_0036 번역
+P9-NAR-012,narrative-v2,child-cry,아이가 울었다,아이 머-울-칼-온.,아이 머울칸.,v2 NAR_0040 번역
+P9-FUN-001,functional-v2,wash,심사자가 씻는다,심사자 느-씻-루-온.,심사자 느씻룬.,v2 FUN_0003 번역. 심사자=불투명. INT -루-. -루-온→룬
+P9-FUN-002,functional-v2,analyze,이론가가 모형을 분석한다,이론가-악 모형 느-분석하-리-온.,이론가악 모형 느분석하련.,v2 FUN_0010 번역. 분석하-=analyze(불투명). 모형=model(불투명)
+P9-FUN-003,functional-v2,remember,연구자가 기억한다,연구자 느-너기-리-온.,연구자 느너기련.,v2 FUN_0011 번역. 연구자=불투명
+P9-FUN-004,functional-v2,define,연구자가 관측을 정의한다,연구자-악 관측 느-정의하-리-온.,연구자악 관측 느정의하련.,v2 FUN_0015 번역. 정의하-/관측=불투명 학술 차용
+P9-EVID-001,evidential,dir-see,비가 온다(직접 본다),비 느-오-드-온.,비 느오드온.,DIR -드- 첫 사용. EVID slot
+P9-EVID-002,evidential,dir-pst,그림자를 보았다(직접),나 ㅿ울 머-보-칼-드-온.,나 ㅿ울 머보칼드온.,PST+TEL+DIR. -칼-드-온: 비융합(EVID개입)
+P9-EVID-003,evidential,infer-fut,비가 올 것이다(추론),비 차-오-짐-온.,비 차오짐온.,INFER -짐-. FUT+INFER
+P9-EVID-004,evidential,infer-pst,그 사람은 간 것 같다,그 사람 머-가-칼-짐-온.,그 사람 머가칼짐온.,PST+TEL+INFER
+P9-EVID-005,evidential,dir-hear,소리를 들었다(직접),나 소리 머-듣-칼-드-온.,나 소리 머듣칼드온.,DIR+perception
+P9-EVID-006,evidential,infer-know,아는 것 같다,나 그것 느-알-닌-짐-온.,나 그것 느알닌짐온.,STAT+INFER
+P9-EVID-007,evidential,dir-hearsay,비가 온다고 들었다(직접 전해들음),비 느-오-온=맬 느-듣-드-온.,비 느오온맬 느듣드온.,hearsay+=맬 + DIR on matrix verb
+P9-EVID-008,evidential,infer-rsn,추론이니까 말한다,나 느-너기-짐-논테 느-말-온.,나 느너기짐논테 느말온.,INFER in RSN clause
+P9-ABL-001,ablative,basic,집에서 왔다,나 집-텐 머-오-칼-온.,나 집텐 머오칸.,ABL -텐 기본
+P9-ABL-002,ablative,abl-all,집에서 학교로 갔다,나 집-텐 알돈-레 머-가-칼-온.,나 집텐 알돈레 머가칸.,ABL+ALL. 출발+도착
+P9-ABL-003,ablative,abl-dream,꿈에서 그림자가 온다,ㅿ울 ㆍ름-텐 느-오-드-온.,ㅿ울 ㆍ름텐 느오드온.,ABL+DIR. 독자음소
+P9-ABL-004,ablative,abl-sea,바다에서 파도가 온다,ㅸ올 바다-텐 느-오-온.,ㅸ올 바다텐 느오온.,ABL. 독자음소 ㅸ올
+P9-ABL-005,ablative,abl-rel,학교에서 온 사람이 있다,[알돈-텐 느-오-마] 사람 느-있-닌-온.,알돈텐 느오마 사람 느있닌온.,ABL in REL clause
+P9-ABL-006,ablative,abl-q,어디에서 왔느냐?,너 어디-텐 머-오-칼-연.,너 어디텐 머오칼연.,ABL+WH.Q
+P9-SPOT-001,abs-spot,basic,바로 내가 안다,나-알 그것 느-알-닌-온.,나알 그것 느알닌온.,ABS.SPOT -알 첫 사용. EXP 초점
+P9-SPOT-002,abs-spot,stim,바로 음악이 좋다,나 음악-알 느-좋-닌-온.,나 음악알 느좋닌온.,STIM 초점
+P9-SPOT-003,abs-spot,object,바로 그 책을 보았다,나-악 알나ㅸ온-알 머-보-칼-온.,나악 알나ㅸ온알 머보칸.,O(ABS) 초점+파생어. ERG와 공존
+P9-SPOT-004,abs-spot,contrast,나는 산이 아니라 바다가 좋다,나 산 느-좋-닌-칼라 바다-알 느-좋-닌-온.,나 산 느좋닌칼라 바다알 느좋닌온.,CONTR+ABS.SPOT on contrasted item
+P10-SW-001,swadesh,burn,불이 나무를 태운다,불-악 나무 느-태우-리-온.,불악 나무 느태우련.,"태우-=burn(고유어,타동). A=ERG(불)"
+P10-SW-002,swadesh,pull,아이가 줄을 당긴다,아이-악 줄 느-당기-리-온.,아이악 줄 느당기련.,"당기-=pull(고유어). 줄=rope(고유어,신규)"
+P10-SW-003,swadesh,push,아이가 문을 민다,아이-악 문 느-밀-리-온.,아이악 문 느밀련.,밀-=push(고유어)
+P10-SW-004,swadesh,throw,그가 돌을 던졌다,그-악 돌 머-던지-칼-온.,그악 돌 머던지칸.,던지-=throw(고유어). PST+TEL
+P10-SW-005,swadesh,dig,사람이 흙을 팠다,사람-악 흙 머-파-칼-온.,사람악 흙 머파칸.,파-=dig(고유어)
+P10-SW-006,swadesh,cut,에미가 열을 자른다,에미-악 열 느-자르-리-온.,에미악 열 느자르련.,자르-=cut(고유어). 열=fruit
+P10-SW-007,swadesh,bite,즘생이 사람을 물었다,즘생-악 사람 머-물-칼-온.,즘생악 사람 머물칸.,물-=bite(고유어). 물-(ask)와 동음→문맥 구분
+P10-SW-008,swadesh,blow,바람이 분다,바람 느-불-리-온.,바람 느불련.,"불-=blow(고유어,자동). 불(fire)과 동음→품사 구분"
+P10-SW-009,swadesh,breathe,사람이 숨쉰다,사람 느-숨쉬-리-온.,사람 느숨쉬련.,숨쉬-=breathe(고유어)
+P10-SW-010,swadesh,smell,꽃 냄새를 맡았다,나 꽃 냄새 머-맡-칼-드-온.,나 꽃 냄새 머맡칼드온.,"맡-=smell(고유어). 냄새=smell/odor(고유어,신규). DIR: 직접 지각"
+P10-SW-011,swadesh,fight,두 사람이 싸웠다,둘 사람 머-싸우-칼-온.,둘 사람 머싸우칸.,"싸우-=fight(고유어,자동). 둘=two"
+P10-SW-012,swadesh,tie,줄을 묶었다,나-악 줄 머-묶-칼-온.,나악 줄 머묶칸.,묶-=tie(고유어)
+P10-SW-013,swadesh,say,에비가 아이에게 이르다,에비-악 아이-디 느-이르-온.,에비악 아이디 느이르온.,"이르-=say/tell(고어,타동). 말-=speak(자동)과 구분. A=ERG, addressee=FRC"
+P10-SW-014,swadesh,sing,사람이 노래를 부른다,사람 부르나 느-부르-리-온.,사람 부르나 느부르련.,부르-=sing/call(고유어). 부르나=song(sing.NA 파생)
+P10-SW-015,swadesh,all,모든 사람이 왔다,모든 사람 머-오-칼-온.,모든 사람 머오칸.,"모든=all(고유어,관형사)"
+P10-SW-016,swadesh,many,사람이 많다,사람 느-많-닌-온.,사람 느많닌온.,"많-=many(고유어,stative,-닌-필수)"
+P10-SW-017,swadesh,few,괴가 적다,괴 느-적-닌-온.,괴 느적닌온.,"적-=few(고유어,stative). 괴=fish"
+P10-SW-018,swadesh,near,집이 가깝다,집 느-가깝-닌-온.,집 느가깝닌온.,"가깝-=near(고유어,stative)"
+P10-SW-019,swadesh,far,산이 멀다,산 느-멀-닌-온.,산 느멀닌온.,"멀-=far(고유어,stative)"
+P10-SW-020,swadesh,thick,어름이 두껍다,어름 느-두껍-닌-온.,어름 느두껍닌온.,두껍-=thick(고유어). 어름=ice
+P10-SW-021,swadesh,thin,갗이 얇다,갗 느-얇-닌-온.,갗 느얇닌온.,얇-=thin(고유어). 갗=skin
+P10-SW-022,swadesh,man,사내가 왔다,사내 머-오-칼-온.,사내 머오칸.,사내=man(고유어). 사람(person)과 구분
+P10-SW-023,swadesh,woman,계집이 있다,겨집 느-있-닌-온.,겨집 느있닌온.,겨집=woman(고어). 현대 '계집'의 비하 뉘앙스 없는 원래 의미
+P10-SW-024,swadesh,husband,지아비가 에미와 간다,지아비 에미-살라 느-가-온.,지아비 에미살라 느가온.,지아비=husband(고어). COM -살라
+P10-SW-025,swadesh,wife,지어미가 아이를 보았다,지어미-악 아이 머-보-칼-온.,지어미악 아이 머보칸.,지어미=wife(고어). A=ERG
+P10-SW-026,swadesh,egg,새가 알을 놓았다,새-악 알 머-놓-칼-온.,새악 알 머놓칸.,알=egg(고유어). -알(ABS.SPOT)과 동음이나 품사 다름
+P10-SW-027,swadesh,feather,새 털이 가볍다,새 털 느-가볍-닌-온.,새 털 느가볍닌온.,털=hair/feather(고유어)
+P10-SW-028,swadesh,tail,즘생 꼬리가 길다,즘생 꼬리 느-길-닌-온.,즘생 꼬리 느길닌온.,꼬리=tail(고유어). 길-=long(stative)
+P10-SW-029,swadesh,horn,즘생 뿔이 크다,즘생 뿔 느-크-닌-온.,즘생 뿔 느크닌온.,뿔=horn(고유어)
+P10-SW-030,swadesh,sand,바다-테 모래가 있다,바다-테 모래 느-있-닌-온.,바다테 모래 느있닌온.,모래=sand(고유어)
+P10-SW-031,swadesh,ash,불눌이 있다,불눌 느-있-닌-온.,불눌 느있닌온.,불눌=ash(fire.SINK=불의 귀착). 파생!
+P10-SW-032,swadesh,smoke,불ㅿ은이 크다,불ㅿ은 느-크-닌-온.,불ㅿ은 느크닌온.,불ㅿ은=smoke(fire.PATH=불의 통로). 파생!
+P10-SW-033,swadesh,dust,흙 가루가 있다,흙 가루 느-있-닌-온.,흙 가루 느있닌온.,"가루=powder/dust(고유어,신규)"
+P10-SW-034,swadesh,root-bark,나무ㅸ온이 흙에 있다,나무ㅸ온 흙-테 느-있-닌-온.,나무ㅸ온 흙테 느있닌온.,나무ㅸ온=root(tree.SOURCE). 파생! -테=LOC
+P10-SW-035,swadesh,lake,물ㅸ앙이 산에 있다,물ㅸ앙 산-테 느-있-닌-온.,물ㅸ앙 산테 느있닌온.,물ㅸ앙=lake/pond(water.POOL). 파생! 이미 있으나 Swadesh 항목으로 등록
+P10-SW-036,swadesh,round,돌이 둥글다,돌 느-둥글-닌-온.,돌 느둥글닌온.,"둥글-=round(고유어,stative)"
+P10-SW-037,swadesh,sharp,이가 날카롭다,이 느-날카롭-닌-온.,이 느날카롭닌온.,날카롭-=sharp(고유어). 이=tooth
+P10-SW-038,swadesh,right-left,오른 손과 왼 손이 다르다,오른 손 왼 손-살라 느-다르-닌-온.,오른 손 왼 손살라 느다르닌온.,"오른=right, 왼=left(고유어). COM+다르-"
+P10-SW-039,swadesh,mud,비 온 뒤 진흙이 있다,비 머-오-칼-탄 진흙 느-있-닌-온.,비 머오칼탄 진흙 느있닌온.,진흙=mud(고유어). SEQ+존재
+P10-SW-040,swadesh,rope-exist,줄이 길다,줄 느-길-닌-온.,줄 느길닌온.,줄=rope. 길-=long
+SA-INT-001,voice-int,wash,나는 씻는다,나 느-씻-루-온.,나 느씻룬.,INT -루-. S=ABS. ERG 금지. 기존 확인
+SA-INT-002,voice-int,wash-pst,나는 씻었다,나 머-씻-루-온.,나 머씻룬.,INT+PST. -루-온→룬 융합
+SA-INT-004,voice-int,wash-neg-v2,나는 안 씻는다 (수정),씻-루-아 느-몰-온.,씻루아 느몰온.,INT NEG: -루-가 어근에 결합 후 conneg. 씻루-아+몰-. 이 형태 채택
+SA-INT-005,voice-int,wash-cond,씻으면 간다,나 느-씻-루-살 느-가-온.,나 느씻루살 느가온.,INT+COND. 비종결에서도 -루- 유지
+SA-INT-006,voice-int,groom,단장한다,나 느-다듬-루-온.,나 느다듬룬.,"다듬-=groom(고유어,신규). INT 등재 확장. -루-온→룬"
+SA-REFL-001,voice-refl,hit-self,내가 자기를 쳤다,나악-머-치-칼-온.,나악머치칸.,REFL 편입. 나악(ERG)이 preverb 앞에 편입. ABS 부재→O=A
+SA-REFL-002,voice-refl,see-self,내가 자기를 보았다,나악-머-보-칼-온.,나악머보칸.,REFL. 거울에서 자기를 봄
+SA-REFL-003,voice-refl,hurt-self,그가 자기를 다쳤다,그악-머-상하-칼-온.,그악머상하칸.,"REFL. 상하-=hurt(고유어,신규,타동). 자해/사고"
+SA-REFL-004,voice-refl,ask-self,내가 자기에게 물었다,나악-느-물-온.,나악느물온.,REFL. 자문(self-questioning)
+SA-REFL-005,voice-refl,refl-q,자기를 쳤느냐?,너악-머-치-칼-언.,너악머치칼언.,REFL+Y/N.Q. -칼-언: Q→비융합
+SA-REFL-006,voice-refl,refl-evid,자기를 다친 것 같다,그악-머-상하-칼-짐-온.,그악머상하칼짐온.,REFL+INFER. 6-slot 전개: 편입-PST-ROOT-TEL-INFER-DECL
+SA-REFL-007,voice-refl,refl-rel,자기를 치는 사람이 있다,[나악-느-치-마] 사람 느-있-닌-온.,나악느치마 사람 느있닌온.,REFL in 관계절. 편입된 동사가 -마(ADN) 취함
+SA-REFL-008,voice-refl,refl-rsn,자기를 다쳤으니까 울었다,그악-머-상하-칼-논테 머-울-칼-온.,그악머상하칼논테 머울칸.,REFL+RSN. 편입 동사에 비종결 결합
+SA-REFL-009,voice-refl,refl-vs-int,씻다: 편입 vs INT,나악-느-씻-칼-온. / 나 느-씻-루-온.,나악느씻칸. / 나 느씻룬.,REFL(의도적 세척) vs INT(습관 자기관리). 뉘앙스 차이
+SA-DIF-001,voice-dif,shine,해가 빛난다,해 느-빛-포-온.,해 느빛포온.,DIF -포-. 에너지 확산. S=ABS(방출원)
+SA-DIF-002,voice-dif,radiate,불이 열을 뿜는다,불 느-놀-포-온.,불 느놀포온.,DIF. 놀=heat. 특정 O 없이 환경으로 확산
+SA-DIF-003,voice-dif,blow,바람이 분다,바람 느-불-포-온.,바람 느불포온.,DIF. 불-=blow. 바람=wind
+SA-DIF-004,voice-dif,sing-dif,사람이 노래한다(퍼뜨리듯),사람 느-부르-포-온.,사람 느부르포온.,DIF. 부르-=sing. 청중 없이 공간에 퍼뜨림
+SA-DIF-006,voice-dif,dif-pst-fix,해가 빛났다 (수정),해 머-빛-칼-포-온.,해 머빛칼포온.,ASP(-칼-) → VOICE(-포-) → FINAL(-온). slot 순서 확정
+SA-DIF-007,voice-dif,dif-evid,해가 빛나는 것을 직접 본다,해 느-빛-포-드-온.,해 느빛포드온.,DIF+DIR. VOICE→EVID→FINAL 순서
+SA-DIF-008,voice-dif,dif-neg,해가 안 빛난다,해 빛-포-아 느-몰-온.,해 빛포아 느몰온.,"DIF+NEG. 빛포-가 단일 동사화, conneg 빛포-아. 잠정"
+SA-RECIP-001,reciprocal,hit-each,두 사람이 서로 쳤다,둘 사람 서르 머-치-칼-온.,둘 사람 서르 머치칸.,서르=RECIP(고어). 부사. 복수 주어
+SA-RECIP-002,reciprocal,help-each,아이들이 서로 돕는다,아이돌 서르 느-돕-리-온.,아이돌 서르 느돕련.,서르+복수(-돌). IPFV
+SA-RECIP-003,reciprocal,see-each,그들이 서로 보았다,그돌 서르 머-보-칼-온.,그돌 서르 머보칸.,서르+3PL
+SA-RECIP-004,reciprocal,give-each,둘이 서로 선물을 주었다,둘 사람 서르 주나 머-주-칼-온.,둘 사람 서르 주나 머주칸.,서르+주나(gift=give.NA 파생)
+SA-DISC-001,discourse,therefore,비가 왔다. 그래서 안 갔다,비 머-오-칼-온. 글 나 가-아 느-몰-온.,비 머오칸. 글 나 가아 느몰온.,글=therefore. 담화 접속 첫 사용
+SA-DISC-002,discourse,however,배고프다. 그런데 밥이 없다,나 느-고프-닌-온. 헌 밥=복.,나 느고프닌온. 헌 밥복.,헌=however
+SA-DISC-003,discourse,moreover,비가 온다. 또한 바람이 분다,비 느-오-온. 되도 바람 느-불-포-온.,비 느오온. 되도 바람 느불포온.,되도=moreover. DIF 결합
+SA-DISC-004,discourse,theref-rsn,그래서 갔다. 에미가 왔으니까,글 나 머-가-칼-온. 에미 머-오-칼-논테.,글 나 머가칸. 에미 머오칼논테.,글+standalone RSN
+SA-DISC-005,discourse,however-q,그런데 왜 안 갔느냐?,헌 왜 가-아 느-몰-연.,헌 왜 가아 느몰연.,헌+WH.Q+NEG
+SA-DISC-006,discourse,chain,배고프다. 그래서 밥을 먹었다. 그런데 아직 배고프다,나 느-고프-닌-온. 글 나-악 밥 머-먹-칼-온. 헌 아직 느-고프-닌-온.,나 느고프닌온. 글 나악 밥 머먹칸. 헌 아직 느고프닌온.,3문장 담화 연쇄
+SA-QUANT-001,quantifier,all,모든 사람이 왔다,모든 사람 머-오-칼-온.,모든 사람 머오칸.,모든=all
+SA-QUANT-002,quantifier,some,어떤 사람이 말한다,어떤 사람 느-말-온.,어떤 사람 느말온.,어떤=some
+SA-QUANT-003,quantifier,any-neg,아무 사람도 없다,아무 사람=도=복.,아무 사람도복.,아무+도+EXIST.NEG. 부정 극어
+SA-QUANT-004,quantifier,each,각 아이가 밥을 먹는다,낱 아이-악 밥 느-먹-온.,낱 아이악 밥 느먹온.,낱=each(고어). ERG
+SA-QUANT-005,quantifier,all-rel,모든 오는 사람이 좋다,나 모든 [느-오-마] 사람 느-좋-닌-온.,나 모든 느오마 사람 느좋닌온.,모든+관계절
+SA-QUANT-006,quantifier,any-cond,아무나 오면 말해라,아무 사람 느-오-살 말-라.,아무 사람 느오살 말라.,아무+COND+IMP
+SA-CMP-001,comparison,more,나는 너보다 더 크다,나 너-테 더 느-크-닌-온.,나 너테 더 느크닌온.,더=more
+SA-CMP-002,comparison,most,이 산이 가장 높다,이 산 한갓 느-높-닌-온.,이 산 한갓 느높닌온.,한갓=most(고어). 높-=high
+SA-CMP-003,comparison,as-much,나는 너만큼 크다,나 너-살라=만 느-크-닌-온.,나 너살라만 느크닌온.,COM+만=as much as
+SA-CMP-004,comparison,more-evid,그가 나보다 더 빠른 것 같다,그 나-테 더 느-빠르-닌-짐-온.,그 나테 더 느빠르닌짐온.,비교+INFER
+SA-CMP-005,comparison,most-rel,가장 큰 나무가 있다,[한갓 느-크-닌-마] 나무 느-있-닌-온.,한갓 느크닌마 나무 느있닌온.,한갓+관계절
+SA-AUX-001,auxiliary,prog,밥을 먹고 있다,나-악 밥 느-먹-탄 느-있-닌-온.,나악 밥 느먹탄 느있닌온.,V-탄 있-=진행/결과지속. 보조동사
+SA-AUX-002,auxiliary,resultative,문을 열어 놓았다,나-악 문 머-열-칼-탄 느-놓-온.,나악 문 머열칼탄 느놓온.,V-탄 놓-=결과 보존
+SA-AUX-003,auxiliary,try,먹어 보았다,나-악 밥 느-먹-탄 머-보-칼-온.,나악 밥 느먹탄 머보칸.,V-탄 보-=시행/시도
+SA-AUX-004,auxiliary,prog-q,먹고 있느냐?,너-악 밥 느-먹-탄 느-있-닌-언.,너악 밥 느먹탄 느있닌언.,보조동사+Y/N.Q
+SA-AUX-005,auxiliary,prog-neg,먹고 있지 않다,나-악 밥 먹-탄 있-아 느-몰-닌-온.,나악 밥 먹탄 있아 느몰닌온.,보조동사+NEG. 있-이 conneg
+SA-AUX-006,auxiliary,try-rsn,먹어 봤으니까 안다,나-악 밥 느-먹-탄 머-보-칼-논테 느-알-닌-온.,나악 밥 느먹탄 머보칼논테 느알닌온.,보조동사+RSN
+SA-CONC-001,concessive,basic,비가 오더라도 간다,비 느-오-살-칼라 나 느-가-온.,비 느오살칼라 나 느가온.,양보조건 -살-칼라. COND+CONTR 연쇄
+SA-CONC-002,concessive,pst,왔더라도 먹지 못했다,그 머-오-살-칼라 먹-아 느-달-몰-온.,그 머오살칼라 먹아 느달몰온.,양보+NEG+ABIL. 반사실 양보
+SA-CONC-003,concessive,evid,비가 올 것 같더라도 간다,비 차-오-짐-살-칼라 나 느-가-온.,비 차오짐살칼라 나 느가온.,INFER+양보조건
+SA-CONC-004,concessive,with-disc,비가 온다. 그런데 비가 오더라도 간다,비 느-오-온. 헌 비 느-오-살-칼라 나 느-가-온.,비 느오온. 헌 비 느오살칼라 나 느가온.,담화접속+양보
+SA-CMPLX-001,complex,refl-disc,자기를 다쳤다. 그래서 울었다,그악-머-상하-칼-온. 글 머-울-칼-온.,그악머상하칸. 글 머울칸.,REFL+담화접속
+SA-CMPLX-002,complex,dif-rel,빛나는 해가 크다,[느-빛-포-마] 해 느-크-닌-온.,느빛포마 해 느크닌온.,DIF in 관계절
+SA-CMPLX-003,complex,recip-conc,서로 치더라도 벗이다,둘 사람 서르 느-치-살-칼라 벗 느-닐-닌-온.,둘 사람 서르 느치살칼라 벗 느닐닌온.,RECIP+양보+copula
+SA-CMPLX-004,complex,all-refl,모든 사람이 자기를 보았다,모든 사람악-머-보-칼-온.,모든 사람악머보칸.,모든+REFL편입. 관형사는 편입 밖에 위치
+SA-CMPLX-005,complex,dif-abl,해에서부터 빛이 온다,빛 해-텐 느-오-온.,빛 해텐 느오온.,ABL. cf. DIF(해 느빛포온)와 다른 구문: 빛이 주어
+SA-CMPLX-006,complex,aux-refl,자기를 씻어 보았다,나악-느-씻-탄 머-보-칼-온.,나악느씻탄 머보칸.,REFL+보조동사(시행). 편입+SEQ+보-
+SA-CMPLX-007,complex,most-deriv,가장 큰 알나ㅸ온을 보았다,나-악 [한갓 느-크-닌-마] 알나ㅸ온 머-보-칼-온.,나악 한갓 느크닌마 알나ㅸ온 머보칸.,한갓+관계절+파생어(책). 전 체계 통합
+SA-CMPLX-008,complex,disc-evid-abl,그래서 학교에서 왔을 것이다,글 알돈-텐 머-오-칼-짐-온.,글 알돈텐 머오칼짐온.,담화접속+ABL+INFER+파생어(알돈)
+SA-CMPLX-009,complex,each-dif,각 별이 빛난다,낱 별 느-빛-포-온.,낱 별 느빛포온.,낱+DIF
+SA-CMPLX-010,complex,some-refl-q,어떤 사람이 자기를 다쳤느냐?,어떤 사람악-머-상하-칼-언.,어떤 사람악머상하칼언.,어떤+REFL+Y/N.Q
+SA-CMPLX-011,complex,full-6slot,해가 빛나는 것을 직접 보았다(추론 아닌 직접),나 [해 느-빛-칼-포-드-마] 때 머-보-칼-드-온.,나 해 느빛칼포드마 때 머보칼드온.,6-slot 전개: ASP-VOICE-EVID + 시간절 + 주절 DIR
+SA-NARR-001,narrative,morning,아침에 일어났다,나 아침-테 머-일어나-칼-온.,나 아침테 머일어나칸.,시간+서사. 아침=morning
+SA-NARR-002,narrative,wash-routine,씻고 밥을 먹었다,나 느-씻-루-탄 나-악 밥 머-먹-칼-온.,나 느씻루탄 나악 밥 머먹칸.,INT+SEQ+타동. A/S pivot: S(씻-)→A(먹-)
+SA-NARR-003,narrative,go-school,학교에 갔다,나 알돈-레 머-가-칼-온.,나 알돈레 머가칸.,파생어+ALL
+SA-NARR-004,narrative,teacher,교사가 가르쳤다,가르치파-악 알나 느-가르치-리-온.,가르치파악 알나 느가르치련.,"L1파생 2중(가르치파=teacher, 알나=knowledge)"
+SA-NARR-005,narrative,friend,벗과 같이 먹었다,나-악 벗-살라 밥 머-먹-칼-온.,나악 벗살라 밥 머먹칸.,COM+고어(벗)
+SA-NARR-006,narrative,evening,나조에 집에서 왔다,나 알돈-텐 집-레 나조-테 머-가-칼-온.,나 알돈텐 집레 나조테 머가칸.,ABL+ALL+시간. 나조=evening(고어)
+SA-NARR-007,narrative,think,밤에 너겼다,나 밤-테 머-너기-칼-온.,나 밤테 머너기칸.,너기-=think(고어). 밤=night
+SA-NARR-008,narrative,dream-come,꿈에서 그림자가 왔다,ㅿ울 ㆍ름-텐 머-오-칼-드-온.,ㅿ울 ㆍ름텐 머오칼드온.,ABL+DIR. 독자음소 집중
+SA-NARR-009,narrative,not-afraid,두렵지 않았다. 그래서 밖에 갔다,두렵-아 느-몰-닌-온. 글 나 밖-레 머-가-칼-온.,두렵아 느몰닌온. 글 나 밖레 머가칸.,NEG+담화접속
+SA-NARR-010,narrative,wave-hit,파도가 쳤다. 그런데 좋았다,ㅸ올-악 나 머-치-칼-온. 헌 느-좋-닌-온.,ㅸ올악 나 머치칸. 헌 느좋닌온.,담화접속(전환)+독자음소
+SA-NARR-011,narrative,each-star,각 별이 빛났다. 모든 것이 밝았다,낱 별 머-빛-칼-포-온. 모든 것 느-밝-닌-온.,낱 별 머빛칼포온. 모든 것 느밝닌온.,낱+DIF+모든. ASP-VOICE 순서
+SA-NARR-012,narrative,close,나는 산다,나 느-살-닌-온.,나 느살닌온.,서사 종결. Phase 4 반복
+SB-ACT-001,daily-action,boil,물을 끓인다,나-악 물 느-끓이-리-온.,나악 물 느끓이련.,"끓이-=boil(고유어,타동). 끓이나=국/수프(boil.NA)"
+SB-ACT-002,daily-action,roast,고기를 굽는다,나-악 고기 느-굽-리-온.,나악 고기 느굽련.,굽-=roast/grill(고유어)
+SB-ACT-003,daily-action,stir,밥을 섞는다,나-악 밥 느-섞-리-온.,나악 밥 느섞련.,섞-=mix/stir(고유어)
+SB-ACT-004,daily-action,sweep,땅을 쓴다,나-악 땅 느-쓸-리-온.,나악 땅 느쓸련.,쓸-=sweep(고유어)
+SB-ACT-005,daily-action,wipe,문을 닦는다,나-악 문 느-닦-리-온.,나악 문 느닦련.,닦-=wipe(고유어)
+SB-ACT-006,daily-action,launder,옷을 빤다,나-악 옷 느-빨-리-온.,나악 옷 느빨련.,"빨-=launder(고유어). 옷=clothes(고유어,신규)"
+SB-ACT-007,daily-action,run,아이가 달린다,아이 느-달리-리-온.,아이 느달리련.,"달리-=run(고유어,자동)"
+SB-ACT-008,daily-action,climb,산에 오른다,나 산-레 느-오르-리-온.,나 산레 느오르련.,"오르-=climb(고유어,자동)"
+SB-ACT-009,daily-action,descend,산에서 내린다,나 산-텐 느-내리-리-온.,나 산텐 느내리련.,내리-=descend(고유어). ABL
+SB-ACT-010,daily-action,cross,강을 건넌다,나 강 느-건너-리-온.,나 강 느건너련.,"건너-=cross(고유어,타동). 강=river"
+SB-ACT-011,daily-action,crawl,아이가 긴다,아이 느-기-리-온.,아이 느기련.,"기-=crawl(고유어,자동)"
+SB-ACT-012,daily-action,build,집을 짓는다,나-악 집 느-짓-리-온.,나악 집 느짓련.,"짓-=build(고유어,타동). 긋-(write)과 구분"
+SB-ACT-013,daily-action,weave,줄을 엮는다,나-악 줄 느-엮-리-온.,나악 줄 느엮련.,엮-=weave/braid(고유어)
+SB-ACT-014,daily-action,mold,그릇을 빚는다,나-악 그릇 느-빚-리-온.,나악 그릇 느빚련.,"빚-=mold/shape(고유어). 그릇=bowl/vessel(고유어,신규)"
+SB-ACT-015,daily-action,choose,열을 고른다,나-악 열 느-고르-리-온.,나악 열 느고르련.,고르-=choose(고유어). 열=fruit
+SB-ACT-016,daily-action,divide,밥을 나눈다,나-악 밥 느-나누-리-온.,나악 밥 느나누련.,나누-=divide/share(고유어)
+SB-ACT-017,daily-action,promise,벗에게 약속한다,나 벗-디 느-다짐-온.,나 벗디 느다짐온.,"다짐-=promise(고어 다짐하다). S=ABS, recipient=FRC. 자동사적"
+SB-ACT-018,daily-action,refuse,거절한다,나 느-마다-온.,나 느마다온.,마다-=refuse(고어). 자동사
+SB-ACT-019,daily-action,request,도움을 부탁한다,나 벗-디 돕나 느-빌-온.,나 벗디 돕나 느빌온.,빌-=request(고어). 돕나=help.NA(도움). FRC
+SB-ACT-020,daily-action,carry,짐을 진다,나-악 짐 느-지-리-온.,나악 짐 느지련.,"지-=carry on back(고유어). 짐=load(고유어,신규)"
+SB-ACT-021,daily-action,hang,옷을 건다,나-악 옷 느-걸-리-온.,나악 옷 느걸련.,걸-=hang(고유어)
+SB-ACT-022,daily-action,pour,물을 붓는다,나-악 물 느-붓-리-온.,나악 물 느붓련.,붓-=pour(고유어)
+SB-ACT-023,daily-action,slice,열을 자른다,나-악 열 느-자르-리-온.,나악 열 느자르련.,자르-=cut/slice(기존)
+SB-ACT-024,daily-action,plant,나무닌ㅸ온을 심는다,나-악 나무닌ㅸ온 느-심-리-온.,나악 나무닌ㅸ온 느심련.,심-=plant(고유어). 나무닌ㅸ온=seed(파생)
+SB-EMO-001,emotion,joy,기쁘다,나 느-기쁘-닌-온.,나 느기쁘닌온.,"기쁘-=joyful(고유어,stative)"
+SB-EMO-002,emotion,sad,슬프다,나 느-슬프-닌-온.,나 느슬프닌온.,"슬프-=sad(고유어,stative)"
+SB-EMO-003,emotion,surprise,놀랐다,나 머-놀라-칼-온.,나 머놀라칸.,"놀라-=be surprised(고유어,dynamic). EXP=ABS"
+SB-EMO-004,emotion,shame,부끄럽다,나 느-부끄럽-닌-온.,나 느부끄럽닌온.,"부끄럽-=ashamed(고유어,stative)"
+SB-EMO-005,emotion,miss,그립다,나 에미 느-그립-닌-온.,나 에미 느그립닌온.,그립-=miss/long for(고유어). EXP>STIM
+SB-EMO-006,emotion,envy,시샘한다,나 그 느-시샘-닌-온.,나 그 느시샘닌온.,시샘-=envy(고어). stative
+SB-EMO-007,emotion,regret,뉘우친다,나 느-뉘우치-리-온.,나 느뉘우치련.,"뉘우치-=regret(고어,dynamic)"
+SB-EMO-008,emotion,lonely,외롭다,나 느-외롭-닌-온.,나 느외롭닌온.,"외롭-=lonely(고유어,stative)"
+SB-EMO-009,emotion,frustrate,답답하다,나 느-답답-닌-온.,나 느답답닌온.,"답답-=frustrated(고유어,stative)"
+SB-EMO-010,emotion,excited,설렌다,나 느-설레-리-온.,나 느설레련.,"설레-=excited/flutter(고유어,dynamic)"
+SB-EMO-011,emotion,angry,분하다,나 느-분하-닌-온.,나 느분하닌온.,"분하-=indignant(고유어,stative)"
+SB-EMO-012,emotion,unjust,억울하다,나 느-억울-닌-온.,나 느억울닌온.,"억울-=unfairly treated(고유어,stative)"
+SB-EMO-013,emotion,calm,느긋하다,나 느-느긋-닌-온.,나 느느긋닌온.,"느긋-=calm/relaxed(고유어,stative)"
+SB-WTH-001,weather,spring,봄에 꽃이 핀다,봄-테 꽃 느-피-리-온.,봄테 꽃 느피련.,봄=spring(고유어). 피-=bloom(고유어)
+SB-WTH-002,weather,summer,여름에 해가 놀 빛난다,여름-테 해 놀 느-빛-포-온.,여름테 해 놀 느빛포온.,여름=summer(고유어). DIF
+SB-WTH-003,weather,autumn,가을에 잎이 떨어진다,가을-테 잎 느-떨어지-리-온.,가을테 잎 느떨어지련.,가을=autumn(고유어)
+SB-WTH-004,weather,winter,겨울에 어름이 있다,겨울-테 어름 느-있-닌-온.,겨울테 어름 느있닌온.,겨울=winter(고유어). 어름=ice(고어)
+SB-WTH-005,weather,thunder,우레가 친다,우레 느-치-포-온.,우레 느치포온.,우레=thunder(고어). DIF(소리 확산)
+SB-WTH-006,weather,lightning,번개가 빛난다,번개 느-빛-포-온.,번개 느빛포온.,번개=lightning(고유어). DIF
+SB-WTH-007,weather,dew,아침에 이슬이 있다,아침-테 이슬 느-있-닌-온.,아침테 이슬 느있닌온.,이슬=dew(고유어)
+SB-WTH-008,weather,frost,겨울에 서리가 있다,겨울-테 서리 느-있-닌-온.,겨울테 서리 느있닌온.,서리=frost(고유어)
+SB-WTH-009,weather,drought,비가 안 오니까 가문다,비 오-아 느-몰-논테 느-가물-닌-온.,비 오아 느몰논테 느가물닌온.,"가물-=drought(고유어,stative). RSN"
+SB-TOOL-001,tool,knife,칼로 열을 자른다,나-악 자르나-은 열 느-자르-리-온.,나악 자르나은 열 느자르련.,"자르나=knife(cut.NA 파생). -은=INS(도구격,v2에서 채택)"
+SB-TOOL-002,tool,needle,바늘로 옷을 꿰맨다,나-악 바늘-은 옷 느-꿰매-리-온.,나악 바늘은 옷 느꿰매련.,바늘=needle(고유어). 꿰매-=sew(고유어). INS -은
+SB-TOOL-003,tool,bowl,그릇에 밥이 있다,그릇-테 밥 느-있-닌-온.,그릇테 밥 느있닌온.,그릇=bowl(고유어)
+SB-TOOL-004,tool,thread,실로 엮는다,나-악 실-은 느-엮-리-온.,나악 실은 느엮련.,실=thread(고유어). INS
+SB-TOOL-005,tool,boat,배로 바다를 건넌다,나 배-은 바다 느-건너-리-온.,나 배은 바다 느건너련.,배=boat(고유어). INS
+SB-TOOL-006,tool,clothes-dry,옷이 마른다,옷 느-마르-리-온.,옷 느마르련.,마르-=dry
+SB-TOOL-007,tool,mirror,거울에서 자기를 보았다,나-악 거울-테 머-보-칼-온.,나악 거울테 머보칸.,거울=mirror(고유어). REFL편입+LOC. 독자 음소 기본어근 집중 회피
+SB-TOOL-008,tool,frame,틀에 긋나를 걸었다,나-악 틀-테 긋나 머-걸-칼-온.,나악 틀테 긋나 머걸칸.,틀=frame(고유어). 긋나=drawing/text(write.NA). 독자 음소 기본어근 집중 회피
+SB-SOC-001,social,king,왕이 있다,왕 느-있-닌-온.,왕 느있닌온.,왕=king(불투명차용)
+SB-SOC-002,social,soldier,지킴파가 왕을 지킨다,지킴파-악 왕 느-지킴-리-온.,지킴파악 왕 느지킴련.,지킴-=guard(고유어). 지킴파=soldier/guard(guard.PA 파생)
+SB-SOC-003,social,healer,고침파가 사람을 고친다,고침파-악 사람 느-고침-리-온.,고침파악 사람 느고침련.,고침-=heal/fix(고유어). 고침파=healer(heal.PA)
+SB-SOC-004,social,farmer,심파가 나무닌ㅸ온을 심는다,심파-악 나무닌ㅸ온 느-심-리-온.,심파악 나무닌ㅸ온 느심련.,심-=plant. 심파=farmer(plant.PA). 나무닌ㅸ온=seed
+SB-SOC-005,social,merchant,팔파가 열을 판다,팔파-악 열 느-팔-리-온.,팔파악 열 느팔련.,팔-=sell(고유어). 팔파=merchant(sell.PA). 열=fruit
+SB-SOC-006,social,enemy,맞서파가 왔다,맞서파 머-오-칼-온.,맞서파 머오칸.,맞서-=oppose(고유어). 맞서파=opponent(oppose.PA)
+SB-SOC-007,social,neighbor,이웃이 있다,이웃 느-있-닌-온.,이웃 느있닌온.,이웃=neighbor(고유어)
+SB-SOC-008,social,guest,손님이 왔다,손님 머-오-칼-온.,손님 머오칸.,손님=guest(고유어)
+SB-ABS-001,abstract,truth,참은 크다,참 느-크-닌-온.,참 느크닌온.,참=truth(고유어)
+SB-ABS-002,abstract,false,거짓은 나쁘다,거짓 느-나쁘-닌-온.,거짓 느나쁘닌온.,거짓=falsehood(고유어). 나쁘-=bad
+SB-ABS-003,abstract,beautiful,꽃이 아름답다,꽃 느-아름답-닌-온.,꽃 느아름답닌온.,"아름답-=beautiful(고유어,stative)"
+SB-ABS-004,abstract,right,그 말이 옳다,그 말나 느-옳-닌-온.,그 말나 느옳닌온.,옳-=right/correct(고유어). 말나=words(speak.NA)
+SB-ABS-005,abstract,wrong,그 너기나가 그르다,그 너기나 느-그르-닌-온.,그 너기나 느그르닌온.,그르-=wrong(고유어). 너기나=thought(think.NA)
+SB-ABS-006,abstract,freedom,풀리나가 좋다,나 풀리나 느-좋-닌-온.,나 풀리나 느좋닌온.,풀리-=be released(고유어). 풀리나=freedom(release.NA). EXP
+SB-ABS-007,abstract,bondage,묶이나가 나쁘다,나 묶이나 느-나쁘-닌-온.,나 묶이나 느나쁘닌온.,묶이-=be bound(고유어). 묶이나=bondage(bind.NA). 풀리나와 대립
+SB-ABS-008,abstract,strength,힘이 크다,힘 느-크-닌-온.,힘 느크닌온.,힘=strength/force(고유어)
+SB-ABS-009,abstract,peace,고요하다,느-고요-닌-온.,느고요닌온.,"고요-=peaceful/quiet(고유어,stative)"
+SB-ABS-010,abstract,hope,바람이 있다,바람 느-있-닌-온.,바람 느있닌온.,바람=wish/hope(고유어). wind와 동음. 문맥 구분
+SB-BOD-001,body-action,kneel,무릎을 꿇는다,나 느-꿇-리-온.,나 느꿇련.,"꿇-=kneel(고유어,자동). 무릎=knee(고유어,신규)"
+SB-BOD-002,body-action,nod,고개를 끄덕인다,나 골 느-끄덕이-리-온.,나 골 느끄덕이련.,끄덕이-=nod(고유어). 골=head
+SB-BOD-003,body-action,shake-head,고개를 젓는다,나 골 느-젓-리-온.,나 골 느젓련.,젓-=shake(고유어)
+SB-BOD-004,body-action,embrace,아이를 안는다,나-악 아이 느-안-리-온.,나악 아이 느안련.,"안-=embrace/hold(고유어,타동)"
+SB-BOD-005,body-action,lean,나무에 기댄다,나 나무-테 느-기대-리-온.,나 나무테 느기대련.,기대-=lean on(고유어). LOC
+SB-BOD-006,body-action,shiver,추워서 떤다,나 느-차-닌-논테 느-떨-리-온.,나 느차닌논테 느떨련.,떨-=shiver(고유어). 차-=cold(stative). RSN
+SB-BOD-007,body-action,sweat,땀이 난다,나 땀 느-나-리-온.,나 땀 느나련.,"땀=sweat(고유어,신규). 나-=come out/be born"
+SB-BOD-008,body-action,bleed,피가 난다,나 피 느-나-리-온.,나 피 느나련.,피=blood. 나-=come out
+SB-BOD-009,body-action,breathe-deep,깊이 숨쉰다,나 깊이 느-숨쉬-리-온.,나 깊이 느숨쉬련.,"깊이=deeply(고유어,부사). 깊-=deep(stative,신규)"
+SB-BOD-010,body-action,yawn,하품한다,나 느-하품-리-온.,나 느하품련.,"하품-=yawn(고유어,자동)"
+SB-CPLX-001,complex-deriv,kitchen,끓이돈에서 밥을 만든다,나-악 끓이돈-테 밥 느-만들-리-온.,나악 끓이돈테 밥 느만들련.,끓이돈=kitchen(boil.TON 파생). LOC
+SB-CPLX-002,complex-deriv,hospital,고침돈에 갔다,나 고침돈-레 머-가-칼-온.,나 고침돈레 머가칸.,고침돈=hospital(heal.TON 파생). ALL
+SB-CPLX-003,complex-deriv,market,팔돈에서 열을 샀다,나-악 팔돈-텐 열 머-사-칼-온.,나악 팔돈텐 열 머사칸.,"팔돈=market(sell.TON). 사-=buy(고유어,신규). ABL"
+SB-CPLX-004,complex-deriv,harbor,배ㅸ앙에 배가 있다,배ㅸ앙-테 배 느-있-닌-온.,배ㅸ앙테 배 느있닌온.,배ㅸ앙=harbor(boat.POOL 파생)
+SB-CPLX-005,complex-deriv,trail,걷ㅿ은이 길다,걷ㅿ은 느-길-닌-온.,걷ㅿ은 느길닌온.,걷ㅿ은=trail(walk.PATH 파생). 길-=long
+SB-CPLX-006,complex-deriv,teacher-good,가르치파가 아름답게 가르친다,가르치파-악 아이-디 놀 잘 느-가르치-리-온.,가르치파악 아이디 놀 잘 느가르치련.,이중 부사: 놀(very)+잘(well)
+SB-CPLX-007,complex-deriv,seed-grow,나무닌ㅸ온이 나무리ㅸ온이 되었다,나무닌ㅸ온 나무리ㅸ온 머-되-칼-온.,나무닌ㅸ온 나무리ㅸ온 머되칸.,LATENT.SOURCE→ACTIVE.SOURCE. 씨앗이 싹이 되었다. 흐름양태 대비
+SB-CPLX-008,complex-deriv,weapon,치나ㅸ온이 있다,치나ㅸ온 느-있-닌-온.,치나ㅸ온 느있닌온.,치나=struck thing(hit.NA). 치나ㅸ온=weapon(hit.NA.SOURCE=타격의 원천)
+SB-CPLX-009,complex-deriv,graveyard,죽돈에 고요하다,죽돈-테 느-고요-닌-온.,죽돈테 느고요닌온.,죽돈=graveyard(die.TON). 고요-=peaceful
+SB-CPLX-010,complex-deriv,song-path,부르나ㅿ은이 좋다,나 부르나ㅿ은 느-좋-닌-온.,나 부르나ㅿ은 느좋닌온.,부르나ㅿ은=melody(sing.NA.PATH=노래의 통로). EXP
+SC-N1-001,ext-narrative,dawn,아침에 일어났다,나 아침-테 머-일어나-칼-온.,나 아침테 머일어나칸.,확장 서사 1: 하루
+SC-N1-002,ext-narrative,wash,씻고 옷을 입었다,나 느-씻-루-탄 나-악 옷 머-입-칼-온.,나 느씻루탄 나악 옷 머입칸.,INT+SEQ. 입-=wear(신규)
+SC-N1-003,ext-narrative,cook,끓이돈에서 밥을 끓였다,나-악 끓이돈-테 밥 머-끓이-칼-온.,나악 끓이돈테 밥 머끓이칸.,파생(끓이돈=kitchen)
+SC-N1-004,ext-narrative,eat-prog,먹고 있었다,나-악 밥 느-먹-탄 느-있-닌-온.,나악 밥 느먹탄 느있닌온.,보조동사(진행)
+SC-N1-005,ext-narrative,guest,손님이 왔다. 그래서 문을 열었다,손님 머-오-칼-온. 글 나-악 문 머-열-칼-온.,손님 머오칸. 글 나악 문 머열칸.,담화접속 글
+SC-N1-006,ext-narrative,greet,안녕 하고 말했다,나 안녕 [느-닐-닌-온]=락 머-말-온.,나 안녕 느닐닌온락 머말온.,인용+copula
+SC-N1-007,ext-narrative,together,벗과 같이 밖에 갔다,나 벗-살라 밖-레 머-가-칼-온.,나 벗살라 밖레 머가칸.,COM
+SC-N1-008,ext-narrative,market,팔돈에서 열과 고기를 샀다,나-악 팔돈-텐 열 고기 머-사-칼-온.,나악 팔돈텐 열 고기 머사칸.,파생(팔돈=market)+ABL. 복수ABS
+SC-N1-009,ext-narrative,carry,짐을 지고 집에 갔다,나-악 짐 느-지-탄 집-레 머-가-칼-온.,나악 짐 느지탄 집레 머가칸.,SEQ+ALL
+SC-N1-010,ext-narrative,cook2,에미와 밥을 끓였다,나-악 에미-살라 밥 머-끓이-칼-온.,나악 에미살라 밥 머끓이칸.,COM
+SC-N1-011,ext-narrative,evening,나조에 이웃이 왔다,나조-테 이웃 머-오-칼-온.,나조테 이웃 머오칸.,고어(나조)+고유어(이웃)
+SC-N1-012,ext-narrative,share,밥을 나누어 먹었다,나-악 밥 느-나누-탄 머-먹-칼-온.,나악 밥 느나누탄 머먹칸.,SEQ(나누-+먹-)
+SC-N1-013,ext-narrative,talk,이웃과 말했다. 이웃이 말한 것을 들었다,나 이웃-살라 머-말-온. 나 [이웃 머-말-칼-모] 머-듣-칼-온.,나 이웃살라 머말온. 나 이웃 머말칼모 머듣칸.,COM+COMP
+SC-N1-014,ext-narrative,star,밤에 별이 빛났다. 모든 것이 고요했다,밤-테 별 머-빛-칼-포-온. 모든 것 느-고요-닌-온.,밤테 별 머빛칼포온. 모든 것 느고요닌온.,DIF+부정관형사
+SC-N1-015,ext-narrative,sleep,잤다. 꿈에서 그림자가 왔다,나 머-자-칼-온. ㅿ울 ㆍ름-텐 머-오-칼-드-온.,나 머자칸. ㅿ울 ㆍ름텐 머오칼드온.,ABL+DIR+독자음소
+SC-N1-016,ext-narrative,dream-speak,그림자가 '두려워 마라'고 말했다,ㅿ울 [두렵-아 말-라]=락 머-말-온.,ㅿ울 두렵아 말라락 머말온.,인용+PROH
+SC-N1-017,ext-narrative,wake,일어났다. 두렵지 않았다,나 머-일어나-칼-온. 두렵-아 느-몰-닌-온.,나 머일어나칸. 두렵아 느몰닌온.,NEG
+SC-N1-018,ext-narrative,dawn2,해가 빛났다. 그래서 밖에 갔다,해 머-빛-칼-포-온. 글 나 밖-레 머-가-칼-온.,해 머빛칼포온. 글 나 밖레 머가칸.,DIF+담화접속
+SC-N1-019,ext-narrative,close,나는 산다,나 느-살-닌-온.,나 느살닌온.,서사 종결
+SC-DLG1-001,ext-dialogue,greet-q,어디서 왔느냐?,[가] 너 어디-텐 머-오-칼-연.,너 어디텐 머오칼연.,ABL+WH.Q
+SC-DLG1-002,ext-dialogue,from-sea,바다에서 왔다,[나] 바다-텐 머-오-칼-온.,바다텐 머오칸.,ABL
+SC-DLG1-003,ext-dialogue,sell-q,무엇을 파느냐?,[가] 너-악 무엇 느-팔-연.,너악 무엇 느팔연.,WH.Q+ERG
+SC-DLG1-004,ext-dialogue,sell-fish,괴를 판다,[나] 나-악 괴 느-팔-온.,나악 괴 느팔온.,괴=fish(고어). ERG
+SC-DLG1-005,ext-dialogue,how-many,몇이냐?,[가] 괴 어떻 느-있-닌-연.,괴 어떻 느있닌연.,수량 의문
+SC-DLG1-006,ext-dialogue,count,다섯 있다,[나] 괴 ㅸ울 느-있-닌-온.,괴 ㅸ울 느있닌온.,ㅸ울=5
+SC-DLG1-007,ext-dialogue,big-q,크냐?,[가] 괴 느-크-닌-언.,괴 느크닌언.,Y/N.Q
+SC-DLG1-008,ext-dialogue,compare,이것이 저것보다 더 크다,[나] 이-알 저-테 더 느-크-닌-온.,이알 저테 더 느크닌온.,ABS.SPOT+비교+더
+SC-DLG1-009,ext-dialogue,buy,셋 사겠다,[가] 나-악 섬 차-사-온.,나악 섬 차사온.,FUT+수사
+SC-DLG1-010,ext-dialogue,give,줘라,[나] 주-라.,주라.,IMP
+SC-DLG1-011,ext-dialogue,thanks,고맙다,[가] 느-고맙-닌-온.,느고맙닌온.,stative
+SC-DLG1-012,ext-dialogue,come-again,다시 와라,[나] 되 오-라.,되 오라.,되=again+IMP
+SC-LET-001,letter,opening,에미에게,에미-디.,에미디.,편지 서두. FRC=수신자
+SC-LET-002,letter,miss,그립다,나 에미 느-그립-닌-온.,나 에미 느그립닌온.,감정
+SC-LET-003,letter,far,멀리 있다,나 먼 곳-테 느-있-닌-온.,나 먼 곳테 느있닌온.,멀-의 관형형→먼
+SC-LET-004,letter,study,학교에서 알나를 배운다,나 알돈-테 알나 느-배우-리-온.,나 알돈테 알나 느배우련.,"배우-=learn(고유어,신규). 파생어"
+SC-LET-005,letter,friend,좋은 벗이 있다,[느-좋-닌-마] 벗 느-있-닌-온.,느좋닌마 벗 느있닌온.,REL+고어
+SC-LET-006,letter,healthy,몸이 괜찮으니까 걱정 마라,나 몸 느-괜찮-닌-논테 걱정-아 말-라.,나 몸 느괜찮닌논테 걱정아 말라.,"RSN+PROH. 걱정-=worry(불투명,신규)"
+SC-LET-007,letter,promise,곧 돌아가겠다,나 곧 차-돌아가-온.,나 곧 차돌아가온.,"돌아가-=return(고유어,신규). FUT. 곧=soon(고유어)"
+SC-LET-008,letter,closing,에미를 너긴다,나 에미 느-너기-리-온.,나 에미 느너기련.,너기-=think of(고어). 편지 말미
+SC-DESC-001,description,village,바다 이웃에 마을이 있다,바다 이웃-테 마을 느-있-닌-온.,바다 이웃테 마을 느있닌온.,"마을=village(고유어,신규). 장소 묘사"
+SC-DESC-002,description,houses,집이 많다,집 느-많-닌-온.,집 느많닌온.,많-=many
+SC-DESC-003,description,sea-view,바다가 크고 푸르다,바다 느-크-닌-탄 느-푸르-닌-온.,바다 느크닌탄 느푸르닌온.,SEQ로 병렬 기술
+SC-DESC-004,description,wave,ㅸ올이 늘 온다,ㅸ올 늘 느-오-논-온.,ㅸ올 늘 느오논.,HAB. -논-온→논 융합
+SC-DESC-005,description,fisher,괴잡파가 바다에서 괴를 잡는다,잡파-악 바다-텐 괴 느-잡-리-온.,잡파악 바다텐 괴 느잡련.,잡파=fish-catcher/fisher (잡-=catch + -파 PA). 기존 괴잡파 transparent compound 의심형 제거.
+SC-DESC-006,description,market-desc,팔돈이 크다. 열과 괴가 있다,팔돈 느-크-닌-온. 열 괴 느-있-닌-온.,팔돈 느크닌온. 열 괴 느있닌온.,파생어 실전
+SC-DESC-007,description,sunset,나조에 해가 붉다. 바다가 아름답다,나조-테 해 느-붉-닌-온. 바다 느-아름답-닌-온.,나조테 해 느붉닌온. 바다 느아름답닌온.,색+추상형용사
+SC-RECIPE-001,recipe,wash-rice,밥을 씻어라,밥 씻-라.,밥 씻라.,레시피: IMP
+SC-RECIPE-002,recipe,add-water,물을 부어라,물 붓-라.,물 붓라.,IMP
+SC-RECIPE-003,recipe,boil,끓여라,끓이-라.,끓이라.,IMP
+SC-RECIPE-004,recipe,wait,기다려라. 물이 끓으면 불을 줄여라,기다리-라. 물 느-끓-살 불 줄이-라.,기다리라. 물 느끓살 불 줄이라.,"IMP+COND. 끓-=boil(자동,신규). 줄이-=reduce(신규)"
+SC-RECIPE-005,recipe,stir,섞어라,섞-라.,섞라.,IMP
+SC-RECIPE-006,recipe,serve,그릇에 놓아라. 먹어라,그릇-테 놓-라. 먹-라.,그릇테 놓라. 먹라.,IMP 연속
+SC-ARG-001,argument,thesis,꿈에서 온 그림자는 두렵지 않다,[ㆍ름-텐 느-오-마] ㅿ울=흔 두렵-아 느-몰-닌-온.,ㆍ름텐 느오마 ㅿ울흔 두렵아 느몰닌온.,논증 주제문. ABL+REL+TOP+NEG
+SC-ARG-002,argument,premise1,그림자는 꿈에서 온다. 꿈은 내 안에 있다,ㅿ울 ㆍ름-텐 느-오-드-온. ㆍ름 나 안-테 느-있-닌-온.,ㅿ울 ㆍ름텐 느오드온. ㆍ름 나 안테 느있닌온.,DIR: 직접 경험
+SC-ARG-003,argument,premise2,그래서 그림자는 내 안에서 온다,글 ㅿ울 나 안-텐 느-오-짐-온.,글 ㅿ울 나 안텐 느오짐온.,담화접속+ABL+INFER: 추론
+SC-ARG-004,argument,conc,내 안에서 온 것은 나이다. 그래서 두렵지 않다,[나 안-텐 느-오-마] 것=흔 나 느-닐-닌-온. 글 두렵-아 느-몰-닌-온.,나 안텐 느오마 것흔 나 느닐닌온. 글 두렵아 느몰닌온.,REL+copula+담화접속+NEG. 논증 결론
+SC-MONO-001,monologue,night,밤이다. 고요하다,밤 느-닐-닌-온. 느-고요-닌-온.,밤 느닐닌온. 느고요닌온.,독백 시작. copula
+SC-MONO-002,monologue,think,너긴다. 왜 여기에 있느냐고,나 느-너기-리-온. [왜 이곳-테 느-있-닌-연]=락.,나 느너기련. 왜 이곳테 느있닌연락.,너기-+자문 인용(=락)
+SC-MONO-003,monologue,remember,에미가 그립다. 에비가 그립다,나 에미 느-그립-닌-온. 에비 느-그립-닌-온.,나 에미 느그립닌온. 에비 느그립닌온.,감정 병렬
+SC-MONO-004,monologue,infer,내일 비가 올 것 같다,내일 비 차-오-짐-온.,내일 비 차오짐온.,INFER
+SC-MONO-005,monologue,concess,비가 오더라도 가겠다,비 느-오-살-칼라 차-가-온.,비 느오살칼라 차가온.,양보+FUT
+SC-MONO-006,monologue,hope,바람이 있다. 참을 찾겠다,바람 느-있-닌-온. 참 차-찾-온.,바람 느있닌온. 참 차찾온.,추상 명사+FUT
+SC-MONO-007,monologue,close,나는 산다,나 느-살-닌-온.,나 느살닌온.,반복 종결구
+SD-HON-001,politeness,decl-polite,갑니다,느-가-디-온.,느가디온.,Level 1(예의). -디-(HON) 첫 사용
+SD-HON-002,politeness,decl-plain,간다,느-가-온.,느가온.,Level 0(무표) 대비
+SD-HON-003,politeness,q-polite,가십니까?,느-가-디-언.,느가디언.,HON+Y/N.Q
+SD-HON-004,politeness,imp-polite,가십시오,가-디-라.,가디라.,HON+IMP
+SD-HON-005,politeness,hort-polite,가시지요,가-탄 너-디-온.,가탄 너디온.,HON+HORT
+SD-HON-006,politeness,neg-polite,안 갑니다,가-아 느-몰-디-온.,가아 느몰디온.,HON+NEG
+SD-HON-007,politeness,asp-polite,가고 계십니다,느-가-리-디-온.,느가리디온.,HON+IPFV
+SD-HON-008,politeness,evid-polite,가신 것 같습니다,머-가-칼-짐-디-온.,머가칼짐디온.,HON+INFER. 5-slot 중첩: PST-TEL-INFER-HON-DECL
+SD-HON-009,politeness,exist-polite,있습니다,느-있-닌-디-온.,느있닌디온.,HON+STAT
+SD-HON-010,politeness,cop-polite,사람입니다,나 사람 느-닐-닌-디-온.,나 사람 느닐닌디온.,HON+copula
+SD-HON-011,politeness,formal-top,그것은(격식),그것=흐는,그것흐는,Level 2 격식 clitic. =흐는(TOP)
+SD-HON-012,politeness,formal-add,도(격식),나=흐도,나흐도,=흐도(ADD)
+SD-HON-013,politeness,formal-only,만(격식),이것=흐만,이것흐만,=흐만(ONLY)
+SD-HON-014,politeness,formal-quot,라고(격식),[느-가-디-온]=흐고,느가디온흐고,=흐고(QUOT 격식)
+SD-HON-015,politeness,formal-hear,라더라(격식),느-가-디-온=흐래.,느가디온흐래.,=흐래(HEAR 격식)
+SD-HON-016,politeness,formal-full,그것은 있습니다(격식),그것=흐는 느-있-닌-디-온.,그것흐는 느있닌디온.,Level 2 전개: 격식 clitic + HON verb
+SD-DLG-001,polite-dialogue,greet,안녕하십니까,안녕 느-닐-닌-디-언.,안녕 느닐닌디언.,격식 인사. copula+HON+Y/N.Q
+SD-DLG-002,polite-dialogue,name,이름이 무엇이십니까?,이름 무엇 느-닐-닌-디-연.,이름 무엇 느닐닌디연.,HON+WH.Q+copula
+SD-DLG-003,polite-dialogue,from,어디에서 오셨습니까?,어디-텐 머-오-칼-디-연.,어디텐 머오칼디연.,ABL+HON+WH.Q
+SD-DLG-004,polite-dialogue,purpose,왜 오셨습니까?,왜 머-오-칼-디-연.,왜 머오칼디연.,HON+WH.Q
+SD-DLG-005,polite-dialogue,answer,알돈에서 왔습니다,나 알돈-텐 머-오-칼-디-온.,나 알돈텐 머오칼디온.,ABL+HON+파생어
+SD-DLG-006,polite-dialogue,sit,앉으십시오,앉-디-라.,앉디라.,HON+IMP
+SD-DLG-007,polite-dialogue,tea,물을 드시겠습니까?,물 차-먹-디-언.,물 차먹디언.,FUT+HON+Y/N.Q. 먹-=eat/drink
+SD-DLG-008,polite-dialogue,thanks,고맙습니다,느-고맙-닌-디-온.,느고맙닌디온.,HON+stative
+SD-DLG-009,polite-dialogue,wait,기다리십시오,기다리-디-라.,기다리디라.,HON+IMP
+SD-DLG-010,polite-dialogue,goodbye,안녕히 가십시오,잘 가-디-라.,잘 가디라.,HON+IMP. 잘=well
+SD-LET-001,polite-letter,opening,에미께(격식),에미-디=흐는.,에미디흐는.,FRC+격식 TOP. 편지 수신자 표기에 FRC 직접 활용
+SD-LET-002,polite-letter,miss-hon,그립습니다,나 에미 느-그립-닌-디-온.,나 에미 느그립닌디온.,HON+감정
+SD-LET-003,polite-letter,well-q,괜찮으십니까?,에미 느-괜찮-닌-디-언.,에미 느괜찮닌디언.,HON+Y/N.Q
+SD-LET-004,polite-letter,return,돌아가겠습니다,나 곧 차-돌아가-디-온.,나 곧 차돌아가디온.,FUT+HON
+SD-LET-005,polite-letter,closing,너깁니다(격식),나 에미 느-너기-리-디-온.,나 에미 느너기리디온.,HON+IPFV. 격식 편지 말미
+SD-NARR-001,polite-narrative,king-speak,왕이 말씀하셨다,왕 머-말-칼-디-온.,왕 머말칼디온.,서사 내 HON. 왕에 대한 존대
+SD-NARR-002,polite-narrative,king-order,왕이 '가십시오'라고 말씀하셨다,왕 [가-디-라]=흐고 머-말-칼-디-온.,왕 가디라흐고 머말칼디온.,인용 내 HON+IMP + 격식 QUOT + 서술 HON
+SD-NARR-003,polite-narrative,scholar,학자가 '참이십니다'라고 말씀하셨다,알파 [참 느-닐-닌-디-온]=흐고 머-말-칼-디-온.,알파 참 느닐닌디온흐고 머말칼디온.,copula+HON in quote + HON on matrix
+SD-MIX-001,register-mix,plain-to-polite,'간다'고 했는데 '갑니다'로 고쳤다,나 [느-가-온]=락 머-말-칼라 [느-가-디-온]=락 되 머-말-온.,나 느가온락 머말칼라 느가디온락 되 머말온.,CONTR. plain vs polite 대비. 메타언어적
+SD-MIX-002,register-mix,friend-vs-king,"벗에게는 '간다', 왕에게는 '갑니다'","벗-디 [느-가-온]=락, 왕-디 [느-가-디-온]=흐고.","벗디 느가온락, 왕디 느가디온흐고.",FRC(addressee) 명시 + register 대비. plain =락 vs formal =흐고
+E-DRV-001,speech,malpa-von-1,이 사람은 말파ㅸ온이다.,이 사람 말파ㅸ온 느-닐-닌-온.,이 사람 말파ㅸ온 느닐닌온.,simple copular attestation; speaker/source noun
+E-DRV-002,speech,malpa-von-2,마을마다 한 말파ㅸ온이 있다.,마을-돈 마다 한 말파ㅸ온 느-있-닌-온.,마을돈 마다 한 말파ㅸ온 느있닌온.,existential attestation; ordinary register
+E-DRV-003,speech,malpa-ri-von-1,저 여인은 말파리ㅸ온이다.,저 여인 말파리ㅸ온 느-닐-닌-온.,저 여인 말파리ㅸ온 느닐닌온.,copular attestation; active-source/orator noun
+E-DRV-004,speech,malpa-ri-von-2,축제 날에는 말파리ㅸ온이 앞에 선다.,축제 날-테 말파리ㅸ온 앞-테 느-서-리-온.,축제 날테 말파리ㅸ온 앞테 느서리온.,eventive discourse role attestation
+E-DRV-005,vision,pona-zun-1,창문 둘 사이에 보나ㅿ은이 열린다.,창문 둘 사이-테 보나ㅿ은 느-열-리-온.,창문 둘 사이테 보나ㅿ은 느열리온.,visual-path noun in spatial frame
+E-DRV-006,vision,pona-zun-2,성문 위에서 남쪽까지 긴 보나ㅿ은이 있다.,성문 위-텐 남쪽-레 긴 보나ㅿ은 느-있-닌-온.,성문 위텐 남쪽레 긴 보나ㅿ은 느있닌온.,extended path semantics attested
+E-DRV-007,vision,pona-von-1,이 언덕은 좋은 보나ㅸ온이다.,이 언덕 좋은 보나ㅸ온 느-닐-닌-온.,이 언덕 좋은 보나ㅸ온 느닐닌온.,viewpoint/source noun attested
+E-DRV-008,vision,pona-von-2,왕은 높은 보나ㅸ온에서 군중을 보았다.,왕 높은 보나ㅸ온-텐 군중 머-보-칼-온.,왕 높은 보나ㅸ온텐 군중 머보칼온.,locational use confirms viewpoint semantics
+E-DRV-009,vision,pona-pang-1,북쪽 집은 작은 보나ㅸ앙이다.,북쪽 집 작은 보나ㅸ앙 느-닐-닌-온.,북쪽 집 작은 보나ㅸ앙 느닐닌온.,gallery/archive-like noun; still marked
+E-DRV-010,vision,pona-pang-2,화공들은 보나ㅸ앙에 그림을 모았다.,화공-악 그림 보나ㅸ앙-테 머-모-칼-온.,화공악 그림 보나ㅸ앙테 머모칼온.,usable but domain-restricted visual storage noun
+E-DRV-011,vision,pona-nul-1,전쟁 뒤 그 장면의 보나눌이 남았다.,전쟁 뒤 그 장면 보나눌 머-남-닌-온.,전쟁 뒤 그 장면 보나눌 머남닌온.,afterimage/residual image semantics
+E-DRV-012,vision,pona-nul-2,아이 눈에 보나눌이 오래 남는다.,아이 눈-테 보나눌 느-남-닌-온.,아이 눈테 보나눌 느남닌온.,"marked residue noun, likely peripheral"
+E-DRV-013,text,ssuna-von-1,이 두루마리는 쓰나ㅸ온이다.,이 두루마리 쓰나ㅸ온 느-닐-닌-온.,이 두루마리 쓰나ㅸ온 느닐닌온.,source-text noun attested
+E-DRV-014,text,ssuna-von-2,수도원은 세 권의 쓰나ㅸ온을 지킨다.,수도원 세 쓰나ㅸ온 느-지키-리-온.,수도원 세 쓰나ㅸ온 느지키리온.,archive/canonical text context
+E-DRV-015,text,ssuna-pang-1,산 아래 큰 집은 쓰나ㅸ앙이다.,산 아래 큰 집 쓰나ㅸ앙 느-닐-닌-온.,산 아래 큰 집 쓰나ㅸ앙 느닐닌온.,text repository noun attested
+E-DRV-016,text,ssuna-pang-2,서기관들은 새 쓰나ㅸ앙에 문서를 놓았다.,서기관-악 문서 새 쓰나ㅸ앙-테 머-놓-칼-온.,서기관악 문서 새 쓰나ㅸ앙테 머놓칼온.,repository/storage frame
+E-DRV-017,text,ssuna-zun-1,이 길은 남문으로 가는 쓰나ㅿ은이다.,이 길 남문-레 가-마 쓰나ㅿ은 느-닐-닌-온.,이 길 남문레 가마 쓰나ㅿ은 느닐닌온.,publication/distribution path noun
+E-DRV-018,text,ssuna-zun-2,사신들은 쓰나ㅿ은을 따라 글을 돌렸다.,사신-악 글 쓰나ㅿ은 따라 머-모-칼-온.,사신악 글 쓰나ㅿ은 따라 머모칼온.,channel/distribution semantics
+E-DRV-019,text,ssuna-nul-1,불탄 집에서 남은 것은 짧은 쓰나눌뿐이다.,불타-마 집-텐 짧은 쓰나눌만 느-있-닌-온.,불타마 집텐 짧은 쓰나눌만 느있닌온.,record/residual text noun
+E-DRV-020,text,ssuna-nul-2,그는 옛 쓰나눌을 다시 모았다.,그-악 옛 쓰나눌 머-모-칼-온.,그악 옛 쓰나눌 머모칼온.,archival residue noun usable in prose
+E-DRV-021,growth,kkotnin-von-1,봄비 뒤 가지마다 꽃닌ㅸ온이 있다.,봄비 뒤 가지-돈 꽃닌ㅸ온 느-있-닌-온.,봄비 뒤 가지돈 꽃닌ㅸ온 느있닌온.,latent bloom-source noun attested
+E-DRV-022,growth,kkotnin-von-2,정원지기는 꽃닌ㅸ온을 먼저 모았다.,정원지기-악 꽃닌ㅸ온 먼저 머-모-칼-온.,정원지기악 꽃닌ㅸ온 먼저 머모칼온.,horticultural context confirms usability
+E-DRV-023,growth,yeol-nul-1,첫 열눌이 가지 끝에 맺혔다.,첫 열눌 가지 끝-테 머-있-닌-온.,첫 열눌 가지 끝테 머있닌온.,fruit-endpoint noun attested
+E-DRV-024,growth,yeol-nul-2,아이는 첫 열눌을 바구니에 놓았다.,아이-악 첫 열눌 바구니-테 머-놓-칼-온.,아이악 첫 열눌 바구니테 머놓칼온.,everyday harvest context
+E-DRV-025,place,aldon-pang-1,새 건물은 알돈ㅸ앙이다.,새 건물 알돈ㅸ앙 느-닐-닌-온.,새 건물 알돈ㅸ앙 느닐닌온.,compound-school-complex noun; marked overlap with 알돈/알나ㅸ앙
+E-DRV-026,place,aldon-pang-2,우리는 알돈ㅸ앙 바깥 마당을 먼저 열었다.,우리-악 알돈ㅸ앙 바깥 마당 먼저 머-열-칼-온.,우리악 알돈ㅸ앙 바깥 마당 먼저 머열칼온.,usable but semantically heavy; retain as candidate
+E-DRV-027,social,bilna-1,네 빌나는 짧다.,너 빌나 짧-닌-온.,너 빌나 짧닌온.,request-content noun in admin register
+E-DRV-028,social,bilna-2,장로들은 새 빌나를 읽고 답했다.,"장로-악 새 빌나 머-읽-칼-온, 되도 답 머-말-칼-온.","장로악 새 빌나 머읽칼온, 되도 답 머말칼온.",petition/request document noun
+E-DRV-029,daily,jina-1,그는 무거운 지나를 내려놓았다.,그-악 무거운 지나 머-놓-칼-온.,그악 무거운 지나 머놓칼온.,load/carry noun in daily register
+E-DRV-030,daily,jina-2,비 온 뒤 지나가 젖었다.,비 뒤 지나 머-젖-닌-온.,비 뒤 지나 머젖닌온.,"ordinary object noun, narrative-friendly"
+E-DRV-031,mixed,combo-1,젊은 말파ㅸ온이 말포리ㅿ은을 곧 열었다.,젊은 말파ㅸ온 말포리ㅿ은 곧 느-열-칼-온.,젊은 말파ㅸ온 말포리ㅿ은 곧 느열칼온.,candidate integrates with existing canon noun
+E-DRV-032,mixed,combo-2,사본은 쓰나ㅸ온이 아니고 오래 남은 쓰나눌일 뿐이다.,"사본 쓰나ㅸ온 알-아 느-몰-닌-온, 오래 쓰나눌만 느-닐-닌-온.","사본 쓰나ㅸ온 알아 느몰닌온, 오래 쓰나눌만 느닐닌온.",source-text vs residual-record contrast
+E-DRV-033,mixed,combo-3,"봄 첫날 정원과 기록실과 광장에는 꽃닌ㅸ온, 쓰나ㅸ온, 말파리ㅸ온이 함께 있었다.","봄 첫날 정원-테 꽃닌ㅸ온, 기록실-테 쓰나ㅸ온, 광장-테 말파리ㅸ온 함께 느-있-닌-온.","봄 첫날 정원테 꽃닌ㅸ온, 기록실테 쓰나ㅸ온, 광장테 말파리ㅸ온 함께 느있닌온.",three promoted nouns in coordinated attestation
+E-DRV-034,mixed,combo-4,이 언덕의 보나ㅸ온과 저 탑의 보나ㅿ은은 서로 다르다.,이 언덕 보나ㅸ온 과 저 탑 보나ㅿ은 서로 다르-닌-온.,이 언덕 보나ㅸ온 과 저 탑 보나ㅿ은 서로 다르닌온.,visual cluster contrast test
+E-DRV-035,mixed,combo-5,문지기는 쓰나ㅿ은을 막고 보나ㅿ은만 열었다.,"문지기-악 쓰나ㅿ은 막-아 머-놓-칼-온, 보나ㅿ은만 느-열-칼-온.","문지기악 쓰나ㅿ은 막아 머놓칼온, 보나ㅿ은만 느열칼온.",text-path vs visual-path contrast
+E-DRV-036,mixed,combo-6,낡은 보나ㅸ앙 곁에도 작은 쓰나ㅸ앙이 있다.,낡은 보나ㅸ앙 곁-테 작은 쓰나ㅸ앙 느-있-닌-온.,낡은 보나ㅸ앙 곁테 작은 쓰나ㅸ앙 느있닌온.,retained candidate contrasted with promoted repository noun
+F-REG-001,vision,pona-vang-1,이 방 뒤에는 작은 보나ㅸ앙이 있다.,이 방 뒤-테 작은 보나ㅸ앙 느-있-닌-온.,이 방 뒤테 작은 보나ㅸ앙 느있닌온.,plain existential; gallery/archive noun in ordinary locative frame
+F-REG-002,vision,pona-vang-2,궁전 서쪽에는 왕의 보나ㅸ앙이 있다.,궁전 서쪽-테 왕 의 보나ㅸ앙 느-있-닌-온.,궁전 서쪽테 왕 의 보나ㅸ앙 느있닌온.,institutional visual-archive use
+F-REG-003,vision,pona-vang-3,관리들은 새 보나ㅸ앙 목록을 적었다.,관리-돌 새 보나ㅸ앙 목록 머-쓰-칼-온.,관리돌 새 보나ㅸ앙 목록 머쓰칼온.,administrative register attestation
+F-REG-004,vision,pona-vang-4,손님은 보나ㅸ앙에서 옛 그림을 보았다.,손님 보나ㅸ앙-텐 옛 그림 머-보-칼-온.,손님 보나ㅸ앙텐 옛 그림 머보칼온.,source/location use with ordinary transitive verb
+F-REG-005,vision,pona-vang-5,보나ㅸ앙 문은 낮에만 열린다.,보나ㅸ앙 문 낮-테만 느-열-리-온.,보나ㅸ앙 문 낮테만 느열리온.,ordinary eventive use; stable lexical noun
+F-REG-006,place,aldon-vang-1,북문 밖에는 큰 알돈ㅸ앙이 있다.,북문 밖-테 큰 알돈ㅸ앙 느-있-닌-온.,북문 밖테 큰 알돈ㅸ앙 느있닌온.,campus-complex noun in simple existential frame
+F-REG-007,place,aldon-vang-2,새 알돈ㅸ앙 안에는 세 알돈이 있다.,새 알돈ㅸ앙 안-테 세 알돈 느-있-닌-온.,새 알돈ㅸ앙 안테 세 알돈 느있닌온.,internal compositionality confirms complex/campus semantics
+F-REG-008,place,aldon-vang-3,학생들은 알돈ㅸ앙 사이 길에서 만난다.,학생-돌 알돈ㅸ앙 사이 길-텐 느-만-리-온.,학생돌 알돈ㅸ앙 사이 길텐 느만리온.,social-institutional ordinary register
+F-REG-009,place,aldon-vang-4,왕은 서쪽 알돈ㅸ앙에 새 문을 세웠다.,왕 서쪽 알돈ㅸ앙-레 새 문 머-세우-칼-온.,왕 서쪽 알돈ㅸ앙레 새 문 머세우칼온.,allative/institutional use
+F-REG-010,place,aldon-vang-5,이 도시는 남쪽 알돈ㅸ앙으로 유명하다.,이 도시 남쪽 알돈ㅸ앙-은 유명 하-닌-온.,이 도시 남쪽 알돈ㅸ앙은 유명 하닌온.,lexicalized place-cluster use; slightly learned but stable
+F-REG-011,vision-marked,pona-nul-1,해 진 뒤에도 눈에 보나눌이 남았다.,해 지-탄 뒤-도 눈-테 보나눌 머-남-칼-온.,해 지탄 뒤도 눈테 보나눌 머남칼온.,afterimage/residue noun; marked but interpretable
+F-REG-012,vision-marked,pona-nul-2,밤길에서 횃불 보나눌이 흔들렸다.,밤길-텐 횃불 보나눌 느-흔들-리-온.,밤길텐 횃불 보나눌 느흔들리온.,poetic/marked visual residue
+F-REG-013,vision-marked,pona-nul-3,의사는 머리앓이 때 보나눌이 생긴다고 말했다.,의사 머리앓이 때 보나눌 느-생기-리-온 =락 머-말-칼-온.,의사 머리앓이 때 보나눌 느생기리온=락 머말칼온.,clinical-report use helps stabilize semantics but register remains narrow
+F-REG-014,vision-marked,pona-nul-4,잠에서 깬 뒤에도 창문 보나눌이 눈에 있었다.,잠-텐 깨-탄 뒤-도 창문 보나눌 눈-테 느-있-닌-온.,잠텐 깨탄 뒤도 창문 보나눌 눈테 느있닌온.,residual image in descriptive prose
+F-REG-015,vision-marked,pona-nul-5,나는 아직도 물결 보나눌을 본다.,나 아직도 물결 보나눌 느-보-리-온.,나 아직도 물결 보나눌 느보리온.,marked but usable in lyrical register
+SG-BN-001,,,,시의 첫 줄은 보나눌 같아서 눈을 감아도 남았다.,시의 첫 줄은 보나눌 같아서 눈을 감아도 남았다.,
+SG-BN-002,,,,불을 끈 뒤에도 벽에는 보나눌이 오래 남았다.,불을 끈 뒤에도 벽에는 보나눌이 오래 남았다.,
+SG-BN-003,,,,의사는 강한 빛 뒤에 잠깐 보나눌이 보일 수 있다고 말했다.,의사는 강한 빛 뒤에 잠깐 보나눌이 보일 수 있다고 말했다.,
+SG-BN-004,,,,그 장면은 낮이 지나도 마음에 보나눌로 걸려 있었다.,그 장면은 낮이 지나도 마음에 보나눌로 걸려 있었다.,
+SG-BN-005,,,,아이들은 번쩍한 유리 뒤에 남는 보나눌을 장난처럼 쫓았다.,아이들은 번쩍한 유리 뒤에 남는 보나눌을 장난처럼 쫓았다.,
+SG-BN-006,,,,환자는 눈앞에 푸른 보나눌이 떠다닌다고 진술했다.,환자는 눈앞에 푸른 보나눌이 떠다닌다고 진술했다.,
+SG-BN-007,,,,그 이름은 헤어진 뒤에도 내 안에 보나눌처럼 남았다.,그 이름은 헤어진 뒤에도 내 안에 보나눌처럼 남았다.,
+SG-BN-008,,,,검사 기록에는 섬광 후 보나눌 지속 시간이 짧다고 적혔다.,검사 기록에는 섬광 후 보나눌 지속 시간이 짧다고 적혔다.,
+SG-BN-009,,,,화가는 보나눌을 단순한 잔상보다 더 넓은 감각적 흔적으로 썼다.,화가는 보나눌을 단순한 잔상보다 더 넓은 감각적 흔적으로 썼다.,
+SG-BN-010,,,,창문을 닫은 뒤에도 바깥 번개가 보나눌로 남아 방 안을 흔들었다.,창문을 닫은 뒤에도 바깥 번개가 보나눌로 남아 방 안을 흔들었다.,
+SH-ADM-001,admin,notice,학교는 새 알돈ㅸ앙 계획을 오늘 공고했다.,The school announced the new campus-complex plan today.,,알돈ㅸ앙=campus-complex in administrative frame
+SH-ADM-002,admin,memo,"청원안은 빌나로 먼저 접수하고, 답은 말파ㅸ온으로 남긴다.","Register the petition first as a request-content, and leave the response under the speaker/source field.",,빌나/말파ㅸ온 admin co-occurrence
+SH-ADM-003,admin,letter,원무과는 지나가 큰 학생을 위해 짐 보관실을 따로 열었다.,The office opened a separate baggage room for students carrying heavy loads.,,지나 ordinary institutional use
+SH-ADM-004,admin,archive,박물관은 오래된 그림을 보나ㅸ앙에 옮겨 두었다.,The museum moved the old paintings into the visual archive.,,보나ㅸ앙 institutional archive use
+SH-ADM-005,admin,campus,새 도서관은 알돈ㅸ앙 북쪽 끝에 세워진다.,The new library will be built at the north end of the campus complex.,,알돈ㅸ앙 spatial ordinary admin use
+SH-POL-001,polite,frontdesk,"손님, 빌나는 이쪽에 두시고 이름은 여기 적어디온.",Please place your request-content here and write your name here.,,polite service register with 빌나
+SH-POL-002,polite,frontdesk,지나가 무거우시면 제가 잠깐 받아디온.,"If your carried load is heavy, I will take it for a moment.",,polite reception with 지나
+SH-POL-003,polite,admin,보나ㅸ앙 열람은 오늘만 미리 허락디온.,Access to the visual archive is permitted in advance only for today.,,polite admin with 보나ㅸ앙
+SH-POL-004,polite,campus,알돈ㅸ앙 안내도는 문 앞에서 나눠디온.,The campus-complex guide map is distributed at the door.,,polite information desk
+SH-POL-005,polite,speech,말파ㅸ온이 비어 있으면 담당 이름을 함께 적어디온.,"If the speaker/source field is blank, please write the 담당 name together.",,form-field use of 말파ㅸ온
+SH-DIA-001,dialogue,student,내 지나 좀 들어 줄래? 오늘 책이 너무 많아.,Can you lift my carried load a bit? I have too many books today.,,colloquial dialogue with 지나
+SH-DIA-002,dialogue,student,행정실에 빌나 내고 왔어. 이제 답만 기다리면 돼.,I submitted the request-content at the office. Now I only have to wait for the reply.,,natural admin dialogue
+SH-DIA-003,dialogue,student,저 끝 건물이 알돈ㅸ앙 새 구역이래.,"That building at the far end is the new campus-complex sector, they say.",,reported campus dialogue
+SH-DIA-004,dialogue,student,사진 동아리 방은 사실 작은 보나ㅸ앙 같아.,The photography club room is basically like a small visual archive.,,ordinary metaphorical use
+SH-DIA-005,dialogue,staff,이 칸은 말파ㅸ온이야. 누가 말했는지 적는 자리.,This box is the speaker/source field. It's where you write who said it.,,plain explanation
+SH-POL-006,polite,reception,빌나가 길면 제가 먼저 요지만 읽어디온.,"If the request-content is long, I will first read only the gist.",,polite service compression
+SH-POL-007,polite,guide,지나는 여기 두시고 안으로 들어오디온.,Please leave your carried load here and come inside.,,entry guidance
+SH-ADM-006,admin,form,말파ㅸ온 칸에는 발화자나 기록 원천만 적는다.,Write only the speaker or record source in the 말파ㅸ온 field.,,form instruction
+SH-ADM-007,admin,storage,큰 지나를 맡기는 곳은 본관 뒤편이다.,The place to deposit large carried loads is behind the main building.,,storage policy
+SH-ADM-008,admin,museum,보나ㅸ앙 자료는 허가 없이 복사하지 않는다.,Materials in the visual archive are not copied without permission.,,policy register
+SH-DIA-006,dialogue,friends,너 빌나 아직 안 냈어? 마감 오늘이잖아.,You still haven't submitted the request-content? The deadline is today.,,deadline dialogue
+SH-DIA-007,dialogue,friends,이 학교는 알돈ㅸ앙이 넓어서 처음 오면 꼭 헤맨다.,This school’s campus-complex is so wide that first-time visitors always get lost.,,ordinary comment
+SH-DIA-008,dialogue,friends,전시 끝나면 보나ㅸ앙 정리하러 같이 갈래?,"After the exhibition ends, want to go organize the visual archive together?",,ordinary collaborative use
+SH-POL-008,polite,closing,오늘 빌나는 여기까지 받고 내일 다시 열어디온.,We accept request-contents only up to here today and reopen tomorrow.,,closing notice
+SI-NAR-001,narrative,campus,"새 학기 첫날, 나는 알돈ㅸ앙 남문 앞에서 길을 잃었다.","On the first day of the new semester, I got lost in front of the south gate of the campus complex.",,ordinary campus narrative
+SI-NAR-002,narrative,campus,가방 안에는 알나칼ㅸ온과 메모가 뒤섞여 있었다.,"Inside the bag, the textbook and notes were all mixed together.",,textbook in ordinary narrative
+SI-NAR-003,narrative,campus,복도 끝 알나ㅸ앙은 늘 오후가 되면 조용해졌다.,The library at the end of the corridor always grew quiet in the afternoon.,,library ordinary narrative
+SI-NAR-004,narrative,campus,나는 알파ㅸ온이 남긴 쪽지를 책 사이에서 늦게 찾았다.,I found the note left by the teacher late between the books.,,teacher/source noun in narrative
+SI-NAR-005,narrative,campus,낡은 알나닌ㅸ온 하나가 서가 뒤에 눕듯이 숨어 있었다.,An undeciphered old document lay hidden behind the shelves.,,latent knowledge source in narrative
+SI-NAR-006,narrative,speech,복도는 쉬는 시간만 되면 말나ㅿ은으로 가득 찼다.,The corridor filled with discourse flow whenever break time began.,,speech-path ordinary metaphor
+SI-NAR-007,narrative,speech,그 애의 말은 늘 말나ㆍ르처럼 되돌아왔다.,That person's words always came back like a refrain.,,repetitive speech
+SI-NAR-008,narrative,speech,교실 앞줄은 말포리ㅿ은이 빨라서 뒤쪽보다 먼저 웃었다.,The front rows laughed first because the live conversation channel moved faster there.,,recipient-path narrative stretch
+SI-NAR-009,narrative,weather,비 그친 뒤 운동장 위로 불ㅿ은이 낮게 남았다.,"After the rain stopped, smoke stayed low above the field.",,smoke in ordinary scenery
+SI-NAR-010,narrative,weather,동쪽 담장 너머로 빛ㅿ은이 길게 눕고 있었다.,A long ray of light lay stretched beyond the eastern wall.,,light-path in scenery
+SI-NAR-011,narrative,nature,밤새 물리ㆍ르 소리가 창문 밑을 지나갔다.,The sound of running watercourse passed beneath the window all night.,,watercourse ordinary setting
+SI-NAR-012,narrative,nature,작은 물ㅸ앙 가장자리에는 검은 잎이 둥글게 모였다.,Black leaves gathered in a circle at the edge of the small pond.,,pool ordinary narrative
+SI-NAR-013,narrative,nature,아이들은 물눌에 돌을 던지며 깊이를 가늠했다.,The children threw stones into the water sink and guessed its depth.,,water sink ordinary narrative
+SI-NAR-014,narrative,garden,마당 끝 자라돈에서는 봄마다 냄새가 먼저 올랐다.,"From the growing ground at the end of the yard, the smell of spring always arrived first.",,field/growing ground
+SI-NAR-015,narrative,garden,꽃닌ㅸ온은 아직 닫혀 있었지만 줄기는 단단했다.,"The flower bud was still closed, but the stem was firm.",,latent bloom source
+SI-NAR-016,narrative,garden,며칠 뒤 첫 열눌이 가지 밑으로 고개를 내밀었다.,A few days later the first ripe fruit peeked out beneath the branch.,,fruiting endpoint
+SI-NAR-017,narrative,kitchen,저녁이 가까워지자 끓이돈에서 국 냄새가 퍼졌다.,"As evening approached, the smell of soup spread from the kitchen.",,kitchen ordinary narrative
+SI-NAR-018,narrative,kitchen,식당 문 앞 먹돈 표지는 햇빛에 조금 바랬다.,The dining-place sign in front of the cafeteria door had faded a little in the sun.,,eating place
+SI-NAR-019,narrative,repair,고치돈 앞 의자에는 오래 기다린 사람이 셋 있었다.,There were three people on the chairs in front of the fixing place who had been waiting a long time.,,hospital/repair place
+SI-NAR-020,narrative,aid,비가 쏟아질 때 처음 건네진 것은 우산이 아니라 돕나였다.,"When the rain poured down, what was first offered was not an umbrella but help.",,aid-content
+SI-NAR-021,narrative,document,그는 빌나를 세 번이나 고쳐 쓴 뒤에야 봉투를 닫았다.,Only after rewriting the request-content three times did he seal the envelope.,,petition/request narrative
+SI-NAR-022,narrative,travel,지나가 무거워질수록 어깨는 한쪽으로 더 기울었다.,"The heavier the carried load became, the more the shoulders tilted to one side.",,carried load narrative
+SI-NAR-023,narrative,archive,전시가 끝난 밤 우리는 보나ㅸ앙 문을 마지막으로 잠갔다.,"On the night the exhibition ended, we locked the visual archive door for the last time.",,archive ordinary narrative
+SI-NAR-024,narrative,archive,사진 몇 장은 쓰나ㅸ앙보다 보나ㅸ앙에 두는 편이 맞았다.,A few photographs belonged more in the visual archive than in the document repository.,,contrast text/image archives
+SI-NAR-025,narrative,text,오래된 편지는 쓰나눌로만 남아 있었고 원본은 사라졌다.,"The old letter remained only as a written residue, and the original was gone.",,written residue
+SI-NAR-026,narrative,text,학회 뒤풀이 후 책상 위에는 쓰나ㅿ은만 복잡하게 남았다.,"After the workshop dinner, only the publication/distribution channels remained tangled across the desk.",,publication channel narrative
+SI-NAR-027,narrative,speech,그 노인은 말파리ㅸ온처럼 방 안의 공기를 먼저 끌어당겼다.,"The old man drew in the air of the room first, like an active speaker.",,active source metaphor
+SI-NAR-028,narrative,speech,그녀는 말포 쪽을 보지 않고도 무슨 질문이 올지 알았다.,She knew what question would come without even looking toward the addressee side.,,recipient noun
+SI-NAR-029,narrative,study,알나ㅿ은이 막힌 날이면 수업은 자꾸 멈췄다.,"On days when the education/course path got blocked, the class kept stalling.",,education path
+SI-NAR-030,narrative,life,삶ㆍ르는 멀리 있는 말이 아니라 부엌과 복도에서 먼저 느껴졌다.,"The life cycle was felt first in the kitchen and corridor, not as some distant phrase.",,life cycle ordinary narrative
+SI-SVC-001,service_dialogue,desk,"손님, 빌나는 이쪽에 내시고 지나는 의자 옆에 두세요.",Please submit your request-content here and place your carried load beside the chair.,,service pairing 빌나/지나
+SI-SVC-002,service_dialogue,desk,알돈ㅸ앙 안내도는 접수대 오른쪽에 있습니다.,The campus-complex map is on the right side of the front desk.,,service information
+SI-SVC-003,service_dialogue,desk,말파ㅸ온 칸에는 발화자 이름만 적으시면 됩니다.,"In the speaker/source field, you only need to write the speaker's name.",,form guidance
+SI-SVC-004,service_dialogue,desk,보나ㅸ앙 열람 예약은 오늘 오후까지만 받습니다.,We accept reservations for visual archive access only until this afternoon.,,archive service notice
+SI-SVC-005,service_dialogue,desk,쓰나ㅸ온은 원본 확인 후 바로 돌려드립니다.,We return the source text immediately after verifying the original.,,source text service dialogue
+SI-SVC-006,service_dialogue,desk,알나칼ㅸ온 대출은 학생증이 있어야 가능합니다.,Textbook checkout is possible only if you have a student ID.,,textbook service policy
+SI-SVC-007,service_dialogue,desk,알나ㅸ앙 안에서는 말나ㆍ르가 너무 커지지 않게 조용히 해 주세요.,Please keep quiet in the library so the repeated talk does not grow too loud.,,library admonition
+SI-SVC-008,service_dialogue,desk,지나가 크면 보관표를 따로 발급해 드립니다.,"If the carried load is large, we issue a separate storage tag.",,service storage
+SI-SVC-009,service_dialogue,desk,고치돈 접수는 저 복도 끝 창구에서 합니다.,Registration for the fixing place is done at the counter at the end of that corridor.,,repair/hospital desk
+SI-SVC-010,service_dialogue,desk,먹돈 이용 시간은 게시판 아래에 적혀 있습니다.,The dining-place hours are written below the bulletin board.,,cafeteria info
+SI-SVC-011,service_dialogue,guide,꽃닌ㅸ온 구역은 손으로 만지지 말아 주세요.,Please do not touch the flower-bud area with your hands.,,garden notice
+SI-SVC-012,service_dialogue,guide,열눌 채집은 허가된 시간에만 가능합니다.,Collection of ripe fruit is possible only during authorized hours.,,garden service rule
+SI-SVC-013,service_dialogue,guide,물ㅸ앙 주변은 미끄러우니 천천히 걸어 주세요.,"The area around the pond is slippery, so please walk slowly.",,pond warning
+SI-SVC-014,service_dialogue,guide,물리ㆍ르 소리가 큰 날에는 아래 길을 막습니다.,"On days when the running-watercourse is loud, we block the lower path.",,weather/safety
+SI-SVC-015,service_dialogue,guide,불ㅿ은이 짙을 때는 동쪽 문을 잠시 닫습니다.,"When the smoke becomes thick, we close the east gate temporarily.",,smoke safety
+SI-SVC-016,service_dialogue,guide,빛ㅿ은이 강한 시간에는 전시실 커튼을 내립니다.,"At hours when the light path is strong, we lower the gallery curtains.",,light management
+SI-SVC-017,service_dialogue,office,알파ㅸ온 면담 신청은 빌나로 먼저 남겨 주세요.,Please leave the request for meeting the teacher first as a request-content.,,teacher interview admin
+SI-SVC-018,service_dialogue,office,알나닌ㅸ온 열람은 감독자 동의가 있어야 합니다.,Viewing undeciphered documents requires supervisor consent.,,restricted document
+SI-SVC-019,service_dialogue,office,쓰나눌 복사본은 하루 뒤에 찾아가실 수 있습니다.,You can pick up the copies of the archival record the next day.,,written residue service
+SI-SVC-020,service_dialogue,office,돕나가 필요하시면 창구에 바로 말씀해 주세요.,"If you need help, please tell the counter immediately.",,aid request service
+SJ-NAR-001,continuous_narrative,library_day,"새 학기 셋째 날 아침, 나는 알돈ㅸ앙 남문으로 들어왔다.","On the morning of the third day of the new semester, I entered through the south gate of the campus complex.",,continuous text A start
+SJ-NAR-002,continuous_narrative,library_day,"바람은 낮았고, 복도 끝 알나ㅸ앙 창문에는 빛ㅿ은이 가늘게 걸려 있었다.","The wind was low, and a thin path of light hung in the window of the library at the end of the corridor.",,
+SJ-NAR-003,continuous_narrative,library_day,가방 속 알나칼ㅸ온은 생각보다 무거워서 지나가 한쪽 어깨로 기울었다.,"The textbook in my bag was heavier than expected, so the carried load tilted to one shoulder.",,
+SJ-NAR-004,continuous_narrative,library_day,"문 안쪽에서는 말나ㅿ은이 아직 크지 않았고, 몇 사람만 작은 소리로 인사를 나눴다.","Inside the door the discourse flow was not yet large, and only a few people exchanged greetings softly.",,
+SJ-NAR-005,continuous_narrative,library_day,나는 접수대 옆에 빌나를 내려두고 알파ㅸ온 면담 시간이 남았는지 먼저 물었다.,I set down the request-content beside the front desk and first asked whether time remained for a meeting with the teacher.,,
+SJ-NAR-006,continuous_narrative,library_day,직원은 말파ㅸ온 칸만 먼저 채우면 된다고 하며 종이를 내밀었다.,"The staff member held out the paper, saying that only the speaker/source field needed to be filled first.",,
+SJ-NAR-007,continuous_narrative,library_day,"그 옆 벽에는 알돈ㅸ앙 전체 안내도가 붙어 있었고, 고치돈과 먹돈 위치도 함께 적혀 있었다.","A complete campus-complex guide map was posted on the wall beside it, with the locations of the repair place and dining place also written on it.",,
+SJ-NAR-008,continuous_narrative,library_day,기다리는 동안 나는 알나닌ㅸ온 상자 몇 개가 서가 뒤편으로 옮겨지는 것을 보았다.,"While waiting, I saw several boxes of undeciphered documents being moved behind the shelves.",,
+SJ-NAR-009,continuous_narrative,library_day,"오래된 편지 한 장은 쓰나눌로만 남아 있었고, 원본은 이미 사라졌다고 했다.",They said one old letter remained only as a written residue and that the original had already disappeared.,,
+SJ-NAR-010,continuous_narrative,library_day,그 말을 듣자 말나ㆍ르처럼 같은 문장이 머리 안에서 몇 번 되돌아왔다.,"On hearing that, the same sentence came back several times in my head like a refrain.",,
+SJ-NAR-011,continuous_narrative,library_day,점심 가까이 되자 먹돈 쪽에서 끓이돈 냄새가 천천히 복도로 밀려왔다.,"Near lunch, the smell from the kitchen in the dining place slowly drifted into the corridor.",,
+SJ-NAR-012,continuous_narrative,library_day,밖으로 나오니 작은 물ㅸ앙 위로 불ㅿ은이 잠깐 낮게 깔렸다.,"When I came outside, smoke briefly lay low above the small pond.",,
+SJ-NAR-013,continuous_narrative,library_day,"나는 남은 빌나를 다시 접어 주머니에 넣고, 알돈ㅸ앙 북쪽 길로 천천히 걸었다.",I folded the remaining request-content again into my pocket and slowly walked along the north path of the campus complex.,,
+SJ-NAR-014,continuous_narrative,library_day,길 옆 자라돈에서는 꽃닌ㅸ온 몇 개가 막 열눌 쪽으로 넘어가려는 듯 흔들리고 있었다.,"In the growing ground beside the path, several flower buds were swaying as if just about to pass into fruit.",,
+SJ-NAR-015,continuous_narrative,library_day,그날 저녁이 되어서도 알나ㅸ앙 안의 조용한 빛ㅿ은과 종이 냄새가 오래 남았다.,"Even that evening, the quiet light path and paper smell inside the library remained for a long time.",,continuous text A end
+SJ-DIA-001,continuous_dialogue,service_scene,"손님, 빌나는 이쪽에 내시고 지나는 의자 옆에 두세요.",Please submit your request-content here and place your carried load beside the chair.,,continuous text B start
+SJ-DIA-002,continuous_dialogue,service_scene,"네, 그런데 알파ㅸ온 면담 신청도 같이 할 수 있나요?","Yes, but can I also apply for a meeting with the teacher?",,
+SJ-DIA-003,continuous_dialogue,service_scene,"됩니다. 먼저 말파ㅸ온 칸에 이름을 적으시고, 아래에 빌나를 짧게 써 주세요.","Yes. First write your name in the speaker/source field, and then briefly write the request-content below.",,
+SJ-DIA-004,continuous_dialogue,service_scene,알나칼ㅸ온 대출 기록도 같이 보려면 어디로 가야 하나요?,Where should I go if I also want to see the textbook loan record?,,
+SJ-DIA-005,continuous_dialogue,service_scene,복도 끝 알나ㅸ앙 안으로 들어가시면 됩니다. 오늘은 보나ㅸ앙 열람도 열려 있어요.,You can go into the library at the end of the corridor. Today access to the visual archive is also open.,,
+SJ-DIA-006,continuous_dialogue,service_scene,"보나ㅸ앙에는 사진만 있나요, 아니면 쓰나ㅸ앙 자료도 있나요?","Does the visual archive only have photographs, or are there document-repository materials too?",,
+SJ-DIA-007,continuous_dialogue,service_scene,"사진이 중심이지만, 쓰나ㅿ은 기록하고 연결되는 자료도 조금 있습니다.","Photographs are central, but there are also some materials linked to publication-channel records.",,
+SJ-DIA-008,continuous_dialogue,service_scene,"지나가 커서 그런데, 안에 그냥 들고 들어가도 괜찮을까요?","My carried load is large, so is it okay if I just carry it inside?",,
+SJ-DIA-009,continuous_dialogue,service_scene,크면 여기 두시는 편이 좋습니다. 필요하시면 보관표를 따로 드릴게요.,"If it is large, it is better to leave it here. If you need one, I will give you a separate storage tag.",,
+SJ-DIA-010,continuous_dialogue,service_scene,알돈ㅸ앙 안내도도 한 장 받을 수 있을까요?,Could I get a copy of the campus-complex guide map too?,,
+SJ-DIA-011,continuous_dialogue,service_scene,"네, 여기 있습니다. 고치돈과 먹돈은 이 길을 따라가시면 나옵니다.","Yes, here it is. The repair place and dining place appear if you follow this road.",,
+SJ-DIA-012,continuous_dialogue,service_scene,감사합니다. 그럼 먼저 빌나부터 쓰고 다시 여쭐게요.,Thank you. Then I will first write the request-content and ask again.,,
+SJ-DIA-013,continuous_dialogue,service_scene,천천히 하세요. 알나닌ㅸ온 열람은 감독자 동의가 있어야 하니 그 점만 주의하시면 됩니다.,"Take your time. Viewing undeciphered documents requires supervisor consent, so that is the only point you need to note.",,
+SJ-DIA-014,continuous_dialogue,service_scene,"네, 알겠습니다. 아까 밖 물ㅸ앙 쪽은 길이 조금 미끄럽던데 조심해야겠네요.","Yes, understood. The path near the pond outside was a bit slippery, so I should be careful.",,
+SJ-DIA-015,continuous_dialogue,service_scene,맞습니다. 비가 오면 불ㅿ은도 낮게 깔리니 돌아가실 때는 동문 쪽으로 가세요.,"That's right. When it rains, smoke also lies low, so when you leave please go by the east gate.",,continuous text B end
+SK-NOM-001,diagnostic,quantifier,모든 학생-악 빌나를 느-내-온.,All students submit the request-content.,,quantifier + ERG
+SK-NOM-002,diagnostic,quantifier,아무 편지=도=복.,There is no letter at all.,,NPI + existential negation
+SK-NOM-003,diagnostic,quantifier,낱 아이-악 열눌 하나씩 느-가져-온.,Each child brings one ripe fruit.,,each distributive
+SK-NOM-004,diagnostic,numeral,둘마 학생-악 알나칼ㅸ온을 느-빌리-온.,Twenty students borrow the textbook.,,numeral composition
+SK-NOM-005,diagnostic,ordinal,둘번째 방-테 보나ㅸ앙 자료가 있다.,The visual archive material is in the second room.,,ordinal use
+SK-NOM-006,diagnostic,comparison,나 너-테 더 느-크-닌-온.,I am bigger than you.,,comparative LOC
+SK-NOM-007,diagnostic,comparison,이 알돈ㅸ앙은 한갓 느-넓-닌-온.,This campus-complex is the widest.,,superlative
+SK-NOM-008,diagnostic,comparison,나 너-살라=만 느-빠르-닌-온.,I am as fast as you.,,equative COM
+SK-NOM-009,diagnostic,plural,아이돌-악 물ㅸ앙 둘레를 느-걷-논-온.,The children walk around the pond.,,plural suffix
+SK-NOM-010,diagnostic,plural,학생 셋이 알나ㅸ앙-테 느-앉-온.,Three students sit in the library.,,bare plural via numeral
+SK-NEG-001,diagnostic,standard_neg,가-아 느-몰-온.,[Someone] does not go.,,basic connegative neg
+SK-NEG-002,diagnostic,standard_neg,먹-아 머-몰-칼-온.,[Someone] did not eat.,,past telic neg
+SK-NEG-003,diagnostic,standard_neg,느-가-아 차-몰-온.,[Someone] will not go.,,future neg with preverb on NEG.AUX
+SK-NEG-004,diagnostic,voice_neg,씻-루-아 느-몰-온.,[Someone] does not wash (self-wash/introvertive).,,INT + NEG
+SK-NEG-005,diagnostic,voice_neg,빛-포-아 느-몰-온.,It does not shine / diffuse.,,DIF + NEG
+SK-NEG-006,diagnostic,prohibitive,치-아 말-라.,Do not strike.,,prohibitive
+SK-NEG-007,diagnostic,exist_neg,보나ㅸ앙 자료=폭.,There is no visual-archive material.,,existential neg variant
+SK-TAM-001,diagnostic,tam_matrix,머-가-련.,was going / was in the process of going,,PST + IPFV fusion
+SK-TAM-002,diagnostic,tam_matrix,차-가-칸.,will go / will have gone (telic future),,FUT + TEL fusion
+SK-TAM-003,diagnostic,auxiliary,먹-탄 있-온.,[Someone] is eating / has it in progress.,,SEQ + aux
+SK-TAM-004,diagnostic,auxiliary,열-탄 놓-온.,[Someone] has left it open.,,result preservative
+SK-EVD-001,diagnostic,evidential,비 느-오-드-온.,It is raining (I directly witness it).,,DIR.EXPL
+SK-EVD-002,diagnostic,evidential,비 차-오-짐-온.,It seems it will rain.,,INFER
+SK-EVD-003,diagnostic,hearsay,비 머-오-칸=맬.,They say it rained.,,hearsay clitic
+SK-EVD-004,diagnostic,quotative,나 [느-가-온]=락 머-말-온.,"I said, 'I go / I am going.'",,quotative
+SL-NFIN-001,diagnostic,seq,나-악 밥 머-먹-칼-탄 머-가-칸.,I ate and then went.,,SEQ basic
+SL-NFIN-002,diagnostic,cond,비 느-오-살 나 느-가-온.,"If it rains, I go.",,COND basic
+SL-NFIN-003,diagnostic,reason,비 머-오-논테 나 가-아 느-몰-온.,"Because it rained, I do not go.",,RSN cause
+SL-NFIN-004,diagnostic,contrast,비 느-오-칼라 나 느-가-온.,"It rains, but I go.",,CONTR
+SL-NFIN-005,diagnostic,concessive,비 느-오-살-칼라 나 느-가-온.,"Even if it rains, I go.",,CONC unique stack
+SL-NFIN-006,diagnostic,counterfactual,비 머-오-살 나 가-아 머-몰-온.,"If it had rained, I would not have gone.",,counterfactual via PST+COND
+SL-NFIN-007,diagnostic,adnominal,[나-악 빌나 느-쓰-마] 종이,the paper on which I write the request-content,,ADN
+SL-NFIN-008,diagnostic,complement,나 [비 느-오-모] 느-알-닌-온.,I know that it is raining.,,COMP
+SL-REL-001,diagnostic,s_gap,[느-오-마] 사람,the person who comes,,S gap
+SL-REL-002,diagnostic,o_gap,[나-악 느-보-리-마] 사람,the person whom I see,,O gap
+SL-REL-003,diagnostic,a_gap,[밥 느-먹-리-마] 아이,the child who eats rice,,A gap
+SL-REL-004,diagnostic,frc_gap,[나-악 책 느-주-마] 사람,the person to whom I give the book,,FRC gap
+SL-REL-005,diagnostic,loc_gap,[느-살-닌-마] 곳,the place where [someone] lives,,LOC gap
+SL-REL-006,diagnostic,comp_case,[그 느-오-모]=흔 나 느-알-닌-온.,"As for his coming, I know it.",,COMP + TOP
+SL-QUOT-001,diagnostic,quot_basic,나 [느-가-온]=락 머-말-온.,"I said, 'I go.'",,basic quotation
+SL-QUOT-002,diagnostic,quot_neg,나 [가-아 느-몰-온]=락 머-말-온.,"I said, 'I do not go.'",,quoted neg
+SL-QUOT-003,diagnostic,quot_imp,나 [들-아 말-라]=락 머-말-온.,"I said, 'Do not enter.'",,quoted prohibitive
+SL-HEAR-001,diagnostic,hearsay,비 머-오-칸=맬.,They say it rained.,,hearsay
+SL-HEAR-002,diagnostic,hear_quot_contrast,나 [비 머-오-칸]=락 머-들-온.,I heard 'it rained.',,quot vs hearsay
+SL-DISC-001,diagnostic,result,비 머-오-칸. 글 나 가-아 느-몰-온.,It rained. Therefore I do not go.,,therefore
+SL-DISC-002,diagnostic,shift,나는 알나ㅸ앙-테 갔다. 헌 빌나는 못 냈다.,"I went to the library. However, I could not submit the request-content.",,however
+SL-DISC-003,diagnostic,additive,알돈ㅸ앙은 넓다. 되도 길은 조용하다.,"The campus-complex is wide. Moreover, the paths are quiet.",,moreover
+SL-DISC-004,diagnostic,topic,"빌나=흔 먼저 내고, 말파ㅸ온은 나중에 적어라.","As for the request-content, submit it first, and fill the speaker/source field later.",,TOP
+SL-DISC-005,diagnostic,abs_spot,나-알은 오늘만 조용하다.,I myself am quiet only today.,,ABS.SPOT focus
+SM-LF1-001,longform_narrative,exhibition_day,"비가 그친 아침, 우리는 알돈ㅸ앙 서쪽 전시관 앞에 일찍 모였다.","On the morning after the rain stopped, we gathered early in front of the west exhibition hall of the campus-complex.",,longform text 1 start
+SM-LF1-002,longform_narrative,exhibition_day,"보나ㅸ앙 문은 아직 잠겨 있었고, 복도 끝에서는 쓰나ㅸ앙 상자 둘이 벽에 기대 있었다.","The visual archive door was still locked, and two document-repository boxes were leaning against the wall at the end of the corridor.",,
+SM-LF1-003,longform_narrative,exhibition_day,나는 지나를 내려놓고 빌나 뭉치를 다시 세어 보았다.,I set down my carried load and counted the bundle of request-contents again.,,
+SM-LF1-004,longform_narrative,exhibition_day,말파ㅸ온 칸이 비어 있는 안내문이 몇 장 보여서 먼저 그 부분부터 고쳤다.,"I saw several notices with the speaker/source field left blank, so I corrected that part first.",,
+SM-LF1-005,longform_narrative,exhibition_day,안쪽 방에는 알나닌ㅸ온처럼 아직 풀리지 않은 기록 상자가 따로 쌓여 있었다.,"Inside the inner room, boxes of records not yet deciphered, like undeciphered documents, were stacked separately.",,
+SM-LF1-006,longform_narrative,exhibition_day,동문 쪽 창문으로 빛ㅿ은이 길게 들어오자 먼지와 불ㅿ은이 동시에 떠올랐다.,"When a long path of light entered through the east window, dust and smoke rose together.",,
+SM-LF1-007,longform_narrative,exhibition_day,누군가는 먹돈에서 끓이돈 냄새가 벌써 올라온다며 아직 이른 시간을 웃어넘겼다.,Someone joked that the kitchen smell was already rising from the dining place despite the early hour.,,
+SM-LF1-008,longform_narrative,exhibition_day,"나는 알파ㅸ온이 남긴 쪽지를 다시 읽고, 빌나 순서를 앞뒤로 바꾸었다.",I reread the note left by the teacher and changed the order of the request-contents.,,
+SM-LF1-009,longform_narrative,exhibition_day,"사진은 보나ㅸ앙으로, 글 원본은 쓰나ㅸ앙으로, 사본은 쓰나눌로 보내자는 합의가 그때 정해졌다.","At that time it was decided that photographs would go to the visual archive, original texts to the document repository, and copies to the written residue collection.",,
+SM-LF1-010,longform_narrative,exhibition_day,한 학생은 알나칼ㅸ온을 참고해 전시 설명을 더 쉬운 말로 바꾸어 적었다.,One student consulted the textbook and rewrote the exhibition description in easier language.,,
+SM-LF1-011,longform_narrative,exhibition_day,또 다른 학생은 자라돈 옆에 둘 화분 이름표를 써 와서 꽃닌ㅸ온과 열눌 시기를 따로 구분했다.,Another student brought labels for the pots beside the growing ground and separately distinguished the flower-bud and fruiting periods.,,
+SM-LF1-012,longform_narrative,exhibition_day,"오후가 되자 알돈ㅸ앙 안쪽 길은 조용해졌지만, 말나ㅿ은은 오히려 문 앞에서 더 커졌다.","By afternoon the inner paths of the campus-complex grew quiet, but the discourse flow grew louder in front of the door.",,
+SM-LF1-013,longform_narrative,exhibition_day,아이 둘은 물ㅸ앙 둘레를 돌며 왜 전시실 안에 물리ㆍ르 사진이 많은지 물었다.,Two children circled the pond and asked why there were so many photographs of waterways inside the exhibition hall.,,
+SM-LF1-014,longform_narrative,exhibition_day,나는 그 질문을 듣고 나서야 이 전시가 단순한 기록이 아니라 삶ㆍ르를 보여 주는 일이라는 생각을 했다.,Only after hearing that question did I think that this exhibition was not just a record but an attempt to show a life cycle.,,
+SM-LF1-015,longform_narrative,exhibition_day,"저녁 가까이 되자 헌 빌나는 절반도 아직 처리되지 않았고, 고치돈 쪽 연락도 늦었다.","As evening approached, however, not even half of the request-contents had yet been processed, and contact from the repair place was delayed.",,
+SM-LF1-016,longform_narrative,exhibition_day,"글 우리는 먼저 보나ㅸ앙 안쪽 자료부터 정리하고, 나머지는 다음 날로 넘기기로 했다.",So we decided to organize the inner visual-archive materials first and push the rest to the next day.,,
+SM-LF1-017,longform_narrative,exhibition_day,마지막으로 남은 건 말파ㅸ온이 빠진 표지 세 장과 지나 하나뿐이었다.,"In the end, all that remained were three labels missing the speaker/source field and one carried load.",,
+SM-LF1-018,longform_narrative,exhibition_day,"문을 닫고 나오는 길에 불ㅿ은은 거의 사라졌고, 보나ㅸ앙 유리에는 저녁 빛ㅿ은만 길게 남아 있었다.","On the way out after closing the door, the smoke had almost vanished, and only the evening light path remained long on the visual archive glass.",,
+SM-LF1-019,longform_narrative,exhibition_day,나는 접어 둔 빌나 한 장을 주머니에서 꺼내 내일 아침 맨 위에 올려둘 표시를 해 두었다.,I took out one folded request-content from my pocket and marked it so I could place it on top the next morning.,,
+SM-LF1-020,longform_narrative,exhibition_day,"그날 밤, 알돈ㅸ앙 남문을 나설 때까지도 종이 냄새와 말나ㆍ르는 머리에서 완전히 떠나지 않았다.","That night, until I passed out the south gate of the campus-complex, the smell of paper and the refrain of speech did not completely leave my head.",,longform text 1 end
+SM-LF2-001,longform_dialogue,clinic_desk,안녕하세요. 고치돈 접수는 여기서 하나요?,Hello. Is registration for the repair place done here?,,longform text 2 start
+SM-LF2-002,longform_dialogue,clinic_desk,"네, 여기입니다. 먼저 빌나를 쓰시고 지나는 저 의자 옆에 두시면 됩니다.","Yes, here. First write the request-content and place your carried load beside that chair.",,
+SM-LF2-003,longform_dialogue,clinic_desk,말파ㅸ온 칸에는 제 이름만 적으면 되나요?,"In the speaker/source field, do I only write my name?",,
+SM-LF2-004,longform_dialogue,clinic_desk,"네. 본인 진술이면 이름만, 다른 사람 말을 옮기면 출처도 적으시면 됩니다.","Yes. If it is your own statement, just your name; if you are reporting someone else's words, write the source too.",,
+SM-LF2-005,longform_dialogue,clinic_desk,어제는 비가 와서 왔다가 그냥 돌아갔어요. 동문 쪽 불ㅿ은이 너무 낮았거든요.,"Yesterday it rained, so I came and then just turned back. The smoke near the east gate was too low.",,
+SM-LF2-006,longform_dialogue,clinic_desk,맞습니다. 비 오는 날은 물ㅸ앙 주변 길도 미끄럽고 불ㅿ은도 깔려서 동선이 자주 바뀝니다.,"That's right. On rainy days the paths around the pond are slippery and the smoke settles low, so our routes often change.",,
+SM-LF2-007,longform_dialogue,clinic_desk,오늘은 사람이 많네요.,There are many people today.,,
+SM-LF2-008,longform_dialogue,clinic_desk,알돈ㅸ앙 전체에서 검진 안내가 나가서 그래요. 아침부터 빌나가 계속 쌓이고 있습니다.,That is because a screening notice went out across the whole campus-complex. Request-contents have been piling up since morning.,,
+SM-LF2-009,longform_dialogue,clinic_desk,알나ㅸ앙 쪽에서도 안내를 봤어요. 보나ㅸ앙 앞에도 같은 종이가 붙어 있더라고요.,I saw the notice near the library too. The same paper was posted in front of the visual archive.,,
+SM-LF2-010,longform_dialogue,clinic_desk,"네, 쓰나ㅸ앙 자료실하고 먹돈 게시판에도 붙였습니다.","Yes, we also posted it in the document repository and on the dining-place bulletin board.",,
+SM-LF2-011,longform_dialogue,clinic_desk,제가 지금 적는 빌나는 바로 들어가나요?,Will the request-content I am writing now be processed right away?,,
+SM-LF2-012,longform_dialogue,clinic_desk,기본 접수는 바로 됩니다. 다만 추가 검사는 알파ㅸ온 확인이나 감독자 동의가 필요할 수 있습니다.,"Basic registration is immediate. However, additional tests may require confirmation from the teacher or supervisor consent.",,
+SM-LF2-013,longform_dialogue,clinic_desk,그럼 기다리는 동안 알나칼ㅸ온을 좀 읽고 있어도 괜찮을까요?,"Then while I wait, would it be okay if I read the textbook a bit?",,
+SM-LF2-014,longform_dialogue,clinic_desk,괜찮습니다. 다만 말나ㅿ은이 커지면 복도 말고 안쪽 자리로 옮겨 주세요.,"That's fine. But if the conversation flow grows loud, please move to an inner seat rather than the corridor.",,
+SM-LF2-015,longform_dialogue,clinic_desk,혹시 제 기록은 나중에 쓰나눌로만 남나요?,"By any chance, will my record later remain only as written residue?",,
+SM-LF2-016,longform_dialogue,clinic_desk,"아니요. 기본 기록은 쓰나ㅸ앙에 보관하고, 배부용 요약본만 쓰나눌로 남습니다.","No. The basic record is kept in the document repository, and only the distributable summary remains as written residue.",,
+SM-LF2-017,longform_dialogue,clinic_desk,알겠습니다. 그런데 지나가 무거워서 조금만 안쪽에 두고 싶은데요.,"Understood. But my carried load is heavy, so I would like to place it a little farther inside.",,
+SM-LF2-018,longform_dialogue,clinic_desk,가능합니다. 되도 통로는 막지 않게 물ㅸ앙 쪽 벽 아래에 붙여 두세요.,"That is possible. Moreover, to avoid blocking the passage, place it against the wall toward the pond side.",,
+SM-LF2-019,longform_dialogue,clinic_desk,감사합니다. 접수 끝나면 바로 먹돈으로 가도 되겠네요.,"Thank you. Once registration is over, I guess I can go straight to the dining place.",,
+SM-LF2-020,longform_dialogue,clinic_desk,"네, 다만 오늘은 사람이 많으니 헌 조금 늦게 가시는 편이 나을 겁니다.","Yes, but today there are many people, so however, it would be better to go a little later.",,longform text 2 end
+SN-LF3-001,longform_narrative,dorm_night,해가 완전히 지고 나서야 우리는 알돈ㅸ앙 북쪽 생활관 앞에 다시 모였다.,Only after the sun had fully set did we gather again in front of the north dormitory of the campus-complex.,,longform text 3 start
+SN-LF3-002,longform_narrative,dorm_night,낮에 끝내지 못한 빌나 몇 장과 말파ㅸ온 표지가 여전히 내 지나 안에 남아 있었다.,Several request-contents and speaker/source labels that we had not finished during the day still remained in my carried load.,,
+SN-LF3-003,longform_narrative,dorm_night,복도 안쪽 알나ㅸ앙 분실함에는 쓰나눌 봉투가 둘 더 꽂혀 있었다.,Two more written-residue envelopes were tucked into the lost-and-found box inside the corridor library.,,
+SN-LF3-004,longform_narrative,dorm_night,나는 창문을 열어 두었더니 물ㅸ앙 쪽에서 올라오는 찬 기운이 방 안에 오래 머물렀다.,"Because I had left the window open, the cool air rising from the pond side lingered in the room for a long time.",,
+SN-LF3-005,longform_narrative,dorm_night,"멀리 먹돈에서는 늦은 끓이돈 소리가 드문드문 이어졌고, 누군가는 그 리듬을 말나ㆍ르처럼 따라 불렀다.","From the dining place, late kitchen sounds continued here and there, and someone hummed their rhythm like a refrain.",,
+SN-LF3-006,longform_narrative,dorm_night,나는 알나칼ㅸ온 한 권을 펴 두고도 자꾸 보나ㅸ앙 유리 위에 남던 저녁 빛ㅿ은을 떠올렸다.,"Even with a textbook open before me, I kept recalling the evening light-path that had remained on the visual archive glass.",,
+SN-LF3-007,longform_narrative,dorm_night,그날 정리하지 못한 상자 안에는 알나닌ㅸ온으로 돌려야 할 종이와 쓰나ㅸ앙에 넣을 종이가 섞여 있었다.,Inside the boxes we had not sorted that day were papers that should be returned to the undeciphered-document set and papers to put into the document repository.,,
+SN-LF3-008,longform_narrative,dorm_night,비가 다시 오면 내일 아침 동문 쪽 불ㅿ은이 낮게 깔릴 거라는 말을 누가 작게 했다.,"Someone quietly said that if it rained again, smoke would lie low near the east gate the next morning.",,
+SN-LF3-009,longform_narrative,dorm_night,글 우리는 아침 일찍 모여 먼저 보나ㅸ앙 안쪽 상자부터 비우기로 했다.,So we decided to gather early in the morning and empty the inner visual-archive boxes first.,,
+SN-LF3-010,longform_narrative,dorm_night,"되도 자라돈 화분 이름표도 함께 옮겨 두자는 말이 나와, 열눌과 꽃닌ㅸ온 구역을 다시 나누어 적었다.","Moreover, someone suggested moving the labels of the growing-ground pots as well, so we rewrote the ripe-fruit and flower-bud sections separately.",,
+SN-LF3-011,longform_narrative,dorm_night,나는 빌나 마지막 장 아래에 작은 표식을 하나 더 그리고서야 책을 덮었다.,Only after drawing one more small mark under the last request-content did I close the book.,,
+SN-LF3-012,longform_narrative,dorm_night,잠들기 직전까지도 알돈ㅸ앙 전체 안내도와 고치돈 창구 위치가 머릿속에서 천천히 겹쳐졌다.,"Until just before falling asleep, the full campus-complex map and the position of the repair-place counter slowly overlapped in my head.",,
+SN-LF3-013,longform_narrative,dorm_night,"그 밤은 조용했지만, 조용해서 더 많은 말나ㅿ은이 마음속에서 움직였다.","That night was quiet, but because it was quiet, even more discourse-flow moved inside my mind.",,
+SN-LF3-014,longform_narrative,dorm_night,새벽 가까이 되자 물리ㆍ르 소리가 멀리서 길게 들어와 모든 생각을 한 번에 눕혀 놓았다.,Near dawn the sound of the watercourse came in from afar and laid all thoughts down at once.,,
+SN-LF3-015,longform_narrative,dorm_night,"다음 날 아침을 생각하며 눈을 감을 때, 내 지나 맨 위에는 늘 빌나가 놓여 있다는 사실이 조금 우스웠다.","As I closed my eyes thinking of the next morning, it felt faintly absurd that there was always a request-content lying at the top of my carried load.",,
+SN-LF3-016,longform_narrative,dorm_night,"그렇지만 바로 그 반복 덕분에, 알돈ㅸ앙은 더 이상 낯선 곳이 아니라 천천히 외워지는 장면이 되었다.","Yet precisely because of that repetition, the campus-complex had become not a strange place but a scene being slowly memorized.",,longform text 3 end
+SN-LF4-001,longform_dialogue,service_counter,"손님, 오늘은 빌나가 많아서 접수 순서가 조금 늦어집니다.","Sir/Ma'am, today there are many request-contents, so the registration order is running a little late.",,longform text 4 start
+SN-LF4-002,longform_dialogue,service_counter,괜찮습니다. 그동안 알나칼ㅸ온을 읽고 기다리면 되겠지요?,"That is fine. In the meantime I can read the textbook and wait, right?",,
+SN-LF4-003,longform_dialogue,service_counter,"네, 그렇게 하셔도 됩니다. 다만 지나가 크면 안쪽 벽 아래에 두시는 편이 좋습니다.","Yes, that is fine. However, if your carried load is large, it is better to place it under the inner wall.",,
+SN-LF4-004,longform_dialogue,service_counter,말파ㅸ온 칸에는 제 이름과 지도교수 이름을 같이 적어야 하나요?,"In the speaker/source field, should I write both my name and my advisor's name?",,
+SN-LF4-005,longform_dialogue,service_counter,"본인 진술이면 이름만 적으셔도 되고, 남의 말을 옮기시면 출처도 함께 적어디온.","If it is your own statement, just your name is fine, and if you are relaying someone else's words, please write the source as well.",,polite HON with instruction
+SN-LF4-006,longform_dialogue,service_counter,"보나ㅸ앙 열람 신청도 같이 냈는데, 그건 어디에서 확인하나요?",I also submitted an application for visual archive access; where do I check that?,,
+SN-LF4-007,longform_dialogue,service_counter,복도 끝 알나ㅸ앙 안쪽 데스크에서 확인하디온. 필요하시면 안내도도 한 장 드리디온.,"Please check at the inner desk of the library at the end of the corridor. If you need one, I will also give you a guide map.",,polite service doubling
+SN-LF4-008,longform_dialogue,service_counter,"오늘 비가 와서 동문 쪽 불ㅿ은이 낮던데, 그 길로 가도 괜찮을까요?",It rained today so the smoke near the east gate is low; is it okay to go that way?,,
+SN-LF4-009,longform_dialogue,service_counter,"지금은 많이 옅어졌지만, 물ㅸ앙 옆은 아직 미끄러우니 북쪽 길로 돌아가디온.","It has thinned considerably now, but the area beside the pond is still slippery, so please go around by the north path.",,polite warning
+SN-LF4-010,longform_dialogue,service_counter,제 기록은 나중에 쓰나눌로만 남는 건 아니지요?,"My record will not later remain only as written residue, right?",,
+SN-LF4-011,longform_dialogue,service_counter,"아닙니다. 원기록은 쓰나ㅸ앙에 보관하고, 배부본만 쓰나눌로 남기디온.","No. The original record is kept in the document repository, and only the distributed copy is left as written residue.",,polite clarification
+SN-LF4-012,longform_dialogue,service_counter,감사합니다. 그럼 빌나를 먼저 다 쓰고 다시 여쭐게요.,Thank you. Then I will finish writing the request-content first and ask again.,,
+SN-LF4-013,longform_dialogue,service_counter,천천히 하디온. 오늘은 알돈ㅸ앙 전체에서 사람이 몰려서 조금 붐비디온.,"Please take your time. Today the whole campus-complex is crowded, so it is a little busy.",,polite background explanation
+SN-LF4-014,longform_dialogue,service_counter,알겠습니다. 기다리는 동안 먹돈 쪽에 다녀와도 되나요?,"Understood. While waiting, may I go over to the dining place?",,
+SN-LF4-015,longform_dialogue,service_counter,"네, 다녀오셔도 됩니다. 다만 순서가 오면 말파ㅸ온 이름으로 부르디온.","Yes, you may go. However, when your turn comes we will call you by the name in the speaker/source field.",,polite queue instruction
+SN-LF4-016,longform_dialogue,service_counter,그럼 금방 다녀오겠습니다. 지나는 여기 그대로 두어도 괜찮겠지요?,"Then I will be right back. It should be okay to leave the carried load here as it is, right?",,longform text 4 end
+SO-LF5-001,longform_narrative,rain_patrol,"새벽 비가 그친 뒤, 관리팀 둘은 알돈ㅸ앙 동쪽 길부터 천천히 돌기 시작했다.","After the dawn rain stopped, two members of the facilities team began slowly making rounds from the east road of the campus-complex.",,Text G start
+SO-LF5-002,longform_narrative,rain_patrol,"밤새 낮게 깔렸던 불ㅿ은은 많이 옅어졌지만, 물ㅸ앙 옆 바닥은 아직 젖어 있었다.","The smoke that had lain low all night had grown faint, but the ground beside the pond was still wet.",,
+SO-LF5-003,longform_narrative,rain_patrol,한 사람은 지나에서 접은 빌나 몇 장과 점검표를 꺼내 오늘 순서를 다시 맞췄다.,One of them took several folded request-contents and a check sheet from the carried load and rearranged the order for the day.,,
+SO-LF5-004,longform_narrative,rain_patrol,다른 사람은 말파ㅸ온이 비어 있는 공지문이 있는지부터 확인하자고 했다.,The other said they should first check whether there were notices with the speaker/source field left blank.,,
+SO-LF5-005,longform_narrative,rain_patrol,"복도 끝 알나ㅸ앙 문은 조금 일찍 열려 있었고, 안쪽에는 알나닌ㅸ온 상자 둘이 그대로 남아 있었다.","The library at the end of the corridor was open a little early, and two boxes of undeciphered documents were still inside.",,
+SO-LF5-006,longform_narrative,rain_patrol,"어제 쓰나ㅸ앙으로 옮기지 못한 종이들이 있어서, 그들은 먼저 분류표를 다시 읽었다.","Because there were papers they had not managed to move to the document repository yesterday, they reread the sorting chart first.",,
+SO-LF5-007,longform_narrative,rain_patrol,"사본은 쓰나눌로, 사진은 보나ㅸ앙으로, 원본 설명문은 다시 알나칼ㅸ온 참고 뒤에 고쳐 적기로 했다.","They decided to send copies to written residue, photographs to the visual archive, and the original captions to be rewritten after consulting the textbook again.",,
+SO-LF5-008,longform_narrative,rain_patrol,"동문 쪽 계단에서는 빛ㅿ은이 물기 위에서 길게 흔들려, 마치 보나눌 같은 잔상을 잠깐 남겼다.","On the stairway near the east gate, the path of light trembled long across the wet surface, briefly leaving something like an afterimage.",,listed-exception contextual use
+SO-LF5-009,longform_narrative,rain_patrol,하지만 누구도 그 장면을 오래 보지 못했다. 먹돈 쪽 끓이돈 소리가 곧 복도 전체를 채웠기 때문이다.,"But no one could keep looking at the scene for long, because the kitchen sounds from the dining place soon filled the whole corridor.",,
+SO-LF5-010,longform_narrative,rain_patrol,점검표 첫 줄에는 자라돈 화분 정리와 열눌 구역 재표기가 적혀 있었다.,The first line of the inspection sheet called for arranging the growing-ground pots and relabeling the ripe-fruit section.,,
+SO-LF5-011,longform_narrative,rain_patrol,"꽃닌ㅸ온 구획은 밤새 바람에 뒤집힌 이름표가 많아서, 둘은 하나씩 다시 꽂아 두었다.","The flower-bud section had many labels flipped over by the wind during the night, so the two of them reset them one by one.",,
+SO-LF5-012,longform_narrative,rain_patrol,"되도 고치돈 쪽 안내문도 함께 갈아야 한다는 말이 나와, 길 끝 창구까지 한 번 더 걸었다.","Moreover, someone said the notices near the repair place also needed changing, so they walked once more to the counter at the end of the hall.",,
+SO-LF5-013,longform_narrative,rain_patrol,"창구 옆에는 전날 남겨 둔 빌나 뭉치가 그대로 있었고, 지나 하나가 의자 밑으로 밀려 들어가 있었다.","Beside the counter, the bundle of request-contents left there the previous day remained as it was, and one carried load had slipped beneath a chair.",,
+SO-LF5-014,longform_narrative,rain_patrol,"그들은 먼저 말파ㅸ온 칸을 채운 뒤, 알돈ㅸ앙 북쪽 안내도와 실제 길이 어긋난 부분을 연필로 표시했다.","They first filled in the speaker/source field, then marked in pencil the places where the north campus map and the actual road no longer matched.",,
+SO-LF5-015,longform_narrative,rain_patrol,"한 학생이 와서 보나ㅸ앙 열람 시간이 바뀌었냐고 묻자, 둘 중 하나가 오늘은 조금 늦어진다고 설명했다.","When a student came and asked whether visual archive access hours had changed, one of the two explained that it would start a little late today.",,
+SO-LF5-016,longform_narrative,rain_patrol,"말나ㅿ은은 길지 않았지만, 아침 공기가 차서인지 말나ㆍ르처럼 같은 문장이 몇 번 되돌아왔다.","The flow of conversation was not long, but perhaps because the morning air was cold, the same sentence returned several times like a refrain.",,
+SO-LF5-017,longform_narrative,rain_patrol,정오 가까이 되자 물리ㆍ르 냄새와 먹돈 냄새가 함께 올라와 알돈ㅸ앙 전체가 천천히 데워지는 듯했다.,"Near noon, the smell of the watercourse and the dining place rose together, and it felt as if the whole campus-complex were slowly warming.",,
+SO-LF5-018,longform_narrative,rain_patrol,그때서야 어젯밤 미뤄 둔 보나ㅸ앙 안쪽 상자도 결국 열어야 한다는 결정이 내려졌다.,Only then was the decision made that the inner visual-archive boxes postponed last night would have to be opened after all.,,
+SO-LF5-019,longform_narrative,rain_patrol,"상자 안에는 쓰나ㅿ은 기록과 전시 설명 원고가 섞여 있었고, 알파ㅸ온 메모도 몇 장 끼어 있었다.","Inside the boxes were mixed publication-channel records and exhibition drafts, with several notes from the teacher tucked in as well.",,
+SO-LF5-020,longform_narrative,rain_patrol,둘은 설명문 순서를 다시 정리하며 빌나 맨 아래에 있던 오래된 표지를 따로 빼 두었다.,"As they rearranged the order of the captions, they set aside an old label that had been at the bottom of the request-contents.",,
+SO-LF5-021,longform_narrative,rain_patrol,"그 종이에는 이미 지워진 말파ㅸ온 흔적이 남아 있어, 누가 처음 적었는지 알 수 없었다.","On that paper remained traces of a speaker/source field already erased, so it was impossible to tell who had first written it.",,
+SO-LF5-022,longform_narrative,rain_patrol,"한 사람은 그 흔적이 보나눌처럼 눈에 걸린다고 말했지만, 다른 사람은 웃고만 말았다.","One person said the trace snagged in the eye like an afterimage, but the other only laughed.",,listed-exception contextual use
+SO-LF5-023,longform_narrative,rain_patrol,"오후가 깊어질 무렵, 알나ㅸ앙 앞 길은 다시 조용해졌고 지나들도 하나둘 주인을 찾아갔다.","By late afternoon, the road in front of the library grew quiet again, and one by one the carried loads found their owners.",,
+SO-LF5-024,longform_narrative,rain_patrol,마지막 점검은 동문 쪽 불ㅿ은과 물ㅸ앙 가장자리였다.,The final inspection concerned the east-gate smoke and the edge of the pond.,,
+SO-LF5-025,longform_narrative,rain_patrol,"모든 표식을 마치고 나자, 두 사람은 이제 알돈ㅸ앙을 눈으로 외우게 되었다고 거의 동시에 말했다.","Once all the markings were done, the two of them said almost at the same time that they had now begun to memorize the campus-complex with their eyes.",,Text G end
+SO-LF6-001,longform_dialogue,archive_desk,안녕하세요. 오늘 보나ㅸ앙 열람과 알나ㅸ앙 자료 대출을 같이 하려고 왔습니다.,Hello. I came today to use the visual archive and borrow library materials together.,,Text H start
+SO-LF6-002,longform_dialogue,archive_desk,"네, 어서 오디온. 먼저 빌나를 쓰시고 지나는 오른쪽 선반 아래에 두시디온.","Yes, welcome. Please write the request-content first and place the carried load under the shelf on the right.",,HON anchor
+SO-LF6-003,longform_dialogue,archive_desk,"말파ㅸ온 칸에는 제 이름만 적으면 되나요, 아니면 지도교수 이름도 함께 적어야 하나요?","In the speaker/source field should I write only my name, or do I need to add my advisor's name as well?",,
+SO-LF6-004,longform_dialogue,archive_desk,본인 진술이면 이름만 적으셔도 됩니다. 남의 말을 옮기시면 출처도 함께 적어디온.,"If it is your own statement, just your name is enough. If you are relaying someone else's words, please also write the source.",,HON explanation
+SO-LF6-005,longform_dialogue,archive_desk,오늘은 사람이 많은가요? 복도 쪽 말나ㅿ은이 생각보다 크네요.,Are there many people today? The flow of conversation in the corridor is louder than I expected.,,
+SO-LF6-006,longform_dialogue,archive_desk,"네, 알돈ㅸ앙 전체에서 전시 안내와 고치돈 공지가 함께 나가서 조금 붐비디온.","Yes, because both the exhibition guide and the repair-place notice went out across the whole campus-complex, it is a bit crowded.",,HON background
+SO-LF6-007,longform_dialogue,archive_desk,그럼 기다리는 동안 알나칼ㅸ온을 조금 읽고 있어도 괜찮을까요?,"Then while I wait, would it be alright if I read the textbook a little?",,
+SO-LF6-008,longform_dialogue,archive_desk,괜찮디온. 다만 안쪽 자리에 앉으시면 알나닌ㅸ온 상자를 옮길 때 방해가 덜 됩니다.,"That is fine. However, if you sit at an inner seat, you will interfere less when we move the boxes of undeciphered documents.",,HON procedural
+SO-LF6-009,longform_dialogue,archive_desk,보나ㅸ앙 안쪽에는 사진만 있나요? 어제는 쓰나ㅸ앙 자료도 조금 있다고 들었습니다.,Are there only photographs inside the visual archive? Yesterday I heard there were also some document-repository materials.,,
+SO-LF6-010,longform_dialogue,archive_desk,"사진이 중심이지만, 전시 설명에 필요한 쓰나ㅿ은 기록과 사본은 일부 함께 두디온.","Photographs are central, but we also keep some publication-channel records and copies needed for the exhibition captions together.",,HON explanatory
+SO-LF6-011,longform_dialogue,archive_desk,제 기록은 나중에 쓰나눌로만 남는 건 아니지요?,"My record will not later remain only as written residue, right?",,
+SO-LF6-012,longform_dialogue,archive_desk,"아닙니다. 원기록은 쓰나ㅸ앙에 보관하고, 배부용 정리본만 쓰나눌로 남기디온.","No. The original record is kept in the document repository, and only the handout summary is left as written residue.",,HON clarification
+SO-LF6-013,longform_dialogue,archive_desk,"밖에 비가 다시 오는 것 같던데, 동문 길로 돌아가도 괜찮을까요?",It seems to be raining outside again; would it be alright to return by the east-gate path?,,
+SO-LF6-014,longform_dialogue,archive_desk,"지금은 불ㅿ은이 많이 옅어졌지만, 물ㅸ앙 옆은 미끄러우니 북쪽 길로 돌아가디온.","The smoke has grown much thinner now, but the area beside the pond is slippery, so please go around by the north path.",,HON warning
+SO-LF6-015,longform_dialogue,archive_desk,알겠습니다. 혹시 먹돈 쪽에 다녀오는 동안 순서가 오면 어떻게 하나요?,"Understood. If my turn comes while I am over at the dining place, what happens?",,
+SO-LF6-016,longform_dialogue,archive_desk,"괜찮디온. 순서가 오면 말파ㅸ온 이름으로 한 번 부르고, 안 계시면 잠시 뒤 다시 부르디온.","That is fine. When your turn comes, we call once by the name in the speaker/source field, and if you are not present we call again after a short while.",,HON queue management
+SO-LF6-017,longform_dialogue,archive_desk,그러면 지나만 여기 두고 잠깐 다녀와도 되겠네요.,Then I can just leave the carried load here and step out for a moment.,,
+SO-LF6-018,longform_dialogue,archive_desk,"네, 다만 통로를 막지 않게 선반 안쪽으로 조금 더 밀어 두시디온.","Yes, but please push it a bit farther inside the shelf so it does not block the passage.",,HON imperative/polite
+SO-LF6-019,longform_dialogue,archive_desk,감사합니다. 어제 유리 위에 남은 빛이 보나눌처럼 오래 남아서 아직도 기억에 걸려 있습니다.,"Thank you. Yesterday the light left on the glass remained like an afterimage for a long time, and it is still caught in my memory.",,listed-exception in polite dialogue
+SO-LF6-020,longform_dialogue,archive_desk,그럴 때가 있디온. 전시실 불빛은 저녁이 되면 유리마다 다르게 남기디온.,That happens sometimes. By evening the exhibition lights remain differently on each pane of glass.,,HON + listed-exception-adjacent context
+SO-LF6-021,longform_dialogue,archive_desk,오늘도 안쪽 보나ㅸ앙 유리에는 빛ㅿ은이 길게 남았나요?,Has a long path of light remained on the inner visual-archive glass today too?,,
+SO-LF6-022,longform_dialogue,archive_desk,조금 남았디온. 다만 지금은 사람들이 많아 먼저 빌나부터 처리하는 편이 낫디온.,"A little remains. However, because there are many people now, it is better to process the request-contents first.",,HON prioritization
+SO-LF6-023,longform_dialogue,archive_desk,"네, 그럼 제가 알나칼ㅸ온을 읽고 있는 동안 차례가 오면 불러 주세요.","Yes, then please call me when my turn comes while I am reading the textbook.",,
+SO-LF6-024,longform_dialogue,archive_desk,"알겠디온. 천천히 보시고, 필요하시면 알파ㅸ온 확인도 함께 도와디온.","Understood. Please take your time looking, and if needed I can also help with confirmation from the teacher.",,HON assistance
+SO-LF6-025,longform_dialogue,archive_desk,고맙습니다. 오늘은 접수대 말나ㅿ은까지도 이상하게 차분해서 오래 기억에 남을 것 같네요.,"Thank you. Today even the flow of conversation at the desk feels strangely calm, so I think it will stay in memory for a long time.",,Text H end
