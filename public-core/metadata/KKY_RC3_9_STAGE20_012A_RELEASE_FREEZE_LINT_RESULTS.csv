@@ -1,0 +1,14 @@
+check_id,status,blocking,detail
+DELTA_REVIEW_PASS_PRESENT,PASS,TRUE,Delta review report contains DELTA_REVIEW_PASS verdict.
+Q005_LEARNER_IDS_PRESENT_THRESHOLD_10,PASS,TRUE,"Required learner-facing IDs present: RC3-0011, RC3-0038a, RC3-0098, RC3-0107, RC3-0118, RC3-0125, RC3-0134, RC3-0144, RC3-0155, RC3-0157"
+Q009_RC3_0035_LABEL_PRESENT,PASS,TRUE,RC3-0035 label inserted before valency/POT example.
+Q009_RC3_0028_LABEL_PRESENT_IN_RESIDUAL_BLOCKS,PASS,TRUE,RC3-0028 label occurrences in canonical grammar: 3.
+Q003_CORE_ZERO_FOR_FRC_HOST_EXPLICIT,PASS,TRUE,§4.1a.1 explicitly states core ∅ shown as NP-∅=겨 in analytic notation.
+Q010_EDGE_HON_DU_DECL_LIMIT_INDEXED,PASS,TRUE,Appendix A =헌/=두 rows carry DECL-limited attestation note.
+COUNT_EXAMPLE_BANK_ROWS,PASS,TRUE,example_bank_rows=177 expected=177
+COUNT_NEGATIVE_APPENDIX_ROWS,PASS,TRUE,negative_appendix_rows=63 expected=63
+COUNT_RELATIVE_HEAD_MATRIX_ROWS,PASS,TRUE,relative_head_matrix_rows=10 expected=10
+COUNT_TEXT_REVERSE_REGISTRATION_ROWS,PASS,TRUE,text_reverse_registration_rows=14 expected=14
+COUNT_PUBLIC_MINIMAL_LEXICON_ROWS,PASS,TRUE,public_minimal_lexicon_rows=43 expected=43
+LEARNER_PUBLIC_CORE_WORKFLOW_TOKEN_SCAN,PASS,TRUE,Forbidden workflow tokens in learner-facing MD: 0 hits
+SOURCE_ZIPS_PRESENT,PASS,TRUE,011C targeted source zip and 012 delta review package included for traceability.
