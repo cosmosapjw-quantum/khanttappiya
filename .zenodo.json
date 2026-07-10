@@ -1,0 +1,33 @@
+{
+  "creators": [
+    {
+      "name": "Park, Jiwon",
+      "type": "ProjectMember"
+    }
+  ],
+  "title": "Kkanttappiya RC3.9 Public-Core Grammar, Examples, and Lexicon Release",
+  "version": "RC3.9",
+  "description": "A frozen, externally reviewed release of the Kkanttappiya RC3.9 public core, including grammar, examples, diagnostics, a relative-head matrix, connected-text registration, and a minimal lexicon.",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "upload_type": "dataset",
+  "language": "kor",
+  "keywords": [
+    "Kkanttappiya",
+    "깐따삐야어",
+    "constructed language",
+    "reference grammar",
+    "language corpus",
+    "ergative-absolutive",
+    "interlinear glossed text",
+    "Korean script",
+    "linguistic documentation"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/cosmosapjw-quantum/khanttappiya",
+      "relation": "isSupplementTo",
+      "resource_type": "other"
+    }
+  ]
+}
