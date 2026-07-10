@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "이 자료를 사용할 때 아래 릴리스를 인용해 주세요."
+type: dataset
+title: "깐따삐야어 RC3.9 공개핵 문법·예문·어휘 릴리스 (Kkanttappiya RC3.9 Public-Core Grammar, Examples, and Lexicon Release)"
+authors:
+  - family-names: "Park"
+    given-names: "Jiwon"
+version: "RC3.9"
+date-released: "2026-07-10"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/cosmosapjw-quantum/khanttappiya"
+url: "https://github.com/cosmosapjw-quantum/khanttappiya"
+abstract: >-
+  A frozen, externally reviewed release of the Kkanttappiya RC3.9 public core. It includes the canonical and learner grammars, a 177-row example bank, a 63-row negative diagnostic appendix, a 10-row relative-head strategy matrix, 14 reverse-registered connected-text sentences, a 43-row public minimal lexicon, and review/provenance metadata. The repository publication overlay applies CC BY 4.0 without changing the frozen linguistic payload.
+keywords:
+  - "Kkanttappiya"
+  - "깐따삐야어"
+  - "constructed language"
+  - "reference grammar"
+  - "language corpus"
+  - "ergative-absolutive"
+  - "interlinear glossed text"
+  - "Korean script"
+  - "linguistic documentation"
+identifiers:
+  - type: other
+    value: "KKY-RC3.9-STAGE20-012A-RELEASE-FREEZE"
+    description: "Local immutable release identifier; DOI pending external archive deposit."
