@@ -1,0 +1,38 @@
+{
+  "record_id": "KKY-RC3.9-STAGE20-014-GITHUB-CC-BY-PUBLICATION",
+  "release_id": "KKY-RC3.9-STAGE20-012A-RELEASE-FREEZE",
+  "title": {
+    "ko": "깐따삐야어 RC3.9 공개핵 문법·예문·어휘 릴리스",
+    "en": "Kkanttappiya RC3.9 Public-Core Grammar, Examples, and Lexicon Release"
+  },
+  "creator": [
+    {
+      "name": "박지원",
+      "name_latin": "Park, Jiwon",
+      "role": "Creator"
+    }
+  ],
+  "version": "RC3.9",
+  "issued": "2026-07-10",
+  "language": ["ko", "en"],
+  "resource_type": "Dataset / language documentation release",
+  "status": "FROZEN_EXTERNAL_REVIEW_PASS_GITHUB_PUBLICATION_OVERLAY",
+  "archive_status": "GITHUB_REPOSITORY_INITIALIZED_RELEASE_TAG_AND_DOI_PENDING",
+  "repository_url": "https://github.com/cosmosapjw-quantum/khanttappiya",
+  "rights_status": "OPEN_CC_BY_4_0",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "persistent_identifier": null,
+  "counts": {
+    "example_bank_rows": 177,
+    "negative_appendix_rows": 63,
+    "relative_head_matrix_rows": 10,
+    "text_reverse_registration_rows": 14,
+    "public_minimal_lexicon_rows": 43
+  },
+  "immutability_policy": "Do not modify RC3.9 frozen payload. Any content change requires a new version and Git tag.",
+  "created_at_utc": "2026-07-10T12:00:00Z"
+}
