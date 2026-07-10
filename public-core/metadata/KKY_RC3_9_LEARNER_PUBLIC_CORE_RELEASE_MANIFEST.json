@@ -1,0 +1,25 @@
+{
+  "release_id": "KKY-RC3.9-STAGE20-012A-LEARNER-PUBLIC-CORE",
+  "created_at_utc": "2026-07-10T00:00:00Z",
+  "status": "FROZEN_PUBLIC_CORE",
+  "counts": {
+    "example_bank_rows": 177,
+    "negative_appendix_rows": 63,
+    "relative_head_matrix_rows": 10,
+    "text_reverse_registration_rows": 14,
+    "public_minimal_lexicon_rows": 43
+  },
+  "files": [
+    {"path": "README.md", "bytes": 128, "sha256": "77098828549e5ad9315580daf97d1889aec009a16ef14e349e5536a6fadf7abe"},
+    {"path": "examples/KKY_RC3_9_EXAMPLE_BANK.csv", "bytes": 57720, "sha256": "229c9fb52195be637108e02e5c835c72e41dcee32209d53425e0477adc91556e"},
+    {"path": "examples/KKY_RC3_9_NEGATIVE_APPENDIX.csv", "bytes": 24172, "sha256": "fb2c995e64a048e35fe85946680791eb36c5b1d25145eac355e5f4df4465e313"},
+    {"path": "grammar/KKY_RC3_9_LEARNER_PUBLIC_GRAMMAR.md", "bytes": 6337, "sha256": "8df7b708c36726f52ca18fda44a6080116d65a167c1f897366093fb2e0b251c3"},
+    {"path": "grammar/KKY_RC3_9_QUICK_REFERENCE.md", "bytes": 1024, "sha256": "9897f1bd8b71808d06ae790be9ba9311a15f42f3df6b7f2b901c7ea012b9b60f"},
+    {"path": "grammar/KKY_RC3_9_RELATIVE_HEAD_STRATEGY_TABLE.md", "bytes": 1084, "sha256": "8a54a37a26d839fb30a20b55593003e285e010850e6713f33cb96ed494997cc1"},
+    {"path": "lexicon/KKY_RC3_9_PUBLIC_MINIMAL_LEXICON.csv", "bytes": 2410, "sha256": "2cdae08d1832ab61f543ee92831ec3e8a1c2ec1f3f05f41d5468c65c8a2dac11"},
+    {"path": "metadata/KKY_RC3_9_DUPLICATE_ALIAS_REGISTRY.csv", "bytes": 392, "sha256": "6d69fcdf6950cb826e8bce7b7caca5fe5febe50a742af94cc25b32f30187ef87"},
+    {"path": "metadata/KKY_RC3_9_RELATIVE_HEAD_MATRIX.csv", "bytes": 4870, "sha256": "b0f4cef91e4f57d9e283ef08ca902ae3fc6c5697ce1f389e17c7cd73175eb909"},
+    {"path": "metadata/KKY_RC3_9_STAGE20_012A_RELEASE_FREEZE_LINT_RESULTS.csv", "bytes": 1383, "sha256": "ccc10c86181c5fce2e7bc688dfedcc5c08665eaff5dadb40ed2ff50028062a17"},
+    {"path": "texts/KKY_RC3_9_TEXT_REVERSE_REGISTRATION.csv", "bytes": 5259, "sha256": "15e78344b06546af8fa1838c9005b0cc7db4b410ef69dc1e0fbcf3282c20d841"}
+  ]
+}
