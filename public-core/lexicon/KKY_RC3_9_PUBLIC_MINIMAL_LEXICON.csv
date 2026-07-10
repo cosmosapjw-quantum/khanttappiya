@@ -1,0 +1,44 @@
+form,category,gloss,meaning_ko,meaning_en
+믈둠,DERIVED_NOUN,WATER-STORE,고인 물,stored water
+길,NOUN,PATH,길,path
+믈,NOUN,WATER,물,water
+사름,NOUN,PERSON,사람,person
+슌,NOUN,SUN,해,sun
+치세,NOUN,HOUSE,집,house
+-들,NUMBER_SUFFIX,PL,"복수, 주로 유정·사회 집합","plural, primarily animate/social sets"
+따라,PATH_RELATOR,ALONG,"따라, 경로를 따라서",along/following a path
+시눔,PRONOUN,3SG,3인칭 단수/재개 대명사,third person singular / resumptive pronoun
+에안,PRONOUN,2SG,2인칭 단수,second person singular
+에초카,PRONOUN,2PL,2인칭 복수,second person plural
+오카,PRONOUN,3PL,3인칭 복수,third person plural
+초카,PRONOUN,1PL,1인칭 복수,first person plural
+쿠안,PRONOUN,1SG,1인칭 단수,first person singular
+아누,PROPER_NAME,PN,예문용 인명,example personal name
+누카라굳믓,PUBLIC_CORE_NOUN_OR_DERIVED,SEE-CONDENSE-SINK,"그림/영상, 고정된 시각 잔류물","picture/image, fixed visual residue"
+밀-,ROOT,PUSH,밀다/밀어내다(동사 한정),push (verb only)
+벗,PUBLIC_CORE_NOUN_OR_DERIVED,FRIEND,"친구, 벗",friend/companion
+아이,PUBLIC_CORE_NOUN_OR_DERIVED,CHILD,"아이, 어린 사람",child
+에라만담굳둠,PUBLIC_CORE_NOUN_OR_DERIVED,KNOW-CONTENT-CONDENSE-STORE,책/지식 저장물,book/knowledge store
+열믓,PUBLIC_CORE_NOUN_OR_DERIVED,OPEN-SINK,열매/과실,fruit
+열실,PUBLIC_CORE_NOUN_OR_DERIVED,OPEN-PATH,"문/입구, 여닫는 길",door/opening path
+이베담,PUBLIC_CORE_NOUN_OR_DERIVED,EAT-CONTENT,음식/먹을 것,"food, edible content"
+버여,REFLEXIVE_NOUN,SELF,자기,self
+안,RELATION_NOUN,IN,"안, 내부","inside, interior"
+걸,ROOT,WALK/GO,걷다/가다,walk/go
+게훈,ROOT,BRIGHT,밝다,bright
+누카라,ROOT,SEE,보다,see
+메안,ROOT,COLD,차갑다,cold
+슷,ROOT,WASH,씻다,wash
+열,ROOT,OPEN,열다,open
+웨일,ROOT,MAKE/SET,만들다/세우다,make/set
+이베,ROOT,EAT,먹다,eat
+코레,ROOT,GIVE,주다,give
+헨두,ROOT,SAY,말하다,say
+에라만,ROOT,KNOW,알다,know
+테,NOUN,HAND,손,hand
+므겁,ROOT,HEAVY,무겁다,heavy
+헨두담,DERIVED_NOUN,SAY-CONTENT,말해진 내용/메시지,said content/message
+아지게,ROOT,SMALL,작다/작은,small
+마사름,WH.PERSON,WH.PERSON,누가/누구,who
+마담,WH.CONTENT,WH.CONTENT,무엇/어떤 내용,what/which content
+마테,WH.LOC,WH.LOC,어디/어느 위치,where/which location
